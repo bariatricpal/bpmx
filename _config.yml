@@ -50,7 +50,7 @@ exclude:
 - package.json
 - node_modules
 - gulpfile.js
-copyright: "© Copyright current_year BariatricPal Hospital MX."
+copyright: "© Copyright current_year BariatricPal MX LLC."
 menu:
   wls: BariatricPal Hospital MX's patient care team goes above and beyond anyone else.
   plastics: BariatricPal Hospital MX's patient care team goes above and beyond anyone

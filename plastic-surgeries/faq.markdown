@@ -1,17 +1,16 @@
 ---
 title: Plastic Surgery FAQ
 position: 8
-layout: default
 faqs:
 - question: How long is the wait for an appointment for consultation?
-  answer: A Consultation appointment at Plastica Tijuana Surgery can be made by phone,
-    email or thru our web site. The Waiting time it’s about a week.
+  answer: A Consultation appointment can be made by phone, email or thru our web site.
+    The Waiting time is about one week.
 - question: How long does it take to schedule surgery, if I elect to have a procedure?
-  answer: Scheduling a surgery procedure can be made by our web site, email or phone.
+  answer: Scheduling a surgery procedure can be made via our web site, email or phone.
     Blood work, cardiologist evaluation, EKG, anesthesiologist pre-surgical evaluation
     and our surgical planning are done prior to scheduling your surgery. Remember
-    that we are a safety first surgical team. A 200 usd deposit is required to schedule
-    surgery date. Scheduling wait for a surgery it’s two weeks.
+    that we are a safety first surgical team. A $1000 deposit is required to schedule
+    surgery date.
 - question: How does a doctor become Board Certified?
   answer: |-
     By choosing a plastic surgeon who is board certified by The Mexican Board of Plastic, Aesthetic and Reconstructive Surgery, you can be assured that the doctor has graduated from an accredited medical school and has completed at least five years of additional training as a resident surgeon in a program accredited by the Accreditation Council for Medical Education. This includes a minimum of five years of residency training in all areas of surgery, including at least two years devoted entirely to plastic surgery. Certification is a voluntary process a surgeon seeks after this training. To become certified, the doctor then must pass comprehensive written and oral exams.
@@ -116,6 +115,7 @@ faqs:
     phone, etc. If you are interested in having a consult in person and you live faraway,
     we have $250 dollar package that includes transportation and hotel for one day,
     $300 for two nights.
+layout: default
 ---
 
 <div class='wrap'>

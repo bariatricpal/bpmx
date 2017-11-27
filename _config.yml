@@ -1,0 +1,59 @@
+---
+title: BariatricPal Hospital MX
+timezone: UTC
+collections:
+  plastic-surgeries:
+    title: Plastic Surgeries
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  weight-loss-surgeries:
+    title: Weight Loss Surgeries
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: plastic-surgeries
+  values:
+    layout: surgery
+    surgery_types:
+    - description: Fill in description
+      price: "$0.00"
+- scope:
+    path: ''
+    type: weight-loss-surgeries
+  values:
+    layout: surgery
+    surgery_types:
+    - description: Fill in description
+      price: "$0.00"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+assetpath: "/assets/"
+exclude:
+- ".assets-cache"
+- ".sass-cache"
+- ".gitignore"
+- README*
+- Gemfile
+- Gemfile.lock
+- bower.json
+- bower_components
+- package.json
+- node_modules
+- gulpfile.js
+copyright: "© Copyright current_year BariatricPal Hospital MX."
+menu:
+  wls: BariatricPal Hospital MX's patient care team goes above and beyond anyone else.
+  plastics: BariatricPal Hospital MX's patient care team goes above and beyond anyone
+    else.
+  testimonials: Hear what satisfied patients say about BariatricPal Hospital MX and
+    Staff

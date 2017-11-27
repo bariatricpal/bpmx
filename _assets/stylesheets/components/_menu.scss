@@ -1,0 +1,151 @@
+.menu {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  border-top: 1px solid rgba($pal-black, 0.1);
+
+  @include respond-max($screen-sm-max) {
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: block;
+    width: 260px;
+    height: 100%;
+    padding: 32px 20px;
+    background: rgba($pal-gray100, 0.5);
+    transform: translateX(260px) translateY(0);
+    font-size: $fontSize-smaller;
+  }
+}
+
+.menu-link {
+  position: relative;
+  display: table-cell;
+  padding-top: 5px;
+  text-align: center;
+
+  > a {
+    display: block;
+    padding: 15px 0 20px 0;
+    margin-bottom: -1px;
+    border-radius: $borderRadius-base;
+    color: $pal-black;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  &:hover > a {
+    background-color: darken($pal-gray90, 5%);
+    color: $pal-gray20;
+  }
+
+  @include respond-max($screen-sm-max) {
+    display: block;
+    width: 100%;
+    padding: 0;
+    border-radius: 0;
+    border-bottom: 1px solid rgba($pal-black, 0.1);
+    text-align: left;
+
+    > a {
+      padding: 15px;
+    }
+
+    &:hover > a {
+      background-color: transparent;
+    }
+  }
+}
+
+.menu-dropdown {
+  position: absolute;
+  top: 95%;
+  left: -5%;
+  display: none;
+  min-width: 290px;
+  border: 1px solid rgba($pal-black, 0.1);
+  border-radius: $borderRadius-base;
+  background-color: $pal-white;
+  box-shadow: 0 1px 2px rgba($pal-black, 0.25);
+  text-align: left;
+
+  .menu-link:hover & {
+    display: block;
+  }
+
+  & + a:after {
+    content: '';
+    @include triangle(4px, $pal-black, down);
+    display: inline-block;
+    margin: 0 0 3px 15px;
+  }
+
+  @include respond-max($screen-sm-max) {
+    position: static;
+    display: block;
+    min-width: 100%;
+    border: 0;
+    border-radius: 0;
+    background-color: transparent;
+    box-shadow: none;
+  }
+}
+
+
+.menu-dropdownLink {
+  position: relative;
+  border-bottom: 1px solid rgba($pal-black, 0.1);
+  font-size: $fontSize-small;
+
+  > a {
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  > a:after {
+    content: '';
+    @include triangle(4px, $pal-green, right);
+    display: block;
+    float: right;
+    margin-top: 7px;
+  }
+
+  @include respond-max($screen-sm-max) {
+    border-bottom: 0;
+    border-top: 1px solid rgba($pal-black, 0.1);
+    font-size: $fontSize-smaller;
+
+    &:first-child {
+      border-top: 0;
+    }
+
+    > a {
+      padding: 15px;
+      color: $pal-black;
+    }
+
+    > a:after {
+      content: normal;
+    }
+
+    &:hover > a {
+      color: $pal-gray20;
+    }
+  }
+}
+
+.menu-dropdownText {
+  padding: 20px 25px;
+  background-color: $pal-gray100;
+  color: $pal-gray50;
+
+  p {
+    margin: 0;
+  }
+
+  @include respond-max($screen-sm-max) {
+    display: none;
+  }
+}

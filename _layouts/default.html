@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include snippets/fb-sdk.html %}
+
+    <div class='main'>
+      {% include nav-bar.html %}
+
+      {{ content }}
+
+      {% include footer.html %}
+    </div>
+    <script src='{{ "vendor.min.js" | prepend: site.assetpath }}'></script>
+    <script src='{{ "app.min.js" | prepend: site.assetpath }}'></script>
+    {% include snippets/tawk-to.html %}
+  </body>
+</html>

@@ -1,0 +1,19 @@
+{% if page.title == 'BariatricPal Hospital MX' %}
+  {% assign testimonialsUrl =  '/weight-loss-surgeries/testimonials'"%}
+{% else %}
+  {% assign testimonialsUrl =  page.url | replace: "/overview/", "/testimonials/"%}
+{% endif %}
+
+<div class='section u-py6'>
+  <div class='section-row u-sm-alignCenter js-testimonials'>
+    <div class='section-chunk u-size1of4 u-px2 u-sm-sizeFull'>
+      <span class='icon icon--quote'></span>
+      <p class='u-mt2'>
+        {{page.testimonials_intro}}
+      </p>
+      <a href='{{testimonialsUrl}}'>
+        Read more
+      </a>
+    </div>
+  </div>
+</div>

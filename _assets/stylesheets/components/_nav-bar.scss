@@ -1,0 +1,38 @@
+.navBar {
+  position: relative;
+  background: linear-gradient($pal-gray90, $pal-white);
+  z-index: 1;
+  @include cf;
+}
+
+.navBar-logo {
+  display: block;
+  background: url('/uploads/bariatric-pal-mx-logo.png') no-repeat center center;
+  background-size: contain;
+  width: 223px;
+  height: 64px;
+  margin: 25px;
+  float: left;
+
+  @include respond-max($screen-xs-max) {
+    width: 150px;
+  }
+}
+
+.navBar-text {
+  padding-top: 5px;
+  margin: 25px;
+  float: right;
+  text-align: right;
+
+  p {
+    margin: 0;
+  }
+}
+
+.navBar-button {
+  margin: 25px;
+  height: 64px;
+  float: right;
+  text-align: right;
+}

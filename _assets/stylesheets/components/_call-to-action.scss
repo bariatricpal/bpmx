@@ -1,0 +1,15 @@
+.callToAction {
+  padding: 90px 0;
+  background-color: $pal-gray90;
+  text-align: center;
+
+  @include respond-max($screen-xs-max) {
+    padding: 90px 20px;
+  }
+
+  @include respond-max($screen-xxs-max) {
+    br {
+      display: none;
+    }
+  }
+}

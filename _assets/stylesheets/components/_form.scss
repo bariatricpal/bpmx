@@ -1,0 +1,107 @@
+.form {
+  position: relative;
+  width: 100%;
+  @include cf;
+
+  &.is-loading:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: $borderRadius-base;
+    background-color: $pal-white;
+  }
+
+  &.is-loading:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+    border-radius: 50%;
+    border: 1px solid $pal-gray60;
+    border-right: 0;
+    border-bottom: 0;
+    animation: spinner 0.5s linear infinite;
+  }
+}
+
+@keyframes spinner {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.form-field {
+  width: 100%;
+
+  & + & {
+    margin-top: 15px;
+  }
+}
+
+.form-input {
+  display: block;
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: $borderRadius-base;
+  border: 1px solid transparent;
+  background-color: transparent;
+  font-size: $fontSize-smaller;
+
+  .form--dark & {
+    background-color: $pal-white;
+  }
+
+  .form--light & {
+    border-color: $pal-gray30;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.form-button {
+  margin-top: 10px;
+  padding: 15px 30px;
+  border-radius: $borderRadius-base;
+  border: 1px solid transparent;
+  background-color: transparent;
+  font-weight: $fontWeight-bold;
+  transition: all 0.2s;
+
+  .form--dark & {
+    border-color: rgba($pal-white, 0.8);
+    color: rgba($pal-white, 0.8);
+
+    &:hover {
+      border-color: $pal-white;
+      color: $pal-white;
+    }
+  }
+
+  .form--light & {
+    border-color: rgba($pal-green, 0.8);
+    color: rgba($pal-green, 0.8);
+
+    &:hover {
+      border-color: $pal-green;
+      color: $pal-green;
+    }
+  }
+}
+
+.form-button--fit {
+  display: block;
+  width: 100%;
+}

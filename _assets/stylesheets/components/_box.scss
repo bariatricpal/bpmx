@@ -1,0 +1,53 @@
+.box {
+  padding: 25px 30px;
+  background-color: rgba($pal-gray100, 0.5);
+  @include cf;
+
+  table & {
+  	margin-left: -1px;
+  }
+
+  table &:before,
+  table &:after {
+    content: normal;
+  }
+}
+
+@mixin u-box-variant($bg-color, $color) {
+  background-color: $bg-color !important;
+  color: $color !important;
+}
+
+.box--green {
+  @include u-box-variant($pal-green, $pal-white);
+}
+
+.box--white {
+  @include u-box-variant($pal-white, $pal-black);
+}
+
+.box-icon {
+  float: left;
+  margin-right: 25px;
+
+  @include respond-max($screen-xxs-max) {
+    display: block;
+    width: 100%;
+    float: none;
+    clear: both;
+  }
+}
+
+.box-content {
+  float: left;
+  padding: 0.45em;
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  @include respond-max($screen-xxs-max) {
+    width: 100%;
+    padding-top: 20px;
+  }
+}

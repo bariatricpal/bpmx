@@ -1,0 +1,201 @@
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 100% 100%;
+}
+
+.icon--heart {
+  width: 83px;
+  height: 87px;
+  background-image: url('/uploads/icons/icon-heart.svg');
+}
+
+.icon--quote {
+  width: 33px;
+  height: 22px;
+  background-image: url('/uploads/icons/icon-quote.svg');
+}
+
+.icon--laser {
+  width: 103px;
+  height: 87px;
+  background-image: url('/uploads/icons/icon-laser.svg');
+}
+
+.icon--waistline {
+  width: 91px;
+  height: 87px;
+  background-image: url('/uploads/icons/icon-waistline.svg');
+}
+
+.icon--phone {
+  width: 63px;
+  height: 63px;
+  background-image: url('/uploads/icons/icon-phone.svg');
+}
+
+.icon--envelope {
+  width: 63px;
+  height: 63px;
+  background-image: url('/uploads/icons/icon-envelope.svg');
+}
+
+.icon--chat {
+  width: 63px;
+  height: 63px;
+  background-image: url('/uploads/icons/icon-chat.svg');
+}
+
+.icon--us {
+  width: 38px;
+  height: 25px;
+  background-image: url('/uploads/icons/icon-us.png');
+}
+
+.icon--canada {
+  width: 38px;
+  height: 25px;
+  background-image: url('/uploads/icons/icon-canada.png');
+}
+
+.icon--play {
+  position: relative;
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 1px solid $pal-green;
+  border-radius: 100%;
+  margin: -3px 5px 0 0;
+  transition: border 0.2s;
+
+  &:after {
+    content: '';
+    @include triangle(3px, $pal-green, right);
+    position: absolute;
+    top: 0;
+    left: 2px;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    line-height: 10px;
+    transition: border 0.2s;
+  }
+
+  a:hover & {
+    border: 1px solid darken($color-primary, 10%);
+  }
+
+  a:hover:after {
+    @include triangle(3px, darken($color-primary, 10%), right);
+  }
+}
+
+.icon--triangle {
+  @include triangle(3px, $pal-green, right);
+  margin-top: 8px;
+}
+
+.icon--burger {
+  position: relative;
+  display: inline-block;
+  width: 22px;
+  height: 2px;
+  border-radius: 3px;
+  background-color: $pal-black;
+  transition: all 0.2s;
+
+  &:before, &:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: inherit;
+    border-radius: 3px;
+    transition: transform .2s ease-in-out;
+  }
+
+  &:before {
+    transform: translateY(-250%);
+  }
+
+  &:after {
+    transform: translateY(250%);
+  }
+
+  button:hover & {
+    &:before {
+      transform: translateY(-350%);
+    }
+
+    &:after {
+      transform: translateY(350%);
+    }
+  }
+
+  .has-side-menu & {
+    &:before {
+      transform: translateX(0) translateY(-350%);
+    }
+
+    &:after {
+      transform: translateX(0) translateY(350%);
+    }
+  }
+
+  .has-side-menu a:hover & {
+    &:before {
+      transform: translateX(0) translateY(-350%);
+    }
+
+    &:after {
+      transform: translateX(0) translateY(350%);
+    }
+  }
+}
+
+.icon--facebook {
+  width: 16px;
+  height: 16px;
+  background-image: url('/uploads/icons/icon-fb.svg');
+}
+
+.icon--instagram {
+  width: 16px;
+  height: 16px;
+  background-image: url('/uploads/icons/icon-instagram.svg');
+}
+
+.icon--instagramLike {
+  background-image: url('https://www.instagram.com/static/bundles/sprite_core_2x.png/5e9cc261d256.png');
+  background-size: 405px 379px;
+  background-position: -384px -85px;
+  height: 19px;
+  width: 19px;
+  margin-top: -5px;
+  margin-right: 5px;
+}
+
+.icon--instagramComment {
+  background-image: url('https://www.instagram.com/static/bundles/sprite_core_2x.png/5e9cc261d256.png');
+  background-size: 405px 379px;
+  background-position: -384px -105px;
+  height: 19px;
+  width: 19px;
+  margin-top: -5px;
+  margin-right: 5px;
+}
+
+.icon--snapchat {
+  width: 16px;
+  height: 16px;
+  background-image: url('/uploads/icons/icon-snapchat.svg');
+}
+
+.icon--forum {
+  width: 19px;
+  height: 16px;
+  background-image: url('/uploads/icons/icon-forum.svg');
+}

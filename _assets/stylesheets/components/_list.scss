@@ -1,0 +1,83 @@
+.orderedList {
+  counter-reset: counter;
+}
+
+.orderedList-item {
+  position: relative;
+  padding: 20px 90px;
+  font-size: $fontSize-small;
+  background: rgba($pal-gray100, 0.5);
+  @include cf;
+
+  & + & {
+    margin-top: 5px;
+  }
+
+  &:before {
+    content: counter(counter)'.';
+    counter-increment: counter;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    color: $color-primary;
+    font-size: $fontSize-larger;
+  }
+}
+
+.unorderedList-item {
+  position: relative;
+  padding: 10px 15px;
+  font-size: $fontSize-small;
+  background: rgba($pal-gray100, 0.5);
+  @include cf;
+
+  & + & {
+    margin-top: 5px;
+  }
+}
+
+.bulletList-item {
+  padding: 10px 15px;
+  font-size: $fontSize-small;
+
+  & + & {
+    margin-top: 5px;
+  }
+
+  &:before {
+    content: '•';
+    display: inline-block;
+    margin-right: 10px;
+    color: $color-primary;
+  }
+}
+
+.checkList-item {
+  position: relative;
+  padding: 10px 50px;
+  font-size: $fontSize-small;
+  background: rgba($pal-gray100, 0.5);
+
+  & + & {
+    margin-top: 5px;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 17px;
+    left: 20px;
+    width: 10px;
+    height: 10px;
+    background: url('/uploads/icons/icon-checkmark.svg') no-repeat center center;
+    background-size: contain;
+  }
+}
+
+.borderedList-item {
+  padding: 10px;
+
+  & + & {
+    border-top: 1px solid rgba($pal-black, 0.1);
+  }
+}

@@ -1,0 +1,62 @@
+.section {
+
+  & + & {
+    border-top: 1px solid rgba($pal-black, 0.1);
+  }
+}
+
+.section-row {
+  @include cf;
+}
+
+.section-chunk {
+  float: left;
+}
+
+.section-hero {
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  z-index: 0;
+}
+
+.section-heroWrap {
+  max-width: $maxWidth;
+  margin: 0 auto;
+  padding: 60px 20px;
+  @include cf;
+}
+
+.section-heroBox {
+	width: 45%;
+  padding: 45px 50px;
+
+  @include respond-max($screen-xs-max) {
+    width: 100%;
+  }
+}
+
+@mixin u-hero-box-variant($bg-color, $color) {
+  background-color: $bg-color !important;
+  color: $color;
+}
+
+.section-heroBox--dark {
+  @include u-hero-box-variant(rgba($pal-black, 0.4), $pal-white);
+}
+
+.section-heroBox--light {
+  @include u-hero-box-variant(rgba($pal-white, 0.8), $pal-black);
+}
+
+.section-heroBox--primary {
+  @include u-hero-box-variant(rgba($pal-green, 0.8), $pal-white);
+}
+
+.section-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 20px 20px;
+}

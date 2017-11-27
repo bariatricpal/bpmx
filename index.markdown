@@ -33,17 +33,17 @@ layout: default
 <div class='wrap'>
   <div class='section u-py4'>
     <div class='section-row'>
-      <div class='section-chunk u-size8of16 u-px2 u-xs-sizeFull'>
+      <div class='section-chunk u-size10of16 u-px2 u-xs-sizeFull'>
         <a class='ctrl ctrl--play' href='#qctIbDMqjNM'>
-          <img src='/uploads/surgeons-video.png' />
+          <img src='/uploads/alex-brecher-video.png' />
         </a>
       </div>
-      <div class='section-chunk u-size8of16 u-px2 u-xs-sizeFull'>
-        <h1 class='u-mb0'>
+      <div class='section-chunk u-size6of16 u-px2 u-xs-sizeFull'>
+        <h1 class='u-mb0 u-mt1'>
           Trusted &amp; Proven
         </h1>
         <p class='t3 u-textPrimary u-mt0'>
-          The Most Experienced Bariatric &amp;<br/>
+          The Most Experienced Bariatric &amp;
           Plastic Surgeons in Mexico
         </p>
         <p>

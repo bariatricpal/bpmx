@@ -20,6 +20,14 @@ defaults:
     type: plastic-surgeries
   values:
     layout: surgery
+    seo:
+      title: ''
+      keywords: ''
+      description: ''
+    twitter:
+      image: 'upload size: 120x120'
+    facebook:
+      image: 'upload size: 600x315'
     surgery_types:
     - description: Fill in description
       price: "$0.00"
@@ -28,6 +36,14 @@ defaults:
     type: weight-loss-surgeries
   values:
     layout: surgery
+    seo:
+      title: ''
+      keywords: ''
+      description: ''
+    twitter:
+      image: 'upload size: 120x120'
+    facebook:
+      image: 'upload size: 600x315'
     surgery_types:
     - description: Fill in description
       price: "$0.00"
@@ -36,6 +52,14 @@ defaults:
     type: pages
   values:
     layout: page
+    seo:
+      title: ''
+      keywords: ''
+      description: ''
+    twitter:
+      image: 'upload size: 120x120'
+    facebook:
+      image: 'upload size: 600x315'
 permalink: pretty
 assetpath: "/assets/"
 exclude:
@@ -50,6 +74,11 @@ exclude:
 - package.json
 - node_modules
 - gulpfile.js
+description: BariatricPal has a long and impressive history. For over 14 years, the
+  BariatricPal team has been committed and completely dedicated to helping patients
+  just like you.
+keywords: weight loss surgeons surgeries plastic surgery plastics bariatric all-inclusive
+  hospital Mexico 5-stars
 copyright: "© Copyright current_year BariatricPal MX LLC."
 menu:
   wls: BariatricPal Hospital MX's patient care team goes above and beyond anyone else.

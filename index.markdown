@@ -2,10 +2,9 @@
 title: BariatricPal Hospital MX
 position: 0
 seo:
-  title: BariatricPal Hospital MX
-  description: BariatricPal Hospital MX does weight loss surgery every day. We perform
-    over 100 bariatric procedures per month, and your surgeon Dr. Jalil Illan has
-    performed over 9,000 surgeries, with a perfect track record of 0 fatalities.
+  title: 'BariatricPal Hospital MX: Bariatric and Plastic Surgery in Tijuana, Mexico'
+  description: BariatricPal Hospital MX does weight loss surgery and plastic surgery
+    every day. We are the most Experienced Bariatric & Plastic Surgeons in Mexico!
 testimonials_intro: "Hear what satisfied patients\nsay about BariatricPal \nHospital
   MX and Staff"
 layout: default

@@ -1,6 +1,9 @@
 ---
 title: Privacy Policy
 position: 12
+seo:
+  title: Privacy Policy
+  description: BariatricPal MX privacy policy
 layout: default
 ---
 

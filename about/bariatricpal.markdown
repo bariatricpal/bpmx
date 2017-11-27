@@ -1,6 +1,11 @@
 ---
 title: About BariatricPal
 position: 9
+seo:
+  title: 'About BariatricPal '
+  description: It all started with one man's weight loss journey. Much like you, Alex
+    Brecher, founder, and president of BariatricPal wanted to finally take control
+    of his weight.
 callToAction: "<strong>Don't wait another moment</strong>. Get started<br/> on your
   weight loss journey today!"
 layout: default
@@ -19,7 +24,7 @@ layout: default
           Feel comfortable with our internationally recognized surgical experts in laparoscopic surgery and reconstructive procedures. Your team consists of dedicated and experienced bariatric and plastic surgeons, anesthesiologists, dietitians, nurses, and support staff.
         </p>
         <p>
-          It all started with one man's weight loss journey. Much like you, Alex Brecher, founder and president of BariatricPal, wanted to finally take control of his weight. But 14 years ago, Alex struggled after surgery to find the support and information he needed to make a lasting change.
+          It all started with one man's weight loss journey. Much like you, Alex Brecher, founder, and president of BariatricPal wanted to finally take control of his weight. But 14 years ago, Alex struggled after surgery to find the support and information he needed to make a lasting change.
         </p>
         <h1 class='u-textPrimary'>
           Thus, BariatricPal was born.
@@ -38,7 +43,7 @@ layout: default
       <div class='section-chunk u-px4 u-size13of16 u-xs-sizeFull'>
         <h1 class='u-mt0'>President's Message</h1>
         <p class='t3'>
-          Hi! I’m Alex Brecher, founder and president of BariatricPal. It is my pleasure to welcome you to BariatricPal Hospital MX and tell you a little bit about what your weight loss surgery journey will be like with our amazing team. I’m a weight loss surgery patient myself, and I can say with pride that BariatricPal Hospital MX and our team offer the best experience you can find.
+          Hi! I’m Alex Brecher, founder, and president of BariatricPal. It is my pleasure to welcome you to BariatricPal Hospital MX and tell you a little bit about what your weight loss surgery journey will be like with our amazing team. I’m a weight loss surgery patient myself, and I can say with pride that BariatricPal Hospital MX and our team offer the best experience you can find.
         </p>
         <p>
           I had weight loss surgery in 2003. Just like you, I had been struggling with my weight for years. I knew weight loss surgery was the only way I could take control of my weight for the first time I could remember. This life-changing decision was the best decision I ever made, but the journey wasn’t easy. Struggling with weight is already difficult. Finding good support and the information you need can be overwhelming.

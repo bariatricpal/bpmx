@@ -1,6 +1,10 @@
 ---
 title: Plastic Surgery FAQ
 position: 8
+seo:
+  title: Plastic, Aesthetic and Reconstructive Surgeries FAQ
+  description: Plastic, Aesthetic and Reconstructive Surgeries in Mexico Frequently
+    Asked Questions
 faqs:
 - question: How long is the wait for an appointment for consultation?
   answer: A Consultation appointment can be made by phone, email or thru our web site.

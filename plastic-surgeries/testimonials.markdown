@@ -1,7 +1,10 @@
 ---
 title: Plastic Surgery Testimonials
 position: 7
-layout: default
+seo:
+  title: Plastic Surgery Testimonials
+  description: Hear what our many satisfied Plastic Surgery patients have to say.
+    Look at the before and after pictures. Then call us to schedule a consultation.
 callToAction: |-
   Call today to take the first step<br/>
   towards <strong>becoming the new you</strong>.
@@ -14,6 +17,7 @@ testimonials:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+layout: default
 ---
 
 <div class='hero' data-cover='plastic-surgery-dr-galvez'>
@@ -48,7 +52,7 @@ testimonials:
         </p>
         <span class='icon icon--heart u-mt4'></span>
         <p class='t3 u-textPrimary'>
-          Hear what our many satisfied customers have to say. Look at the before and after pictures. Then call us to schedule a consultation.
+          Hear what our many satisfied patients have to say. Look at the before and after pictures. Then call us to schedule a consultation.
         </p>
         <a class='btn'>
           Call Now!

@@ -1,5 +1,6 @@
 ---
-title: BariatricPal Hospital MX
+title: 'BariatricPal Hospital MX: The Most Experienced Bariatric & Plastic Surgeons
+  in Mexico'
 timezone: UTC
 collections:
   plastic-surgeries:
@@ -75,10 +76,14 @@ exclude:
 - node_modules
 - gulpfile.js
 description: BariatricPal has a long and impressive history. For over 14 years, the
-  BariatricPal team has been committed and completely dedicated to helping patients
-  just like you.
-keywords: weight loss surgeons surgeries plastic surgery plastics bariatric all-inclusive
-  hospital Mexico 5-stars
+  BariatricPal team has been committed and completely dedicated to helping weight
+  loss surgery and plastic surgery patients just like you.
+keywords: Weight loss surgery, weight loss surgery mexico, weight loss surgery tijuana,
+  gastric sleeve surgery mexico, gastric sleeve surgery tijuana
+twitter:
+  image: 'upload size: 120x120'
+facebook:
+  image: 'upload size: 600x315'
 copyright: "© Copyright current_year BariatricPal MX LLC."
 menu:
   wls: BariatricPal Hospital MX's patient care team goes above and beyond anyone else.

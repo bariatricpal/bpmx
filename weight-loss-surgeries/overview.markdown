@@ -1,6 +1,11 @@
 ---
 title: Weight Loss Surgery Overview
 position: 2
+seo:
+  title: Weight Loss Surgery Overview
+  description: |-
+    The best bariatric surgeons, anesthesiologists,
+    and nurses in all of Mexico.
 testimonials_intro: |-
   Hear what satisfied patients
   say about Dr. Jalil Illan,

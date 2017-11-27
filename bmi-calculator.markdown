@@ -1,6 +1,9 @@
 ---
 title: BMI Calculator
 position: 12
+seo:
+  title: BMI Calculator
+  description: Calculate your Body Mass Index
 layout: default
 ---
 

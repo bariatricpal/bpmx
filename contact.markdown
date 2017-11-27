@@ -1,7 +1,13 @@
 ---
 title: Get in touch
 position: 11
-layout: default
+seo:
+  title: Schedule a consultation!
+  description: 'Schedule a consultation. You''ll have an opportunity to ask questions
+    and get first-hand answers from the Director of Patient Relations, our Certified
+    Nutritionist, and even your surgeon.
+
+'
 phone: "(844) 957-3325"
 emails:
   bariatrics: TeamMX@BariatricPal.com
@@ -17,6 +23,7 @@ addresses:
     BariatricPal MX LLC.<br/>
     203A Sheridan Blvd.<br/>
     Inwood, NY 11096
+layout: default
 ---
 
 <div class='wrap'>

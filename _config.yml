@@ -23,7 +23,6 @@ defaults:
     layout: surgery
     seo:
       title: ''
-      keywords: ''
       description: ''
     twitter:
       image: 'upload size: 120x120'
@@ -39,7 +38,6 @@ defaults:
     layout: surgery
     seo:
       title: ''
-      keywords: ''
       description: ''
     twitter:
       image: 'upload size: 120x120'
@@ -55,7 +53,6 @@ defaults:
     layout: page
     seo:
       title: ''
-      keywords: ''
       description: ''
     twitter:
       image: 'upload size: 120x120'
@@ -78,8 +75,6 @@ exclude:
 description: BariatricPal has a long and impressive history. For over 14 years, the
   BariatricPal team has been committed and completely dedicated to helping weight
   loss surgery and plastic surgery patients just like you.
-keywords: Weight loss surgery, weight loss surgery mexico, weight loss surgery tijuana,
-  gastric sleeve surgery mexico, gastric sleeve surgery tijuana
 twitter:
   image: 'upload size: 120x120'
 facebook:

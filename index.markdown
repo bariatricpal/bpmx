@@ -8,6 +8,7 @@ seo:
     every day. We are the most Experienced Bariatric & Plastic Surgeons in Mexico!
 testimonials_intro: "Hear what satisfied patients\nsay about BariatricPal \nHospital
   MX and Staff"
+google-site-verification: vkTe1mgxZZNIWkWXlNmcokinS-Dr72tX0BY_t2Ztf1w
 layout: default
 ---
 

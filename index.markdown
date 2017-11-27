@@ -2,7 +2,8 @@
 title: BariatricPal Hospital MX
 position: 0
 seo:
-  title: 'BariatricPal Hospital MX: Bariatric and Plastic Surgery in Tijuana, Mexico'
+  title: 'BariatricPal Hospital MX: The most Experienced Bariatric & Plastic Surgeons
+    in Mexico!'
   description: BariatricPal Hospital MX does weight loss surgery and plastic surgery
     every day. We are the most Experienced Bariatric & Plastic Surgeons in Mexico!
 testimonials_intro: "Hear what satisfied patients\nsay about BariatricPal \nHospital

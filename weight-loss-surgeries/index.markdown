@@ -17,7 +17,7 @@ layout: default
           Bariatric Surgeries
         </h1>
         <p class='u-mb0'>
-          Choose from 6 different bariatric surgeries to start you on your weight loss journey. Familiarize yourself with each type of surgery, and you and your surgeon will decide together which is the best option for you. Ultimately, though, the choice is yours.
+          Choose from 5 different bariatric surgeries to start you on your weight loss journey. Familiarize yourself with each type of surgery, and you and your surgeon will decide together which is the best option for you. Ultimately, though, the choice is yours.
         </p>
       </div>
     </div>

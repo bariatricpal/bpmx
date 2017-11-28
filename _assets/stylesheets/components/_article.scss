@@ -40,7 +40,6 @@
   }
 
   p:first-child {
-    display: inline;
     margin-top: 0;
   }
 }
@@ -55,6 +54,7 @@
 
 
 .article-facts {
+  margin-top: 40px;
 
   h1, h1, h3 {
     margin-top: 40px;

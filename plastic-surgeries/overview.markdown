@@ -189,7 +189,7 @@ layout: default
           she's also a bariatric patient herself. <strong>Contact Stacy with any and all questions about your diet and nutrition</strong>.
           She's always available to you pre- and post-operation, no matter how long after surgery.
         </p>
-        <a class='btn u-mt2' href='/contact'>
+        <a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/FIdZ6c'>
           Schedule a Free Consultation
         </a>
       </div>
@@ -206,7 +206,7 @@ layout: default
         <p class='t-smaller'>
           Bill is your personal contact who will guide you through your weight loss or reconstructive surgery experience. Contact Bill to get started today to change your life for the better. He is ready to welcome you on board and walk you through the entire process, starting with registration and scheduling surgery or a consult.  <strong>Contact Bill to get started today to change your life for the better</strong>.
         </p>
-        <a class='btn u-mt2' href='/contact'>
+        <a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/FIdZ6c'>
           Schedule a Free Consultation
         </a>
       </div>

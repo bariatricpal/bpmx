@@ -213,5 +213,5 @@ layout: default
     </div>
   </div>
 
-  {% include packages.html id='wls' %}
+  {% include packages.html id='plastics' %}
 </div>

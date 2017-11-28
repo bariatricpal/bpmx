@@ -103,7 +103,7 @@ layout: default
         helping bariatric surgery patients reshape
         their bodies after serious weight loss.
       </p>
-      <a class='btn u-mt2' href='/contact'>
+      <a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/FIdZ6c'>
         Schedule a Free Consultation
       </a>
     </div>
@@ -165,7 +165,7 @@ layout: default
             a team dedicated to providing amazing patient care</strong>
             and reconstruction after weight loss to make you look as good as you feel.
           </p>
-          <a class='btn u-mt4' href='/contact'>
+          <a class='btn u-mt4' href='https://bariatricpal.typeform.com/to/FIdZ6c'>
             Schedule a Consultation
           </a>
         </div>

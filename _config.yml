@@ -3,6 +3,9 @@ title: 'BariatricPal Hospital MX: The Most Experienced Bariatric & Plastic Surge
   in Mexico'
 timezone: UTC
 collections:
+  packages:
+    title: Packages
+    output: true
   plastic-surgeries:
     title: Plastic Surgeries
     output: true
@@ -46,6 +49,11 @@ defaults:
     surgery_types:
     - description: Fill in description
       price: "$0.00"
+- scope:
+    path: ''
+    type: packages
+  values:
+    layout: default
 - scope:
     path: ''
     type: pages

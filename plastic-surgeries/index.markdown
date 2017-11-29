@@ -191,11 +191,37 @@ layout: default
           Let’s get started!
         </a>
       </div>
-      <div class='section-chunk u-size1of3 u-px2 u-xs-size1of2 u-xxs-sizeFull'>
-        <img src='/uploads/before.png' alt='Before Surgery' />
-      </div>
-      <div class='section-chunk u-size1of3 u-px2 u-xs-size1of2 u-xxs-sizeFull u-xxs-mt1'>
-        <img src='/uploads/after.png' alt='After Surgery' />
+      <div class='section-chunk u-size2of3 u-px2 u-xs-sizeFull'>
+        <ul class='imageList'>
+          <li class='imageList-item'>
+            <img src='/uploads/before.png' alt='Before Surgery' />
+            <img src='/uploads/after.png' alt='After Surgery' />
+          </li>
+          <li class='imageList-item'>
+            <img src='/uploads/before-1.png' alt='Before Surgery' />
+            <img src='/uploads/after-1.png' alt='After Surgery' />
+          </li>
+          <li class='imageList-item'>
+            <img src='/uploads/before-3.png' alt='Before Surgery' />
+            <img src='/uploads/after-3.png' alt='After Surgery' />
+          </li>
+          <li class='imageList-item'>
+            <img src='/uploads/before-4.png' alt='Before Surgery' />
+            <img src='/uploads/after-4.png' alt='After Surgery' />
+          </li>
+          <li class='imageList-item'>
+            <img src='/uploads/before-5.png' alt='Before Surgery' />
+            <img src='/uploads/after-5.png' alt='After Surgery' />
+          </li>
+          <li class='imageList-item'>
+            <img src='/uploads/before-6.png' alt='Before Surgery' />
+            <img src='/uploads/after-6.png' alt='After Surgery' />
+          </li>
+          <li class='imageList-item'>
+            <img src='/uploads/before-7.png' alt='Before Surgery' />
+            <img src='/uploads/after-7.png' alt='After Surgery' />
+          </li>
+        </ul>
       </div>
     </div>
   </div>

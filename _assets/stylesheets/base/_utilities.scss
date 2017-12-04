@@ -447,6 +447,10 @@
   padding-top: 0 !important;
 }
 
+.u-pt4 {
+  padding-top: 40px !important;
+}
+
 @include respond-max($screen-sm-max) {
   .u-sm-pl0 {
     padding-left: 0 !important;

@@ -47,7 +47,7 @@ layout: default
         </h1>
         <p class='t3 u-textPrimary u-mt0'>
           Top-Ranked, Board-Certified,
-        Extensively Experienced Surgeon in Tijuana, Mexico
+        Extensively Experienced Bariatric Surgeon in Tijuana, Mexico
         </p>
         <p>
           From first contact with your surgical team to your post-op care back
@@ -107,7 +107,7 @@ layout: default
         Member of ASMBS
       </h1>
       <p>
-        Your surgeon is recognized in the States as an
+        Your bariatric surgeon is recognized in the States as an
         international member of the American Society of
         Metabolic and Bariatric Surgery (ASMBS).
       </p>

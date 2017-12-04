@@ -32,12 +32,6 @@
     {% endif %}
   {% endif %}
 
-  {% if page.seo.keywords.size > 0 %}
-    <meta content="{{page.seo.keywords}}" name="keywords" />
-  {% else %}
-    <meta content="{{site.keywords}}" name="keywords" />
-  {% endif %}
-
   <meta content="summary" name="twitter:card" />
   <meta content="website" property="og:type" />
 

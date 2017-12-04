@@ -54,8 +54,14 @@ layout: default
         <p class='t3 u-textPrimary'>
           Hear what our many satisfied patients have to say. Look at the before and after pictures. Then call us to schedule a consultation.
         </p>
-        <a class='btn'>
+        <a class='btn' href='/contact'>
           Call Now!
+        </a>
+        <p class='t3 u-textSecondary u-bt1 u-pt4 u-mt4'>
+          View all BariatricPal Hospital MX videos and testimonials
+        </p>
+        <a class='btn' href='https://www.youtube.com/watch?v=aQtrzMeDkHo&list=PL7rnWU4FvBZ2XRSmHk9qiTkAUGhAEJ8_x' target='_blank'>
+          Watch now!
         </a>
       </div>
       <div id='wls-feed-odd' class='section-chunk u-size1of3 u-px2 u-xs-sizeFull u-xs-mt3'></div>

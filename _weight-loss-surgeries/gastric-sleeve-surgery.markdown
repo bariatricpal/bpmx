@@ -8,8 +8,8 @@ subtitle: The most popular weight loss surgery in the entire world.
 image: "/uploads/gastric-sleeve-surgery.png"
 surgery_excerpt:
   content: The Gastric Sleeve surgery is the most popular weight loss surgery in the
-    world. BariatricPal MX’s surgeons are recognized and proven experts in Laparoscopic
-    Gastric Sleeve surgery.
+    world. BariatricPal Hospital MX’s surgeons are recognized and proven experts in
+    Laparoscopic Gastric Sleeve surgery.
   cover: or-1
   price: "$4600"
 surgery_facts: |-

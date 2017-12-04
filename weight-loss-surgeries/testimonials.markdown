@@ -57,6 +57,12 @@ layout: default
         <a class='btn' href='/contact'>
           Call Now!
         </a>
+        <p class='t3 u-textSecondary u-bt1 u-pt4 u-mt4'>
+          View all BariatricPal Hospital MX videos and testimonials
+        </p>
+        <a class='btn' href='https://www.youtube.com/watch?v=aQtrzMeDkHo&list=PL7rnWU4FvBZ2XRSmHk9qiTkAUGhAEJ8_x' target='_blank'>
+          Watch now!
+        </a>
       </div>
       <div id='wls-feed-odd' class='section-chunk u-size1of3 u-px2 u-xs-sizeFull u-xs-mt3'></div>
       <div id='wls-feed-even' class='section-chunk u-size1of3 u-px2 u-xs-sizeFull'></div>

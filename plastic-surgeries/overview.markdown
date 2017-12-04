@@ -8,7 +8,7 @@ testimonials_intro: |-
 layout: default
 ---
 
-<div class='hero' data-cover='plastic-surgery-team'>
+<div class='hero hero--plastics'>
   <div class='hero-wrap'>
     <div class='hero-caption u-alignBottom'>
       <div class='hero-box hero-box--transparent u-size4of9 u-xs-size10of12 u-xxs-sizeFull'>
@@ -196,7 +196,7 @@ layout: default
     </div>
     <div class='section-row u-py3'>
       <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
-        <img src='/uploads/bill-yanez.png' alt='Patient Relations Director Bill Yanez' />
+        <img src='/uploads/bill-yanez.jpg' alt='Patient Relations Director Bill Yanez' />
       </div>
       <div class='section-chunk u-size2of4 u-px4 u-xs-size10of12 u-xs-mt3 u-xxs-sizeFull'>
         <h3 class='u-textPrimary u-mt0'>

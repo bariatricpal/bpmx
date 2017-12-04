@@ -4,8 +4,7 @@ var Instagram = (function () {
 
   var makeItem = function makeItem(val) {
     var template;
-    template = '<a class="footer-feedItem" href="'+val.link+'" target="_blank">';
-    template += '<img class="footer-feedImage" src="'+val.images.thumbnail.url+'"/>';
+    template = '<a class="footer-feedItem" href="'+val.link+'" target="_blank" style="background-image: url('+val.images.thumbnail.url+')">';
     template += '<ul class="footer-feedCounter">';
     template += '<li class="footer-feedCounterItem"><span class="icon icon--instagramLike"></span>'+val.likes.count+'</li>';
     template += '<li class="footer-feedCounterItem"><span class="icon icon--instagramComment"></span>'+val.comments.count+'</li>';

@@ -39,7 +39,9 @@ $(function(){
     $hero.each(function() {
       var $this = $(this);
       var image = $this.attr('data-cover');
-      $this.css('background-image', 'url("/uploads/' + image + '.png")');
+      if (image) {
+        $this.css('background-image', 'url("/uploads/' + image + '.png")');
+      }
     });
   };
 

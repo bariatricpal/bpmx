@@ -8,6 +8,18 @@
   z-index: 0;
 }
 
+.hero--home {
+  background-image: url('/uploads/hospital-team.png');
+}
+
+.hero--wls {
+  background-image: url('/uploads/weight-loss-surgery-team.png');
+}
+
+.hero--plastics {
+  background-image: url('/uploads/plastic-surgery-team.png');
+}
+
 .hero-wrap {
   max-width: $maxWidth;
   margin: 0 auto;
@@ -49,4 +61,3 @@
 .hero-box--transparent {
   background-color: rgba($pal-green, 0.8);
 }
-

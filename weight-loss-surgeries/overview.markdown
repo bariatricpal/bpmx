@@ -13,48 +13,48 @@ testimonials_intro: |-
 layout: default
 ---
 
-<div class='hero' data-cover='weight-loss-surgery-team'>
-<div class='hero-wrap'>
-<div class='hero-caption u-alignBottom'>
-<div class='hero-box hero-box--transparent u-size4of9 u-xs-size10of12 u-xxs-sizeFull'>
-<h1 class='u-mt0'>
-Weight Loss Surgery
-</h1>
-<p class='t3 u-mb0'>
-The best bariatric<br/>
-surgeons, anesthesiologists,<br/>
-and nurses in all of Mexico.
-</p>
-</div>
-</div>
-</div>
+<div class='hero hero--wls'>
+  <div class='hero-wrap'>
+    <div class='hero-caption u-alignBottom'>
+      <div class='hero-box hero-box--transparent u-size4of9 u-xs-size10of12 u-xxs-sizeFull'>
+        <h1 class='u-mt0'>
+          Weight Loss Surgery
+        </h1>
+        <p class='t3 u-mb0'>
+          The best bariatric<br/>
+          surgeons, anesthesiologists,<br/>
+          and nurses in all of Mexico.
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class='wrap'>
-<div class='section u-py6'>
-<div class='section-row'>
-<div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
-<a class='ctrl ctrl--play' href='#h8D-uzNw-Fg'>
-<img src='/uploads/dr-jalil-illan-surgery.png' alt='Dr. Jalil Illan Surgery' />
-</a>
-</div>
-<div class='section-chunk u-size7of16 u-px2 u-xs-sizeFull'>
-<p class='u-textSecondary u-mb0'>
-Meet Your Surgeon:
-</p>
-<h1 class='u-mt0'>
-Dr. Jalil Illan
-</h1>
-<p class='t3 u-textPrimary u-mt0'>
-Top-Ranked, Board-Certified,
-Extensively Experienced Surgeon in Tijuana, Mexico
-</p>
-<p>
-From first contact with your surgical team to your post-op care back at home, you're in the best of hands. Don't settle for anything less than excellence.
-</p>
-</div>
-</div>
-
+  <div class='section u-py6'>
+    <div class='section-row'>
+      <div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
+        <a class='ctrl ctrl--play' href='#h8D-uzNw-Fg'>
+          <img src='/uploads/dr-jalil-illan-surgery.png' alt='Dr. Jalil Illan Surgery' />
+        </a>
+      </div>
+      <div class='section-chunk u-size7of16 u-px2 u-xs-sizeFull'>
+        <p class='u-textSecondary u-mb0'>
+          Meet Your Surgeon:
+        </p>
+        <h1 class='u-mt0'>
+          Dr. Jalil Illan
+        </h1>
+        <p class='t3 u-textPrimary u-mt0'>
+          Top-Ranked, Board-Certified,
+        Extensively Experienced Surgeon in Tijuana, Mexico
+        </p>
+        <p>
+          From first contact with your surgical team to your post-op care back
+          at home, you're in the best of hands. Don't settle for anything less than excellence.
+        </p>
+      </div>
+    </div>
     <div class='section-row u-mt4'>
       <div class='section-chunk u-size1of3 u-px2 u-xxs-sizeFull'>
         <div class='box u-sm-p2'>
@@ -96,93 +96,91 @@ From first contact with your surgical team to your post-op care back at home, yo
         </div>
       </div>
     </div>
-
-</div>
+  </div>
 </div>
 
 <div class='section-hero' data-cover='asmbs'>
-<div class='section-heroWrap'>
-<div class='section-heroBox section-heroBox--dark'>
-<h1 class='u-mt0'>
-International<br/>
-Member of ASMBS
-</h1>
-<p>
-Your surgeon is recognized in the States as an
-international member of the American Society of
-Metabolic and Bariatric Surgery (ASMBS).
-</p>
-<a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/IKm6G5'>
-Schedule a Free Consultation
-</a>
-</div>
-</div>
+  <div class='section-heroWrap'>
+    <div class='section-heroBox section-heroBox--dark'>
+      <h1 class='u-mt0'>
+        International<br/>
+        Member of ASMBS
+      </h1>
+      <p>
+        Your surgeon is recognized in the States as an
+        international member of the American Society of
+        Metabolic and Bariatric Surgery (ASMBS).
+      </p>
+      <a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/IKm6G5'>
+        Schedule a Free Consultation
+      </a>
+    </div>
+  </div>
 </div>
 
 <div class='wrap'>
-{% include testimonials.html %}
+  {% include testimonials.html %}
 
-<div class='section u-py6'>
-<div class='section-row'>
-<div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
-<h1 class='u-mt0'>
-Dr. Jalil Illan, Bariatric
-Surgeon, BariatricPal
-Hospital MX
-</h1>
-<p class='t3 u-textPrimary note note--primary'>
-Dr. Jalil Illan M.D. is a top ranked, board-certified weight loss surgeon in Tijuana, Mexico.
-</p>
-<img class='u-py1' src='/uploads/dr-jalil-illan.png' alt='DR. Jalil Illan'/>
-<p>
-He is a recognized expert in laparoscopic surgery who has performed over 5,500 laparoscopic procedures, 4,000 bariatric surgeries and took part in over 9,000 metabolic and bariatric surgical procedures.
-</p>
-<div class='card u-mt2'>
-<p class='u-m0'>
-Dr. Illan and his bariatric anesthesiologist Dr. Thanya Curiel chose a team of dedicated and experienced Tijuana bariatric surgeons, dietitians, nurses, and support staff who pride themselves on superior patient care and long-term weight loss success.
-</p>
-<a class='btn u-mt4' href='https://bariatricpal.typeform.com/to/IKm6G5'>
-Schedule a Consultation
-</a>
-</div>
-</div>
-<div class='section-chunk u-size3of5 u-px4 u-pr2 u-xs-sizeFull u-xs-pl2 u-xs-mt3'>
-<h3 class='u-mt0'>
-What You Need to Know About Dr. Illan:
-</h3>
-<ol class='orderedList'>
-<li class='orderedList-item'>
-He has also completed advanced training in Laparoscopic Adjustable Gastric Banding and Vertical Sleeve Gastrectomy.
-</li>
-<li class='orderedList-item'>
-Dr. Illan currently serves as Chief of the Emergency Room Surgery at Regional Hospital IMSS #1 (Baja California area).
-</li>
-<li class='orderedList-item'>
-On June 27th, 2017, Dr. Illan was admitted as an international member of the American Society of Metabolic and Bariatric Surgery (ASMBS).
-</li>
-<li class='orderedList-item'>
-On December 5th, 2016, Dr. Illan was voted as one of the BEST Weight Loss Surgeons in Tijuana by his surgical peers!
-</li>
-<li class='orderedList-item'>
-Dr. Jalil Illan is known for his expertise in minimally invasive surgery and has earned an international reputation as a top Tijuana bariatric surgeon.
-</li>
-</ol>
-<h3 class='u-mt4'>
-Dr. Illan's Intensive Medical Education
-</h3>
-<ul class='checkList'>
-<li class='checkList-item'>
-Baja California University College of Medicine
-</li>
-<li class='checkList-item'>
-Residency, General Hospital of Sonora
-</li>
-<li class='checkList-item'>
-Fellowship, Mexico City and Tijuana with Dr. Juan Lopez Corvalá
-</li>
-<li class='checkList-item'>
-Fellowship, Sao Paulo Brasil with Dr. Almino Cardoso
-
+  <div class='section u-py6'>
+    <div class='section-row'>
+      <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
+        <h1 class='u-mt0'>
+          Dr. Jalil Illan, Bariatric
+          Surgeon, BariatricPal
+          Hospital MX
+        </h1>
+        <p class='t3 u-textPrimary note note--primary'>
+          Dr. Jalil Illan M.D. is a top ranked, board-certified weight loss surgeon in Tijuana, Mexico.
+        </p>
+        <img class='u-py1' src='/uploads/dr-jalil-illan.png' alt='DR. Jalil Illan'/>
+        <p>
+          He is a recognized expert in laparoscopic surgery who has performed over 5,500 laparoscopic procedures, 4,000 bariatric surgeries and took part in over 9,000 metabolic and bariatric surgical procedures.
+        </p>
+        <div class='card u-mt2'>
+          <p class='u-m0'>
+            Dr. Illan and his bariatric anesthesiologist Dr. Thanya Curiel chose a team of dedicated and experienced Tijuana bariatric surgeons, dietitians, nurses, and support staff who pride themselves on superior patient care and long-term weight loss success.
+          </p>
+          <a class='btn u-mt4' href='https://bariatricpal.typeform.com/to/IKm6G5'>
+            Schedule a Consultation
+          </a>
+        </div>
+      </div>
+      <div class='section-chunk u-size3of5 u-px4 u-pr2 u-xs-sizeFull u-xs-pl2 u-xs-mt3'>
+        <h3 class='u-mt0'>
+          What You Need to Know About Dr. Illan:
+        </h3>
+        <ol class='orderedList'>
+          <li class='orderedList-item'>
+            He has also completed advanced training in Laparoscopic Adjustable Gastric Banding and Vertical Sleeve Gastrectomy.
+          </li>
+          <li class='orderedList-item'>
+            Dr. Illan currently serves as Chief of the Emergency Room Surgery at Regional Hospital IMSS #1 (Baja California area).
+          </li>
+          <li class='orderedList-item'>
+            On June 27th, 2017, Dr. Illan was admitted as an international member of the American Society of Metabolic and Bariatric Surgery (ASMBS).
+          </li>
+          <li class='orderedList-item'>
+            On December 5th, 2016, Dr. Illan was voted as one of the BEST Weight Loss Surgeons in Tijuana by his surgical peers!
+          </li>
+          <li class='orderedList-item'>
+            Dr. Jalil Illan is known for his expertise in minimally invasive surgery and has earned an international reputation as a top Tijuana bariatric surgeon.
+          </li>
+        </ol>
+        <h3 class='u-mt4'>
+          Dr. Illan's Intensive Medical Education
+        </h3>
+        <ul class='checkList'>
+          <li class='checkList-item'>
+            Baja California University College of Medicine
+          </li>
+          <li class='checkList-item'>
+            Residency, General Hospital of Sonora
+          </li>
+          <li class='checkList-item'>
+            Fellowship, Mexico City and Tijuana with Dr. Juan Lopez Corvalá
+          </li>
+          <li class='checkList-item'>
+            Fellowship, Sao Paulo Brasil with Dr. Almino Cardoso
           </li>
           <li class='checkList-item'>
             US Fellowship, Fresno Heart and Surgical Hospital, Fresno, California
@@ -220,23 +218,18 @@ Fellowship, Sao Paulo Brasil with Dr. Almino Cardoso
           </li>
           <li class='checkList-item'>
             Member, Mexican Association of Endoscopic Surgery
-    
           </li>
           <li class='checkList-item'>
             Member, Mexican Association of General Surgery
-    
           </li>
           <li class='checkList-item'>
             Member, Latin American Federation of Surgery
-    
           </li>
           <li class='checkList-item'>
             Member, International Society of Surgery
-    
           </li>
           <li class='checkList-item'>
             Member, Tijuana Medical Board
-    
           </li>
           <li class='checkList-item'>
             Member, Latin American Association of Endoscopic Surgery
@@ -244,51 +237,49 @@ Fellowship, Sao Paulo Brasil with Dr. Almino Cardoso
         </ul>
       </div>
     </div>
+  </div>
 
-</div>
+  <div class='section u-py3'>
+    <div class='section-row u-py3'>
+      <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
+        <img src='/uploads/stacy-eckel.png' alt='Wellness Coach Stacy Eckel' />
+      </div>
+      <div class='section-chunk u-size2of4 u-px4 u-xs-size10of12 u-xs-mt3 u-xxs-sizeFull'>
+        <h3 class='u-textPrimary u-mt0'>
+          Meet Your Certified Nutritionist &<br/>
+          Wellness Coach Stacy Eckel
+        </h3>
+        <p class='t-smaller'>
+          Stacy is dedicated to helping you both before and after your weight loss or reconstructive surgery.
+          She is not only a certified nutritionist who will help you get the weight off and keep it off,
+          she's also a bariatric patient herself. <strong>Contact Stacy with any and all questions about your diet and nutrition</strong>.
+          She's always available to you pre- and post-operation, no matter how long after surgery.
+        </p>
+        <a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/IKm6G5'>
+          Schedule a Free Consultation
+        </a>
+      </div>
+    </div>
+    <div class='section-row u-py3'>
+      <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
+        <img src='/uploads/bill-yanez.jpg' alt='Patient Relations Director Bill Yanez' />
+      </div>
+      <div class='section-chunk u-size2of4 u-px4 u-xs-size10of12 u-xs-mt3 u-xxs-sizeFull'>
+        <h3 class='u-textPrimary u-mt0'>
+          Meet Your Patient Relations<br/>
+        Director Bill Yanez
+        </h3>
+        <p class='t-smaller'>
+          Bill is your personal contact who will guide you through your weight loss or reconstructive surgery experience. Contact Bill to get started today to change your life for the better. He is ready to welcome you on board and walk you through the entire process, starting with registration and scheduling surgery or a consult.  <strong>Contact Bill to get started today to change your life for the better</strong>.
+        </p>
+        <a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/IKm6G5'>
+          Schedule a Free Consultation
+        </a>
+      </div>
+    </div>
+  </div>
 
-<div class='section u-py3'>
-<div class='section-row u-py3'>
-<div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
-<img src='/uploads/stacy-eckel.png' alt='Wellness Coach Stacy Eckel' />
-</div>
-<div class='section-chunk u-size2of4 u-px4 u-xs-size10of12 u-xs-mt3 u-xxs-sizeFull'>
-<h3 class='u-textPrimary u-mt0'>
-Meet Your Certified Nutritionist &<br/>
-Wellness Coach Stacy Eckel
-</h3>
-<p class='t-smaller'>
-Stacy is dedicated to helping you both before and after your weight loss or reconstructive surgery.
-She is not only a certified nutritionist who will help you get the weight off and keep it off,
-she's also a bariatric patient herself. <strong>Contact Stacy with any and all questions about your diet and nutrition</strong>.
-She's always available to you pre- and post-operation, no matter how long after surgery.
-</p>
-<a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/IKm6G5'>
-Schedule a Free Consultation
-</a>
-</div>
-</div>
-<div class='section-row u-py3'>
-<div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
-<img src='/uploads/bill-yanez.png' alt='Patient Relations Director Bill Yanez' />
-</div>
-<div class='section-chunk u-size2of4 u-px4 u-xs-size10of12 u-xs-mt3 u-xxs-sizeFull'>
-<h3 class='u-textPrimary u-mt0'>
-Meet Your Patient Relations<br/>
-Director Bill Yanez
-</h3>
-<p class='t-smaller'>
-Bill is your personal contact who will guide you through your weight loss or reconstructive surgery experience. Contact Bill to get started today to change your life for the better. He is ready to welcome you on board and walk you through the entire process, starting with registration and scheduling surgery or a consult.  <strong>Contact Bill to get started today to change your life for the better</strong>.
-</p>
-<a class='btn u-mt2' href='https://bariatricpal.typeform.com/to/IKm6G5'>
-Schedule a Free Consultation
-</a>
-</div>
-</div>
-</div>
-
-{% include packages.html id='wls' %}
-
+  {% include packages.html id='wls' %}
 </div>
 
 {% include video-player.html %}

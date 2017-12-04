@@ -6,6 +6,10 @@
   float: right !important;
 }
 
+.u-clear {
+  float: none !important;
+}
+
 @include respond-max($screen-sm-max) {
   .u-sm-clear {
     float: none !important;
@@ -223,6 +227,10 @@
   line-height: $lineHeight-small !important;
 }
 
+.u-underlineNone {
+  text-decoration: none;
+}
+
 .u-b0 {
   border-width: 0 !important;
 }
@@ -241,6 +249,10 @@
 
 .u-mb3 {
   margin-bottom: 30px !important;
+}
+
+.u-mb4 {
+  margin-bottom: 40px !important;
 }
 
 .u-mt0 {
@@ -490,6 +502,10 @@
   .u-xxs-pl2 {
     padding-left: 20px !important;
   }
+}
+
+.u-bt0 {
+  border-top: 0 !important;
 }
 
 .u-bt1 {

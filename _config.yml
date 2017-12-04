@@ -94,3 +94,12 @@ menu:
     else.
   testimonials: Hear what satisfied patients say about BariatricPal Hospital MX and
     Staff
+analytics: |-
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39899338-5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-39899338-5');
+  </script>

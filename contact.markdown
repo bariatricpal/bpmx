@@ -36,101 +36,123 @@ layout: default
         <p class='t3'>
           Schedule a consultation. You'll have an opportunity to ask questions and get first-hand answers from the Director of Patient Relations, our Certified Nutritionist, and even your surgeon.
         </p>
-        <p class='note note--primary'>
+        <span class='icon icon--heart u-mt4'></span>
+        <p>
           Our friendly support staff is waiting to help guide you through the simple, step-by-step process to get your surgery scheduled.
         </p>
       </div>
       <div class='section-chunk u-size1of2 u-px4 u-py2 u-sm-sizeFull u-xs-p2'>
-        <div class='box u-p2 u-mt4 u-mb1'>
-          <div class='box-icon'>
-            <span class='icon icon--phone u-left'></span>
-          </div>
-          <div class='box-content'>
-            <h1 class='u-m0 u-sm-pt1'>
-              {{page.phone}}
-            </h1>
-          </div>
+        <p class='t4 u-textRed'>
+          <strong>Please fill out the:</strong>
+        </p>
+        <div class='box box--green'>
+          <a class='u-textWhite' href="https://bariatricpal.typeform.com/to/IKm6G5" target='_blank'><strong>Health Questionnaire</strong></a> for Weight Loss Surgery
         </div>
-        <div class='box u-p2 u-mb1'>
-          <div class='box-icon'>
-            <span class='icon icon--envelope u-left'></span>
-          </div>
-          <div class='box-content'>
-            <p class='u-m0'>Bariatrics Email Address:</p>
-            <a href="mailto:{{page.emails.bariatrics}}" target="_blank">
-              {{page.emails.bariatrics}}
-            </a>
-          </div>
+        <p class='t4 u-textRed'>
+          <strong>Or the:</strong>
+        </p>
+        <div class='box box--green'>
+          <a class='u-textWhite' href="https://bariatricpal.typeform.com/to/FIdZ6c" target='_blank'><strong>Health Questionnaire</strong></a> for Plastic Surgery
         </div>
-        <div class='box u-p2 u-mb1'>
-          <div class='box-icon'>
-            <span class='icon icon--envelope u-left'></span>
-          </div>
-          <div class='box-content'>
-            <p class='u-m0'>Plastics Email Address:</p>
-            <a href="mailto:{{page.emails.plastics}}" target="_blank">
-              {{page.emails.plastics}}
-            </a>
-          </div>
-        </div>
-        <div class='box u-p2'>
-          <div class='box-icon'>
-            <span class='icon icon--chat'></span>
-          </div>
-          <div class='box-content'>
-            <p class='u-m0'>
-              Live Chat: Write us a Message,<br/>
-              using the live chat window below.
-            </p>
-          </div>
-        </div>
+        <p class='u-mt4'>
+          It is the first step towards becoming your new self! It’ll help us plan your surgery. You can schedule a consultation and ask questions to the nutritionist, surgeon, and director of patient relations.
+        </p>
+        <p>
+          <strong>We’ll get back to you faster if you fill out a questionnaire, but you can also contact us via phone, email, or chat</strong>
+        </p>
       </div>
     </div>
   </div>
 </div>
 
 <div class='section'>
-  <div class='section-hero' data-cover='get-in-touch'>
-    <div class='section-heroWrap'>
-      <div class='section-heroBox section-heroBox--primary u-right'>
-        <h3 class='u-mt0'>
-          Contact us
-        </h3>
-        <form id='contact' class='form form--dark'>
-          <div class='form-field'>
-            <input class='form-input' type='text' name='FirstName' placeholder='First Name' required>
-          </div>
-          <div class='form-field'>
-            <input class='form-input' type='text' name='LastName' placeholder='Last Name' required>
-          </div>
-          <div class='form-field'>
-            <input class='form-input' type='email' name='Email' placeholder='Email' required>
-          </div>
-          <div class='form-field'>
-            <textarea class='form-input' name='Message' placeholder='Message' rows='5' required></textarea>
-          </div>
-          <div class='form-field'>
-            <button class='form-button' type="submit">Send Message</button>
-          </div>
-          <div id='contact-response' class='u-hidden'>
-            <p class='u-mt0 js-message'></p>
-            <button id='contact-reset' class='form-button'>
-              Back to Form
-            </button>
-          </div>
-        </form>
+  <div class='section-hero section-hero--contact'>
+    <div class='section-heroWrap u-px4'>
+      <div class='box box--green u-p2 u-mb1 u-size1of2 u-sm-sizeFull'>
+        <div class='box-icon'>
+          <span class='icon icon--phone u-left'></span>
+        </div>
+        <div class='box-content'>
+          <h1 class='u-m0 u-sm-pt1'>
+            <strong>{{page.phone}}</strong>
+          </h1>
+        </div>
+      </div>
+      <div class='box box--green u-p2 u-mb1 u-size1of2 u-sm-sizeFull'>
+        <div class='box-icon'>
+          <span class='icon icon--envelope u-left'></span>
+        </div>
+        <div class='box-content'>
+          <p class='u-m0'>Bariatrics Email Address:</p>
+          <a class='u-textWhite' href="mailto:{{page.emails.bariatrics}}" target="_blank">
+            <strong>{{page.emails.bariatrics}}</strong>
+          </a>
+        </div>
+      </div>
+      <div class='box box--green u-p2 u-mb1 u-size1of2 u-sm-sizeFull'>
+        <div class='box-icon'>
+          <span class='icon icon--envelope u-left'></span>
+        </div>
+        <div class='box-content'>
+          <p class='u-m0'>Plastics Email Address:</p>
+          <a class='u-textWhite' href="mailto:{{page.emails.plastics}}" target="_blank">
+            <strong>{{page.emails.plastics}}</strong>
+          </a>
+        </div>
+      </div>
+      <div class='box box--green u-p2 u-size1of2 u-sm-sizeFull'>
+        <div class='box-icon'>
+          <span class='icon icon--chat'></span>
+        </div>
+        <div class='box-content'>
+          <p class='u-m0'>
+            Live Chat: Write us a Message,<br/>
+            using the live chat window below.
+          </p>
+        </div>
       </div>
     </div>
   </div>
 </div>
 
 <div class='wrap'>
+
+  <div class='section u-py6'>
+    <div class='section-row'>
+      <div class='section-chunk u-px4 u-clear'>
+        <h1 class='u-mb4'><strong class='u-block'>Health Questionnaire</strong> for Weight Loss Surgery</h1>
+        <div class='embed-container'>
+          <iframe
+            class='embed-item'
+            src="https://bariatricpal.typeform.com/to/IKm6G5"
+            frameborder="0">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class='section u-py6 u-bt0'>
+    <div class='section-row'>
+      <div class='section-chunk u-px4 u-clear'>
+        <h1 class='u-mt0 u-mb4'><strong class='u-block'>Health Questionnaire</strong> for Plastic Surgery</h1>
+        <div class='embed-container'>
+          <iframe
+            class='embed-item'
+            src="https://bariatricpal.typeform.com/to/FIdZ6c"
+            frameborder="0">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class='section u-py6 u-bt1'>
     <div class='section-row'>
       <div class='section-chunk u-size1of2 u-px4 u-sm-sizeFull u-sm-px2'>
-        <div class='box u-p2'>
+        <div class='box'>
           <div class='box-icon'>
-            <span class='icon icon--envelope'></span>
+            <span class='icon icon--envelopeGray'></span>
           </div>
           <div class='box-content'>
             {{page.addresses.mx | markdownify}}
@@ -138,9 +160,9 @@ layout: default
         </div>
       </div>
       <div class='section-chunk u-size1of2 u-px4 u-sm-sizeFull u-sm-px2 u-sm-mt1'>
-        <div class='box u-p2'>
+        <div class='box'>
           <div class='box-icon'>
-            <span class='icon icon--envelope'></span>
+            <span class='icon icon--envelopeGray'></span>
           </div>
           <div class='box-content'>
             {{page.addresses.ny | markdownify}}

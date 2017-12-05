@@ -129,6 +129,9 @@ layout: default
         <p>
           He specializes in plastic surgery and digestive, endocrine, and metabolic surgery (bariatric). Dr. Galvez has performed over 3,000 bariatric procedures and 2,000 plastic surgery procedures.
         </p>
+        <a class='u-mt1' href='/plastic-surgeries/credentials'>
+          View Dr. Galvez's Credentials
+        </a>
       </div>
       <div class='section-chunk u-size3of5 u-px4 u-pr2 u-xs-sizeFull u-xs-pl2 u-xs-mt3'>
         <h3 class='u-mt0'>

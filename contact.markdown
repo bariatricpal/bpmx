@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-position: 11
+position: 13
 seo:
   title: Schedule a consultation!
   description: 'Schedule a consultation. You''ll have an opportunity to ask questions
@@ -34,7 +34,7 @@ layout: default
           <strong>Get in Touch</strong>
         </h1>
         <p class='t3'>
-          Schedule a consultation. You'll have an opportunity to ask questions and get first-hand answers from the Director of Patient Relations, our Certified Nutritionist, and even your surgeon.
+          Schedule a free consultation. You'll have an opportunity to ask questions and get first-hand answers from the Director of Patient Relations, our Certified Nutritionist, and even your surgeon.
         </p>
         <span class='icon icon--heart u-mt4'></span>
         <p>
@@ -74,7 +74,7 @@ layout: default
         </div>
         <div class='box-content'>
           <h1 class='u-m0 u-sm-pt1'>
-            <strong>{{page.phone}}</strong>
+            <a class='u-textWhite' href='tel:{{page.phone | replace: "(", "" | replace: ") ", "" | replace: "-", ""}}'><strong>{{page.phone}}</strong></a>
           </h1>
         </div>
       </div>

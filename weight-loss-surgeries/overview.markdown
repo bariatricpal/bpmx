@@ -136,7 +136,10 @@ layout: default
         <p>
           He is a recognized expert in laparoscopic surgery who has performed over 5,500 laparoscopic procedures, 4,000 bariatric surgeries and took part in over 9,000 metabolic and bariatric surgical procedures.
         </p>
-        <div class='card u-mt2'>
+        <a href='/weight-loss-surgeries/credentials'>
+          View Dr. Illan's Credentials
+        </a>
+        <div class='card u-mt4'>
           <p class='u-m0'>
             Dr. Illan and his bariatric anesthesiologist Dr. Thanya Curiel chose a team of dedicated and experienced Tijuana bariatric surgeons, dietitians, nurses, and support staff who pride themselves on superior patient care and long-term weight loss success.
           </p>

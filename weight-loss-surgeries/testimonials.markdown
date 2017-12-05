@@ -2,7 +2,7 @@
 title: Weight Loss Surgery Testimonials
 position: 3
 seo:
-  title: BariatricPal MX Hospital Weight Loss Surgery Patient Testimonials
+  title: BariatricPal MX Hospital Patient Testimonials
   description: Listen to satisfied BariatricPal MX Hospital Weight Loss Surgery Patient's
     first. Then call us to schedule a weight loss surgery consultation.
 callToAction: |-

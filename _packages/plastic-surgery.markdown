@@ -1,8 +1,7 @@
 ---
 title: Plastic Surgery Package
-layout: default
 intro:
-  title: Plastic and Reconstructive Surgeries All-Inclusive Package for One Low Price!
+  title: Plastic and Reconstructive Surgeries for One Low Price!
   subtitle: |-
     Here are no hidden fees or expenses. It’s an all-inclusive, affordable
     surgery package! Your plastic and reconstructive surgery package includes:
@@ -37,5 +36,6 @@ sections:
     * 1 set of compression garments
     * Direct access (email and phone number) to Dr. Galvez after surgery for follow-up
     * Access to our private Facebook group for unlimited information and support
+layout: default
 ---
 

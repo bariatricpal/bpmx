@@ -1,8 +1,7 @@
 ---
 title: Weight Loss Surgery Package
-layout: default
 intro:
-  title: All-Inclusive Package for One Low Price!
+  title: All-Inclusive Weight Loss Surgery for One Low Price!
   subtitle: |-
     There are no hidden fees or expenses. It’s an all-inclusive, affordable
     surgery package! Your weight loss surgery package includes:
@@ -39,5 +38,6 @@ sections:
     * Lifetime nutritional support
     * Direct access (email and phone number) to Dr. Illan after surgery for follow-up
     * Access to our private Facebook group for unlimited information and support
+layout: default
 ---
 

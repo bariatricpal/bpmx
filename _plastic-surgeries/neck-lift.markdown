@@ -1,13 +1,9 @@
 ---
 title: Neck Lift
 position: 5
-subtitle: Get a beautiful neck
-layout: surgery
-image: "/uploads/neck-lift.png"
-surgery_excerpt:
-  content: A neck lift, or lower rhytidectomy, is a surgical procedure that improves
-    visible signs of sagging in the jawline and neck.
-  price: "$3500"
+seo:
+  title: Brazilian Butt Lift Surgery $3500 in Tijuana
+  description: Brazilian Butt Lift Surgery starting at only $3500 in Tijuana, Mexico
 surgery_types:
 - description: "​Standard neck lift"
   price: "$3500​"
@@ -17,6 +13,13 @@ surgery_types:
     ​​patients who need the most amount of correction and are willing to ​​accept
     its tradeoff to achieve the best possible post op contour."
   price: "$4000​"
+subtitle: Get a beautiful neck
+image: "/uploads/neck-lift.png"
+surgery_excerpt:
+  content: A neck lift, or lower rhytidectomy, is a surgical procedure that improves
+    visible signs of sagging in the jawline and neck.
+  price: "$3500"
+layout: surgery
 ---
 
 A neck lift, or lower rhytidectomy, is a surgical procedure that treats:

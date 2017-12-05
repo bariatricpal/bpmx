@@ -2,8 +2,7 @@
 title: Weight Loss Surgeries
 position: 1
 seo:
-  title: Choose from 5 different bariatric surgeries to start you on your weight loss
-    journey
+  title: Choose from 5 different bariatric surgeries
   description: Familiarize yourself with each type of weight loss surgery, and you
     and your bariatric surgeon will decide together which is the best option for you.
 layout: default

@@ -1,8 +1,14 @@
 ---
 title: Mini-Gastric Bypass Surgery
 position: 2
+seo:
+  title: Mini-Gastric Bypass Surgery
+  description: Mini-Gastric Bypass Surgery in Tijuana, Mexico
+surgery_types:
+- description: Mini-Gastric Bypass Surgery (there is an additional fee of $500 for
+    BMI’s over 48)
+  price: "$5700"
 subtitle: Also called the omega loop weight loss surgery and single anastomosis bypass.
-layout: surgery
 image: "/uploads/or-9.png"
 surgery_excerpt:
   content: It is also called the omega loop weight loss surgery and single anastomosis
@@ -10,10 +16,6 @@ surgery_excerpt:
     very popular and suitable for patients that have regained with other weight loss
     procedures.
   cover: or-3
-  price: "$5700"
-surgery_types:
-- description: Mini-Gastric Bypass Surgery (there is an additional fee of $500 for
-    BMI’s over 48)
   price: "$5700"
 surgery_facts: |-
   ### Advantages of the Mini Gastric Bypass
@@ -33,6 +35,7 @@ surgery_facts: |-
   * **Hormonal**: Ghrelin is a hormone that your stomach produces. It causes you to feel hungry.
   * **Ghrelin**: the mini gastric bypass can lead to lower levels of ghrelin so you don’t feel as hungry, but your levels of ghrelin may not stay low for long.
   * **GLP-1**: is glucagon-like peptide-1. It helps reduce food intake, and your levels may increase after MGB.
+layout: surgery
 ---
 
 The Mini Gastric Bypass (MGB) bariatric surgery is a restrictive and malapsorptive procedure. It is also called the omega loop weight loss surgery and single anastomosis bypass. The procedure has been around for a while, but it has recently become very popular and suitable for patients that have regained with other weight loss procedures. The MGB may be lower-risk for some patients. BariatricPalTeamMX’s surgeons are recognized experts in Laproscopic Mini Gastric Bypass surgery. They’ve performed thousands of Gastric Bypass procedures with the lowest complication rates in Mexico and zero fatalities. You will not find a more experienced Mini Gastric Bypass surgical team - anywhere! **You will not find a more experienced Mini Gastric Bypass surgical team - anywhere!**

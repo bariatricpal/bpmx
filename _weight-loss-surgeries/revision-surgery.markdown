@@ -1,17 +1,19 @@
 ---
 title: Revision Surgery
 position: 4
+seo:
+  title: Revision Weight Loss Surgery
+  description: Revision Weight Loss Surgery in Tijuana, Mexico
+surgery_types:
+- description: Revision Surgery
+  price: "$6000"
 subtitle: Correct your surgical complications and improve your weight loss results.
-layout: surgery
 image: "/uploads/or-10.png"
 surgery_excerpt:
   content: If your bariatric surgery was successful initially, but over time you noticed
     a significant decline in the amount of weight you are losing, you may be an ideal
     candidate for revision surgery.
   cover: or-4
-  price: "$6000"
-surgery_types:
-- description: Revision Surgery
   price: "$6000"
 surgery_facts: |-
   Our skilled team has performed thousands of revision surgeries. Here are some examples of Bariatric revision surgeries we perform on a regular basis:
@@ -28,6 +30,7 @@ surgery_facts: |-
   When suggesting a more optimal form of treatment, our bariatric team will educate you on what to expect before, during and after treatment, benefits and risks associated with the procedure, and answer any questions you may have regarding surgery. Through thorough education you will be able to make a more informed, confident decision regarding the path you want to take in achieving your weight loss goals.
 
   We specialize in all Weight Loss Surgery Revisions - please call for pricing.
+layout: surgery
 ---
 
 If your bariatric surgery was successful initially, but over time you have noticed a significant decline in the amount of weight you are losing, you may be an ideal candidate for revision surgery. By performing revision surgery, our surgeons can assist you with further weight loss. Revision surgery can correct your surgical complications and improve your weight loss results.

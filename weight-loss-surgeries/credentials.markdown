@@ -1,6 +1,9 @@
 ---
 title: Dr. Jalil Illan Credentials
 position: 11
+seo:
+  title: Dr. Jalil Illan Credentials
+  description: Dr. Jalil Illan Surgical Credentials
 layout: default
 ---
 

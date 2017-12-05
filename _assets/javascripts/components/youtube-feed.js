@@ -11,7 +11,7 @@ var Youtube = (function () {
     template += "<img src="+image+" alt="+title+"/>";
     template += "</div>";
     template += "<div class='video-text'>";
-    template += "<p class='u-textSecondary u-m0 u-left'>"+title+"</p>";
+    template += "<p class='video-title'>"+title+"</p>";
     template += "<a class='video-link u-right' href=#"+id+">";
     template += "<span class='icon icon--play'></span>Play";
     template += "</a>";
@@ -28,7 +28,7 @@ var Youtube = (function () {
     template += "<img src="+image+" alt="+title+"/>";
     template += "</div>";
     template += "<div class='video-text'>";
-    template += "<p class='u-textSecondary u-m0 u-left'>"+title+"</p>";
+    template += "<p class='video-title'>"+title+"</p>";
     template += "<a class='video-link u-right' href=#"+id+">";
     template += "<span class='icon icon--play'></span>Play";
     template += "</a>";
@@ -40,7 +40,14 @@ var Youtube = (function () {
 
   var makeRequest = function makeRequest() {
     var apiKey = 'AIzaSyB6C4dKXZYXZjyppD53hA3_KG3GEA4G6JY';
-    var playlistId = 'PL7rnWU4FvBZ2XRSmHk9qiTkAUGhAEJ8_x';
+    var bariatricsPlaylistId = 'PL7rnWU4FvBZ2XRSmHk9qiTkAUGhAEJ8_x';
+    var plasticsPlaylistId = 'PL7rnWU4FvBZ0BMdNGoPBwIXCPAMZJeu2f';
+
+    var playlistId = bariatricsPlaylistId;
+    if (document.location.pathname == '/plastic-surgeries/testimonials/') {
+      playlistId = plasticsPlaylistId;
+    }
+
     var url = 'https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=20&playlistId='+playlistId+'&key='+apiKey;
 
     $.ajax({

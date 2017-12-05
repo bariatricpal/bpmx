@@ -32,11 +32,31 @@ layout: default
           Our team knows that your choice of weight loss surgery types is individual. That is why we offer a range of surgery types.
         </p>
         <ul class='unorderedList'>
-          <li class='unorderedList-item'>Gastric Sleeve</li>
-          <li class='unorderedList-item'>Mini Gastric Bypass</li>
-          <li class='unorderedList-item'>Gastric Bypass</li>
-          <li class='unorderedList-item'>Revisional Surgery</li>
-          <li class='unorderedList-item'>Duodenal Switch Surgery</li>
+          <li class='unorderedList-item'>
+            <a href="/weight-loss-surgeries/gastric-sleeve-surgery/">
+              Gastric Sleeve
+            </a>
+          </li>
+          <li class='unorderedList-item'>
+            <a href="/weight-loss-surgeries/mini-gastric-bypass-surgery/">
+              Mini Gastric Bypass
+            </a>
+          </li>
+          <li class='unorderedList-item'>
+            <a href="/weight-loss-surgeries/roux-en-y/">
+              Gastric Bypass
+            </a>
+          </li>
+          <li class='unorderedList-item'>
+            <a href="/weight-loss-surgeries/revision-surgery/">
+              Revisional Surgery
+            </a>
+          </li>
+          <li class='unorderedList-item'>
+            <a href="/weight-loss-surgeries/duodenal-switch-surgery/">
+              Duodenal Switch Surgery
+            </a>
+          </li>
         </ul>
         <p>
           We do not push one type of weight loss surgery on a patient just because it is a popular type or it is our surgeon’s preferred type. The type of weight loss surgery you get is a careful decision made by you and your surgeon based on your preferences, goals, lifestyle, and health risks.

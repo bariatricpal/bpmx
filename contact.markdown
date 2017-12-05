@@ -121,13 +121,7 @@ layout: default
     <div class='section-row'>
       <div class='section-chunk u-px4 u-clear'>
         <h1 class='u-mb4'><strong class='u-block'>Health Questionnaire</strong> for Weight Loss Surgery</h1>
-        <div class='embed-container'>
-          <iframe
-            class='embed-item'
-            src="https://bariatricpal.typeform.com/to/IKm6G5"
-            frameborder="0">
-          </iframe>
-        </div>
+        <div class="typeform-widget" data-url="https://bariatricpal.typeform.com/to/IKm6G5" style="width: 100%; height: 500px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
       </div>
     </div>
   </div>
@@ -136,13 +130,7 @@ layout: default
     <div class='section-row'>
       <div class='section-chunk u-px4 u-clear'>
         <h1 class='u-mt0 u-mb4'><strong class='u-block'>Health Questionnaire</strong> for Plastic Surgery</h1>
-        <div class='embed-container'>
-          <iframe
-            class='embed-item'
-            src="https://bariatricpal.typeform.com/to/FIdZ6c"
-            frameborder="0">
-          </iframe>
-        </div>
+        <div class="typeform-widget" data-url="https://bariatricpal.typeform.com/to/FIdZ6c" style="width: 100%; height: 500px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
       </div>
     </div>
   </div>

@@ -60,7 +60,7 @@ layout: default
         <p class='t3 u-textSecondary u-bt1 u-pt4 u-mt4'>
           View all BariatricPal Hospital MX videos and testimonials
         </p>
-        <a class='btn' href='https://www.youtube.com/watch?v=aQtrzMeDkHo&list=PL7rnWU4FvBZ2XRSmHk9qiTkAUGhAEJ8_x' target='_blank'>
+        <a class='btn' href='https://www.youtube.com/watch?v=4Z4meFLL32M&list=PL7rnWU4FvBZ0BMdNGoPBwIXCPAMZJeu2f' target='_blank'>
           Watch now!
         </a>
       </div>

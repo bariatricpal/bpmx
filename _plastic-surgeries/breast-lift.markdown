@@ -1,14 +1,9 @@
 ---
 title: Breast Lift
 position: 3
-subtitle: Create the breasts you've always wanted
-layout: surgery
-image: "/uploads/breast-lift.png"
-surgery_excerpt:
-  content: A breast lift, also known as mastopexy, raises the breasts by removing
-    excess skin and tightening the surrounding tissue to reshape and support the new
-    breast contour.
-  price: "$2400"
+seo:
+  title: Breast Lift Surgery only $2400 in Tijuana
+  description: Breast Lift Surgery starting at only $2400 in Tijuana, Mexico
 surgery_types:
 - description: "​​​Standard breast lift. With pregnancy, the effect of gravity on
     the skin ​​and fat, and the fluctuations in body weight through the years, all
@@ -24,6 +19,14 @@ surgery_types:
   price: "$3000"
 - description: Implants
   price: "$600"
+subtitle: Create the breasts you've always wanted
+image: "/uploads/breast-lift.png"
+surgery_excerpt:
+  content: A breast lift, also known as mastopexy, raises the breasts by removing
+    excess skin and tightening the surrounding tissue to reshape and support the new
+    breast contour.
+  price: "$2400"
+layout: surgery
 ---
 
 A **breast lift**, also known as mastopexy, raises the breasts by removing excess skin and tightening the surrounding tissue to reshape and support the new breast contour. Breast surgery procedures must be tailored to each individual. **Breast augmentation with implants consists in placing** an implant behind the mammary gland and/or the pectoral muscle.

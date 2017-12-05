@@ -1,14 +1,9 @@
 ---
 title: Tummy Tuck
 position: 0
-subtitle: Pick the Tummy Tuck procedure that works best for you.
-layout: surgery
-image: "/uploads/tummy-tuck.png"
-surgery_excerpt:
-  content: Tummy tuck surgery, also known as abdominoplasty, removes excess fat and
-    skin and, in most cases, restores weakened or separated muscles creating a stomach
-    that is smoother and firmer.
-  price: "$2400"
+seo:
+  title: Tummy Tuck Surgery $2400 in Tijuana
+  description: Tummy Tuck Surgery starting at only $2400 in Tijuana, Mexico
 surgery_types:
 - description: "​Standard tummy tuck"
   price: "$2400​"
@@ -22,6 +17,14 @@ surgery_types:
     ​​patients who need the most amount of correction and are willing to ​​accept
     its tradeoff to achieve the best possible post op contour."
   price: "$3400"
+subtitle: Pick the Tummy Tuck procedure that works best for you.
+image: "/uploads/tummy-tuck.png"
+surgery_excerpt:
+  content: Tummy tuck surgery, also known as abdominoplasty, removes excess fat and
+    skin and, in most cases, restores weakened or separated muscles creating a stomach
+    that is smoother and firmer.
+  price: "$2400"
+layout: surgery
 ---
 
 **Tummy tuck surgery**, also known as abdominoplasty, removes excess fat and skin and, in most cases, restores weakened or separated muscles creating an abdominal profile that is smoother and firmer. This surgery removes the excess skin and fat of the lower abdomen while at the same time tightening the abdominal muscles to create a flatter more aesthetic tummy. Usually patients who have had a pregnancy or have lost a significant amount of weigh are perfect candidates for this procedure.  There are different types of tummy tuck depending on your body type.

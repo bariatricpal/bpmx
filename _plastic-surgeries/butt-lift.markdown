@@ -1,8 +1,15 @@
 ---
 title: Butt Lift
 position: 4
+seo:
+  title: Brazilian Butt Lift Surgery $2400 in Tijuana
+  description: Brazilian Butt Lift Surgery starting at only $2400 in Tijuana, Mexico
+surgery_types:
+- description: "​Brazilian butt lift"
+  price: "$3500​"
+- description: "​Butt augmentation with implants"
+  price: "$3500​"
 subtitle: Sculpting the perfect butt
-layout: surgery
 image: "/uploads/butt-lift.png"
 surgery_excerpt:
   content: Butt augmentation is one of the most sought out procedures, and the Brazilian
@@ -10,11 +17,7 @@ surgery_excerpt:
     through fat grafting, resulting in drastic results and changes you will see and
     love.
   price: "$2400"
-surgery_types:
-- description: "​Brazilian butt lift"
-  price: "$3500​"
-- description: "​Butt augmentation with implants"
-  price: "$3500​"
+layout: surgery
 ---
 
 **Brazilian butt lift (BBL)**

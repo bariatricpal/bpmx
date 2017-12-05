@@ -1,8 +1,15 @@
 ---
 title: Arm Lift
 position: 1
+seo:
+  title: Arm Lift Surgery $2400 in Tijuana
+  description: Arm Lift Surgery starting at only $2400 in Tijuana, Mexico
+surgery_types:
+- description: "​​Standard arm lift"
+  price: "$2400​"
+- description: "​Mini arm lift"
+  price: "$2400​"
 subtitle: You have options with an Arm Lift
-layout: surgery
 image: "/uploads/arm-lift.png"
 surgery_excerpt:
   content: An arm lift, or brachioplasty, is a surgical procedure that reduces excess
@@ -10,11 +17,7 @@ surgery_excerpt:
     tissue that defines the shape of the upperarm and reduces localized pockets of
     fat in the upperarm region.
   price: "$2400"
-surgery_types:
-- description: "​​Standard arm lift"
-  price: "$2400​"
-- description: "​Mini arm lift"
-  price: "$2400​"
+layout: surgery
 ---
 
 An **arm lift**, or brachioplasty, is a surgical procedure that:

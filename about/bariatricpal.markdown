@@ -6,8 +6,9 @@ seo:
   description: It all started with one man's weight loss journey. Much like you, Alex
     Brecher, founder, and president of BariatricPal wanted to finally take control
     of his weight.
-callToAction: "<strong>Don't wait another moment</strong>. Get started<br/> on your
-  weight loss journey today!"
+callToAction: |-
+  <strong>Don't wait another moment</strong>. Get started<br/> on your
+  weight loss journey today!
 layout: default
 ---
 
@@ -29,8 +30,8 @@ layout: default
         <h1 class='u-textPrimary'>
           Thus, BariatricPal was born.
         </h1>
-        <p>
-          Read in his own words the genesis of this amazing system. And watch the video for a personal message from the founder of BariatricPal to you.
+        <p class='js-scroll-to'>
+          Read in his own words the genesis of this amazing system. And watch the <a href='#about-video'>video</a> for a personal message from the founder of BariatricPal to you.
         </p>
       </div>
       <div class='section-chunk u-size3of7 u-mAuto u-px4 u-xs-sizeFull'>
@@ -52,7 +53,7 @@ layout: default
     </div>
     <div class='section-row'>
       <div class='section-chunk u-p4'>
-        <a class='ctrl ctrl--play' href='#qctIbDMqjNM'>
+        <a id='about-video' class='ctrl ctrl--play' href='#qctIbDMqjNM'>
           <img src='/uploads/alex-brecher.png' alt='Alex Brecher Video'/>
         </a>
       </div>

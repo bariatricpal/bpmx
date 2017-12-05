@@ -22,7 +22,7 @@ $(function(){
     $scrollTo.click(function(e) {
       e.preventDefault();
       var $this = $(this);
-      var offset = 120;
+      var offset = 90;
       var elementId = $this.attr('href');
       var position = $(elementId).offset().top - offset;
       $scrollTo.removeClass(activeClass);

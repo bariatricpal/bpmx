@@ -1,19 +1,22 @@
 ---
 title: Thigh Lift
 position: 2
+seo:
+  title: Thigh Lift Surgery $2400 in Tijuana
+  description: Thigh Lift Surgery starting at only $2400 in Tijuana, Mexico
+surgery_types:
+- description: "​​Standard thigh lift"
+  price: "$2400​"
+- description: "​Mini arm lift"
+  price: "$2400​"
 subtitle: Choose the legs you want
-layout: surgery
 image: "/uploads/thigh-lift.png"
 surgery_excerpt:
   content: A thigh lift, or thighplasty, involves the removal of excess skin, fat,
     and tissue to tone and refine the upper legs. Thigh lift is an excellent way to
     achieve firmer and more attractive upper legs.
   price: "$2400"
-surgery_types:
-- description: "​​Standard thigh lift"
-  price: "$2400​"
-- description: "​Mini arm lift"
-  price: "$2400​"
+layout: surgery
 ---
 
 **Thigh lift surgery** reshapes the thighs by reducing excess skin and fat, resulting in smoother skin and better-proportioned contours of the thighs and lower body. Calf augmentation is perfect for those with small calves. Calf muscles have a very limited space for growth, luckily you have options to achieve a bigger calf.

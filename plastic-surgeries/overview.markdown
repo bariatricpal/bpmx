@@ -144,15 +144,15 @@ View Dr. Galvez's Credentials
 </h3>
 <ol class='checkList'>
 <li class='checkList-item'>
-Title: Medico General / General Physician<br/>
+Title: General Physician<br/>
 University: Universidad Autónoma de Baja California
 </li>
 <li class='checkList-item'>
-Title: Cirugia Digestiva y Endocrina / Digestive and Endocrine Surgery<br/>
+Title: Digestive and Endocrine Surgery<br/>
 University: Universidad de Monterrey
 </li>
 <li class='checkList-item'>
-Title: Cirugia Plastica, Estetica y Reconstructiva / Plastic, aesthetic and reconstructive surgery<br/>
+Title: Plastic, aesthetic and reconstructive surgery<br/>
 University: Universidad de Guadalajara
 </li>
 </ol>

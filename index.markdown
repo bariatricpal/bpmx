@@ -2,12 +2,9 @@
 title: BariatricPal Hospital MX
 position: 0
 seo:
-  title: |-
-    BariatricPal Hospital MX: The most Experienced Bariatric & Plastic
-    Surgeons in Mexico!
+  title: 'BariatricPal Hospital MX: Affordable Bariatric & Plastic Surgery in Mexico'
   description: |-
-    BariatricPal Hospital MX does weight loss surgery and plastic surgery
-    every day. We are the most Experienced Bariatric & Plastic Surgeons in
+    BariatricPal Hospital MX offers affordable weight loss surgery and plastic surgery. We are the most Experienced Bariatric & Plastic Surgeons in
     Mexico!
 testimonials_intro: "Hear what satisfied patients\n say about BariatricPal \nHospital
   MX and Staff"

@@ -7,7 +7,7 @@ seo:
 surgery_types:
 - description: "​​Standard thigh lift"
   price: "$2400​"
-- description: "​Mini arm lift"
+- description: "​Mini thigh lift"
   price: "$2400​"
 subtitle: Choose the legs you want
 image: "/uploads/thigh-lift.png"

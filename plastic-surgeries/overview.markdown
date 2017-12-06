@@ -2,7 +2,7 @@
 title: Plastic Surgery Overview
 position: 6
 seo:
-  title: Plastic Surgery in Tijuana, Mexico
+  title: Affordable Plastic Surgery in Tijuana, Mexico
   description: The best plastic surgeons, anesthesiologists, and nurses in all of
     Mexico.
 testimonials_intro: |-

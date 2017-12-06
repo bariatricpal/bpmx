@@ -2,7 +2,7 @@
 title: Weight Loss Surgery Overview
 position: 2
 seo:
-  title: Weight Loss Surgery Overview
+  title: Affordable Weight Loss Surgery in Tijuana, Mexico
   description: |-
     The best bariatric surgeons, anesthesiologists,
     and nurses in all of Mexico.

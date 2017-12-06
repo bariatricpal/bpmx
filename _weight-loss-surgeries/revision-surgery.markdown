@@ -2,8 +2,9 @@
 title: Revision Surgery
 position: 4
 seo:
-  title: Revision Weight Loss Surgery
-  description: Revision Weight Loss Surgery in Tijuana, Mexico
+  title: Revision Weight Loss Surgery in Tijuana, Mexico
+  description: Affordable Revision Weight Loss Surgery in Tijuana, Mexico. You will
+    not find a more experienced Weight Loss surgical team - anywhere.
 surgery_types:
 - description: Revision Surgery
   price: "$6000"

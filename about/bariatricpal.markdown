@@ -71,7 +71,7 @@ layout: default
           medical tourism package possible!
         </p>
         <p>
-          First, the care is absolutely top notch. We built our own dedicated bariatric hospital for our well-known surgeons to insure great medical care for these important procedures. In and out of the operating room, your experience with BariatricPal Hospital MX and our team includes the personal care and service you would expect to make your trip out of the country a great one. The first and most important thing to ask about when you are planning weight loss or reconstructive surgery is the healthcare team’s experience. At BariatricPal MX, we have a medical team that’s world renowned and second to none. Our surgeons have years of experience, the best outcomes, and the lowest complication rates in Mexico.
+          First, the care is absolutely top notch. We built our own dedicated bariatric hospital for our well-known surgeons to insure great medical care for these important procedures. In and out of the operating room, your experience with BariatricPal Hospital MX and our team includes the personal care and service you would expect to make your trip out of the country a great one. The first and most important thing to ask about when you are planning weight loss or reconstructive surgery is the healthcare team’s experience. At BariatricPal MX, we have a medical team that’s world-renowned and second to none. Our surgeons have years of experience, the best outcomes, and the lowest complication rates in Mexico.
         </p>
       </div>
     </div>

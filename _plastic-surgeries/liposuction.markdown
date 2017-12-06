@@ -2,7 +2,7 @@
 title: Liposuction
 position: 6
 seo:
-  title: Liposuction $2700 in Tijuana
+  title: Liposuction in Tijuana only $2400
   description: Liposuction starting at only $2700 in Tijuana
 surgery_types:
 - description: "​Full body liposuction"

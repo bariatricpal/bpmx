@@ -2,7 +2,7 @@
 title: Dr. Alejandro Galvez Credentials
 position: 12
 seo:
-  title: Dr. Alejandro Galvez Credentials
+  title: Dr. Alejandro Galvez Plastic Surgeon Credentials
   description: Dr. Alejandro Galvez Surgical Credentials
 layout: default
 ---

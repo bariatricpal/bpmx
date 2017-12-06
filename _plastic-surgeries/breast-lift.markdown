@@ -2,7 +2,7 @@
 title: Breast Lift
 position: 3
 seo:
-  title: Breast Lift Surgery only $2400 in Tijuana
+  title: Breast Lift Surgery in Tijuana only $2400
   description: Breast Lift Surgery starting at only $2400 in Tijuana, Mexico
 surgery_types:
 - description: "​​​Standard breast lift. With pregnancy, the effect of gravity on

@@ -2,8 +2,9 @@
 title: Mini-Gastric Bypass Surgery
 position: 2
 seo:
-  title: Mini-Gastric Bypass Surgery
-  description: Mini-Gastric Bypass Surgery in Tijuana, Mexico
+  title: Mini-Gastric Bypass Surgery in Tijuana, Mexico
+  description: Affordable Mini-Gastric Bypass Surgery in Tijuana, Mexico. You will
+    not find a more experienced Mini-Gastric Bypass surgical team - anywhere.
 surgery_types:
 - description: Mini-Gastric Bypass Surgery (there is an additional fee of $500 for
     BMI’s over 48)

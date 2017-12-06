@@ -2,7 +2,7 @@
 title: Thigh Lift
 position: 2
 seo:
-  title: Thigh Lift Surgery $2400 in Tijuana
+  title: 'Thigh Lift Surgery in Tijuana only $2400 '
   description: Thigh Lift Surgery starting at only $2400 in Tijuana, Mexico
 surgery_types:
 - description: "​​Standard thigh lift"

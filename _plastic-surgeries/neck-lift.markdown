@@ -2,7 +2,7 @@
 title: Neck Lift
 position: 5
 seo:
-  title: Brazilian Butt Lift Surgery $3500 in Tijuana
+  title: Brazilian Butt Lift Surgery in Tijuana only $3500
   description: Brazilian Butt Lift Surgery starting at only $3500 in Tijuana, Mexico
 surgery_types:
 - description: "​Standard neck lift"

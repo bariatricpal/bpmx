@@ -2,7 +2,7 @@
 title: Refund Policy
 position: 16
 seo:
-  title: Refund Policy
+  title: BariatricPal Hospital MX Refund Policy
   description: BariatricPal Hospital MX Refund Policy
 layout: default
 ---

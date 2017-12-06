@@ -2,8 +2,10 @@
 title: Roux-en-Y Gastric Bypass (RYGB)
 position: 3
 seo:
-  title: Roux-en-Y Gastric Bypass (RYGB)
-  description: Roux-en-Y Gastric Bypass (RYGB) Surgery in Tijuana, Mexico
+  title: Roux-en-Y Gastric Bypass (RYGB)  Surgery in Tijuana, Mexico
+  description: Affordable Roux-en-Y Gastric Bypass (RYGB) Surgery in Tijuana, Mexico.
+    You will not find a more experienced Roux-en-Y Gastric Bypass (RYGB)  surgical
+    team - anywhere.
 surgery_types:
 - description: Roux-en-Y Gastric Bypass Surgery
   price: "$6000"

@@ -4,8 +4,7 @@ position: 5
 seo:
   title: Plastic and Reconstructive Surgeries in Mexico
   description: Plastic, Aesthetic and Reconstructive Surgeries in Mexico. Makes you
-    look as good as you feel after losing weight. With rapid weight loss, skin doesn't
-    bounce back to its pre-weight gain shape and becomes saggy.
+    look as good as you feel after losing weight.
 layout: default
 ---
 

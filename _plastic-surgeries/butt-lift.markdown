@@ -2,7 +2,7 @@
 title: Butt Lift
 position: 4
 seo:
-  title: Brazilian Butt Lift Surgery $2400 in Tijuana
+  title: Brazilian Butt Lift Surgery in Tijuana only $2400
   description: Brazilian Butt Lift Surgery starting at only $2400 in Tijuana, Mexico
 surgery_types:
 - description: "​Brazilian butt lift"

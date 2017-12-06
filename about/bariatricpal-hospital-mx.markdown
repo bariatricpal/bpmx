@@ -3,10 +3,9 @@ title: About BariatricPal Hospital MX
 position: 10
 seo:
   title: About BariatricPal Hospital MX
-  description: Unlike other hospitals where bariatric surgeries may be few and far
-    between, BariatricPal Hospital MX does weight loss surgery every day. We perform
-    over 100 procedures per month, and your surgeon has performed over 9,000 surgeries,
-    with a perfect track record of 0 fatalities
+  description: 'Bariatric Surgery Is Our Life. Unlike other hospitals where bariatric
+    surgeries may be few and far between, BariatricPal Hospital MX does weight loss
+    surgery every day. '
 callToAction: |-
   <strong>Don't wait another moment</strong>. Get started<br/> on
   your weight loss journey today!

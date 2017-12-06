@@ -2,8 +2,9 @@
 title: Duodenal Switch Surgery
 position: 5
 seo:
-  title: Duodenal Switch Surgery
-  description: Duodenal Switch Surgery in Tijuana, Mexico
+  title: Duodenal Switch Weight Loss Surgery in Tijuana, Mexico
+  description: Affordable Duodenal Switch Surgery in Tijuana, Mexico. You will not
+    find a more experienced Duodenal Switch surgical team - anywhere.
 surgery_types:
 - description: Duodenal Switch Surgery
   price: "$6400"

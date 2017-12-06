@@ -2,7 +2,7 @@
 title: Tummy Tuck
 position: 0
 seo:
-  title: Tummy Tuck Surgery $2400 in Tijuana
+  title: Tummy Tuck Surgery in Tijuana only $2400
   description: Tummy Tuck Surgery starting at only $2400 in Tijuana, Mexico
 surgery_types:
 - description: "​Standard tummy tuck"

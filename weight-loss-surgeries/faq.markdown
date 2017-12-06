@@ -2,8 +2,8 @@
 title: Weight Loss Surgery FAQ
 position: 4
 seo:
-  title: Weight Loss Surgery FAQ
-  description: Weight Loss Surgery in Mexico Frequently Asked Questions
+  title: Weight Loss Surgery in Mexico FAQ
+  description: 'Frequently Asked Questions about Weight Loss Surgery in Mexico '
 faqs:
 - question: Why would I consider weight loss surgery in Mexico?
   answer: Getting your surgery done in Mexico can be less expensive than getting it

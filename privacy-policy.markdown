@@ -2,9 +2,9 @@
 title: Privacy Policy
 position: 15
 seo:
-  title: Privacy Policy
-  description: BariatricPal MX privacy policy
-layout: default
+  title: BariatricPal Hospital MX Privacy Policy
+  description: BariatricPal Hospital MX is committed to protecting your privacy and
+    developing technology that gives you the most powerful and safe online experience.
 body: |2-
 
   BariatricPal Hospital MX is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the BariatricPal Hospital MX website and governs data collection and usage. By using the BariatricPal Hospital MX website, you consent to the data practices described in this statement.
@@ -59,6 +59,7 @@ body: |2-
   **Contact Information**
 
   BariatricPal Hospital MX welcomes your comments regarding this Statement of Privacy. If you believe that BariatricPal Hospital MX has not adhered to this Statement, please contact BariatricPal Hospital MX at TeamMX@BariatricPalHospitalMX.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+layout: default
 ---
 
 <div class='wrap'>

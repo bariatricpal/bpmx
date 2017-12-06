@@ -2,7 +2,7 @@
 title: Arm Lift
 position: 1
 seo:
-  title: Arm Lift Surgery $2400 in Tijuana
+  title: Arm Lift Surgery in Tijuana only $2400
   description: Arm Lift Surgery starting at only $2400 in Tijuana, Mexico
 surgery_types:
 - description: "​​Standard arm lift"

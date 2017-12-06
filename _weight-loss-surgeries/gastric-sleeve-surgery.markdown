@@ -2,8 +2,9 @@
 title: Gastric Sleeve Surgery
 position: 1
 seo:
-  title: Gastric Sleeve Surgery
-  description: Gastric Sleeve Surgery in Tijuana, Mexico
+  title: Gastric Sleeve Surgery in Tijuana, Mexico
+  description: Affordable Gastric Sleeve Surgery in Tijuana, Mexico. You will not
+    find a more experienced Gastric Sleeve surgical team - anywhere.
 surgery_types:
 - description: "​​Gastric Sleeve Surgery"
   price: "$4600"

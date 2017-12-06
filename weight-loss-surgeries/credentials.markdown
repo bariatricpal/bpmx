@@ -2,8 +2,8 @@
 title: Dr. Jalil Illan Credentials
 position: 11
 seo:
-  title: Dr. Jalil Illan Credentials
-  description: Dr. Jalil Illan Surgical Credentials
+  title: 'Dr. Jalil Illan: Bariatric Surgeon Credentials'
+  description: Dr. Jalil Illan Bariatric Surgeon Credentials
 layout: default
 ---
 

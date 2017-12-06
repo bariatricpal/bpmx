@@ -79,9 +79,9 @@ exclude:
 - package.json
 - node_modules
 - gulpfile.js
-description: For over 14 years, the BariatricPal team has been committed and completely
-  dedicated to helping weight loss surgery and plastic surgery patients just like
-  you.
+description: 'The Most Experienced Bariatric & Plastic Surgeons in Mexico. Feel comfortable
+  with our internationally recognized surgical experts in laparoscopic surgery and
+  reconstructive procedures. '
 twitter:
   image: 'upload size: 120x120'
 facebook:

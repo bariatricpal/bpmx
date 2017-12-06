@@ -1,6 +1,5 @@
 ---
-title: 'BariatricPal Hospital MX: The Most Experienced Bariatric & Plastic Surgeons
-  in Mexico'
+title: 'BariatricPal Hospital MX: Bariatric & Plastic Surgery in Mexico'
 timezone: UTC
 collections:
   packages:
@@ -80,9 +79,9 @@ exclude:
 - package.json
 - node_modules
 - gulpfile.js
-description: BariatricPal has a long and impressive history. For over 14 years, the
-  BariatricPal team has been committed and completely dedicated to helping weight
-  loss surgery and plastic surgery patients just like you.
+description: For over 14 years, the BariatricPal team has been committed and completely
+  dedicated to helping weight loss surgery and plastic surgery patients just like
+  you.
 twitter:
   image: 'upload size: 120x120'
 facebook:

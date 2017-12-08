@@ -41,10 +41,13 @@ layout: default
           </h3>
           <form id='bmi-calculator' class='form form--dark'>
             <div class='form-field'>
-              <input id='bmi-height' class='form-input' type='text' name='height' placeholder='Height in Ft' required>
+              <input id='bmi-height-feet' class='form-input' type='text' name='height-feet' placeholder='Height in Feet' required>
             </div>
             <div class='form-field'>
-              <input id='bmi-weight' class='form-input' type='text' name='weight' placeholder='Weight in lbs' required>
+              <input id='bmi-height-inches' class='form-input' type='text' name='height-inches' placeholder='Height in Inches' required>
+            </div>
+            <div class='form-field'>
+              <input id='bmi-weight' class='form-input' type='text' name='weight' placeholder='Weight in Lbs' required>
             </div>
             <div class='form-field'>
               <button class='form-button' type="submit">Show result</button>

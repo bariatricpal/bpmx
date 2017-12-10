@@ -499,11 +499,11 @@ others:
 
       When you are released from the hospital, we will pick you up and bring you to the Hotel. You can relax or schedule a trip to go walking or shopping.
   - question: Nutritional Support
-    answer: BariatricPal TeamMX offers our patients lifetime nutritional support!
+    answer: BariatricPal Hospital MX offers our patients lifetime nutritional support!
       Good nutrition is crucial for your healthy recovery and success in losing weight
       after surgery. Soon after surgery, your nutritionist will come by to begin your
       post-op nutritional support. You will also learn how you can stay in touch with
-      your BariatricPal TeamMX nutritionist for your follow-up program.
+      your BariatricPal Hospital MX nutritionist for your follow-up program.
   - question: Leaving Mexico
     answer: |-
       We recommend you plan to stay for 2 days to begin a proper recovery from surgery. On the day you leave, we will bring you back to San Diego 2 hours before your flight. Please consider that we may have more patients to pick up and may need to take you to the airport earlier than the 2 hours before your flight. Also, we may need to go through US Customs, which could take anywhere from 30 minutes to 1 1/2 hours or more. The following can speed the process:
@@ -514,6 +514,8 @@ others:
       * Please read through our page on passports and US Customs requirements so you can be prepared
 
       Once we are back in the US, we will take you directly to the airport for your flight back home.
+  - question: 
+    answer: 
 layout: default
 ---
 

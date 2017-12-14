@@ -220,12 +220,12 @@ faqs:
 - question: Will I have noticeable scars after surgery?
   answer: Your incisions will be approximately one inch in length and barely noticeable
     as time passes.
-- question: Is it safe to travel to Tijuana for surgery?
-  answer: It is completely safe to travel to Tijuana and have surgery with us, at
-    BariatricPal Team MX. Our team takes care of you from your arrival at the San
-    Diego Airport through the entire weight loss surgery experience. Someone is always
-    available to answer your questions, address your concerns and explain what to
-    expect.
+- question: Is it safe to travel to Tijuana, Mexico for surgery?
+  answer: It is completely safe to travel to Tijuana, Mexico and have surgery with
+    us, at BariatricPal Hospital MX. Our team takes care of you from your arrival
+    at the San Diego Airport through the entire weight loss surgery experience. Someone
+    is always available to answer your questions, address your concerns and explain
+    what to expect.
 - question: Mexico's standards are not up to par with U.S. standards. Is that true?
   answer: Our standards are world class! Our surgeons and hospitals go through rigorous
     reviews to assure that internationals standards are met.

@@ -48,9 +48,10 @@
   {% endif %}
 
   <link href="/uploads/favicon.ico" rel="icon" type="image/x-icon" />
-  <link rel="stylesheet" href='{{ "app.css" | prepend: site.assetpath }}'>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{site.title}}" href='{{ "/feed.xml" | prepend: site.url }}'>
+
+  {% include critical-css.html %}
 
   {{site.bing}}
 </head>

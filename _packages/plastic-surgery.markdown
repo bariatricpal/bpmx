@@ -2,9 +2,9 @@
 title: Plastic Surgery Package
 intro:
   title: Plastic and Reconstructive Surgeries for One Low Price!
-  subtitle: |-
-    Here are no hidden fees or expenses. It’s an all-inclusive, affordable
-    surgery package! Your plastic and reconstructive surgery package includes:
+  subtitle: 'Your plastic surgery quote contains no hidden fees or expenses. It’s
+    an all-inclusive, affordable surgery package! Your plastic and reconstructive
+    surgery package include:'
 sections:
 - title: Surgery and related expenses
   content: |-

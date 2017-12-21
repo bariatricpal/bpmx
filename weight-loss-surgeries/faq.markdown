@@ -514,8 +514,6 @@ others:
       * Please read through our page on passports and US Customs requirements so you can be prepared
 
       Once we are back in the US, we will take you directly to the airport for your flight back home.
-  - question: 
-    answer: 
 layout: default
 ---
 

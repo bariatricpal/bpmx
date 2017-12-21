@@ -53,6 +53,7 @@ $(function(){
   var enableMobileNav = function enableMobileNav() {
     $navBarButton.click(function(event) {
       event.preventDefault();
+      $window.scrollTop(0);
       $body.toggleClass('has-side-menu');
     });
   };
@@ -90,6 +91,19 @@ $(function(){
     $modal.hide();
   };
 
+  var enableStickyNav = function enableStickyNav() {
+    var scrollTop = $(document).scrollTop();
+    if (scrollTop >= 115) {
+      $navBar.addClass('is-sticky');
+    } else {
+      $navBar.removeClass('is-sticky');
+    }
+  };
+
+  var scroll = function scroll() {
+    enableStickyNav();
+  };
+
   var init = function init() {
     initScrollTo();
     initHero();
@@ -97,6 +111,7 @@ $(function(){
     enableMobileNav();
     enableAchordeon();
     enableVideoPlayer();
+    $window.bind('scroll', scroll);
   };
 
   init();

@@ -141,10 +141,9 @@ faqs:
     package deal.
 - question: How many days should I expect to be in Mexico?
   answer: Barring no medical complications, if you arrive the day of your surgery
-    it will be for a period of four nights (two nights in the hospital and two nights
-    in the hotel) and depart on the fifth day. If you decide to fly in the night before
-    your surgery, then you would leave on the sixth day. There is an additional $50
-    fee if you arrive the day before surgery.
+    it will be for a period of three nights (two nights in the hospital and one night
+    in the hotel) and depart on the fourth day. If you decide to fly in the day before
+    your surgery, then you would leave on the fifth day
 - question: What should I bring on my trip?
   answer: Since it is a relatively brief stay and the fact that you will be in a hospital
     gown for more than 50% of the time that you are here, we suggest you travel light.

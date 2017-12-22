@@ -3,7 +3,8 @@ title: Weight Loss Surgery FAQ
 position: 4
 seo:
   title: Weight Loss Surgery in Mexico FAQ
-  description: 'Frequently Asked Questions about Weight Loss Surgery in Mexico '
+  description: Frequently Asked Questions about Weight Loss Surgery in Mexico at BariatricPal
+    Hospital MX
 faqs:
 - question: Why would I consider weight loss surgery in Mexico?
   answer: Getting your surgery done in Mexico can be less expensive than getting it
@@ -19,25 +20,14 @@ faqs:
     revision.
 - question: Which surgeries and other procedures are offered through BariatricPal
     Hospital MX?
-  answer: |-
-    We know each patient has individual needs and preferences that affect the
-    best choice of weight loss surgeries for him or her. We offer the
-    following surgeries:
-
-    * Gastric Sleeve or Vertical Sleeve Gastrectomy
-    * Roux-en-Y Gastric Bypass
-    * Mini Gastric Bypass
-    * Gastric Plication
-    * Gastric Bypass Revision
-    * Gastric Sleeve Revision
-
-    We also offer cosmetic and skin removal procedures that can improve your self-confidence and quality of life:
-
-    * Mommy Make Over / Boobs / Lipo / Brazilian Butt
-    * Arm Lift
-    * Thigh Lift
-    * Botox
-    * Dental Services
+  answer: "We know each patient has individual needs and preferences that affect the\nbest
+    choice of weight loss surgeries for him or her. We offer the\nfollowing bariatric
+    surgeries:\n\n* Gastric Sleeve or Vertical Sleeve Gastrectomy\n* Roux-en-Y Gastric
+    Bypass\n* Mini Gastric Bypass\n* Gastric Plication\n* Gastric Bypass Revision\n*
+    Gastric Sleeve Revision\n\nWe also offer cosmetic and skin removal procedures
+    that can improve your self-confidence and quality of life:\n\n* Mommy Make Over\n*
+    Brazilian Butt Lift\n* Tummy Tuck\n* Breast Lifts\n* Lipo\n* Arm Lift\n* Thigh
+    Lift\n* Botox\n* + Many more "
 - question: Who is eligible for weight loss surgery?
   answer: |-
     We believe bariatric surgery is an obesity treatment option that should be
@@ -94,19 +84,19 @@ faqs:
     * Round trip transportation to and from the San Diego airport.
     * The hospital stay (two nights) and fees for surgery
     * Routine pre-op and post-op testing and evaluations
-    * RouRoutine post-op prescription medications (not included in pricing for Dr. Ponce).
+    * Routine post-op prescription medications (not included in pricing for Dr. Ponce).
     * Two nights of post-op recovery, including gourmet recovery broth
     * Accommodations for a travel companion during your stay.
 
-    Our package prices may seem low, but there are no hidden fees. We are able
-    to keep our costs down by negotiating group rates for this service, and we
-    pass the savings on to you.
+    Our package prices may seem low, but there are no hidden fees! We are able
+    to keep our costs down by negotiating group rates, and we pass the savings on to you.
 - question: Does my deposit go towards the total package fee?
   answer: Yes. The remaining balance is due 48 hours prior to surgery date.
 - question: How do I pay the remaining balance of my surgery package?
   answer: The best option is to directly deposit your payment into our Wells Fargo
     bank account because there is no additional fee. You can PayPal or pay with a
-    major credit card and pay an additional 3% service charge.
+    major credit card and pay an additional 3% service charge. We also accept checks
+    by phone.
 - question: How do transportation and lodging work with BariatricPal Hospital MX in
     Mexico?
   answer: |-
@@ -152,7 +142,7 @@ faqs:
     may be best. Bring comfortable shoes, loose items of clothing, and your personal
     toiletry kits. Laptops or Ipad/tablets are more than welcome for you to use with
     the free wi-fi service provided at both the hospital and the hotel. PLEASE CHECK
-    OUR LIST OF ITEMS TO BRING WITH YOU.
+    OUR LIST OF ITEMS TO BRING WITH YOU BELOW.
 - question: Are my personal belongings safe?
   answer: For those of you that are traveling without a companion, rest assured that
     all of your personal belongings will be right where you left them when you are
@@ -319,72 +309,35 @@ others:
   - question: Documents required by Canadian Citizens / Residents / Landed Immigrants
       to enter the U.S. and how long can they stay?
     answer: |-
-      Canadian Citizens’ passports are NOT required to be valid for six months
-      past their intended date of departure. Their passports must only be valid
-      up until the date of their intended departure. All Canadian Citizens
-      entering the United States by AIR are required to present a valid
-      passport, or a NEXUS card when departing from a designated Canadian
-      airport.
+      Canadian Citizens’ passports are NOT required to be valid for six months past their intended date of departure. Their passports must only be valid up until the date of their intended departure. All Canadian Citizens entering the United States by AIR are required to present a valid passport, or a NEXUS card when departing from a designated Canadian airport.
 
       **By Land and Sea (including ferries):**
 
       Canadian citizens traveling to the U.S. by land or sea are required to
-      present one of the travel documents listed below, and may generally visit
-      the U.S. for up to six months. CBP will accept: Canadian passport,
-      Enhanced Driver’s License/Enhanced Identification Card, NEXUS, FAST/EXPRES
-      and SENTRI enrollment cards.
+      present one of the travel documents listed below, and may generally visit the U.S. for up to six months. CBP will accept Canadian passport,
+      Enhanced Driver’s License/Enhanced Identification Card, NEXUS, FAST/EXPRES and SENTRI enrollment cards.
 
       **Children:**
 
-      Canadian citizens 15 years old and younger arriving by land or sea from
-      contiguous territory may present an original or copy of his or her birth
-      certificate or a Canadian Citizenship Card. Canadian Citizens 16 and older
-      must have a valid passport, unless traveling as part of an organized group
-      described below.
+      Canadian citizens 15 years old and younger arriving by land or sea from contiguous territory may present an original or copy of his or her birth certificate or a Canadian Citizenship Card. Canadian Citizens 16 and older must have a valid passport unless traveling as part of an organized group described below.
 
       **Groups of Children:**
 
       Canadian citizen children under age 19 arriving by land or sea from
-      contiguous territory and traveling with a school group, religious group,
-      social/cultural organization, or sports team, may also present an original
-      or copy of his or her birth certificate, a Consular Report of Birth
-      Abroad, a Naturalization Certificate, or a Canadian Citizenship Card.
+      contiguous territory and traveling with a school group, religious group, social/cultural organization, or sports team, may also present an original or copy of his or her birth certificate, a Consular Report of Birth Abroad, a Naturalization Certificate, or a Canadian Citizenship Card.
 
-      The group should provide, on organizational letterhead: The name of the
-      group and supervising adult, a list of the children on the trip, the
-      primary home address, phone number, date of birth, place of birth, and
-      name of at least one parent or legal guardian for each child. A written
-      and signed statement of the supervising adult certifying that he or she
-      has obtained parental or legal guardian consent for each participating
-      child. Canadians coming as a Treaty Trader (and family), Fiancés/Fiancées (
-      and their children and spouses and children) of U.S. Legal permanent
-      residents are required to have a visa to enter the U.S.
+      The group should provide, on organizational letterhead: The name of the group and supervising adult, a list of the children on the trip, the
+      primary home address, phone number, date of birth, place of birth, and name of at least one parent or legal guardian for each child. A written and signed statement of the supervising adult certifying that he or she has obtained parental or legal guardian consent for each participating child. Canadians coming as a Treaty Trader (and family), Fiancés/Fiancées (and their children and spouses and children) of U.S. Legal permanent residents are required to have a visa to enter the U.S.
 
       Residents (PR) of Canada who are landed immigrants generally need a
-      passport and visa to enter the United States, unless they are a citizen of
-      a country eligible for the Visa Waiver Program (VWP). If they are a
+      passport and visa to enter the United States, unless they are a citizen of a country eligible for the Visa Waiver Program (VWP). If they are a
       citizen of a country eligible for the VWP, they are only required to have
       their valid passport - coming by land or sea. If coming by air, they will
-      need to have advance approval to travel through the Electronic System for
-      Travel Authorization (ESTA). There is an ESTA application fee of $14. To
-      obtain a list of countries eligible for the VWP, please reference the
-      Department of State Web site.
+      need to have advance approval to travel through the Electronic System for Travel Authorization (ESTA). There is an ESTA application fee of $14. To obtain a list of countries eligible for the VWP, please reference the Department of State Web site.
 
-      Also, Native American Indians born in Canada with at least 50% American
-      Indian blood are exempt from having a visa and passport to enter the U.S.
-      by land. They should have their tribal identity card to present to the CBP
-      Officer. If an American Indian is arriving into the U.S. by AIR, the
-      traveler will be required to have a passport.
+      Also, Native American Indians born in Canada with at least 50% American Indian blood are exempt from having a visa and passport to enter the U.S. by land. They should have their tribal identity card to present to the CBP Officer. If an American Indian is arriving into the U.S. by AIR, the traveler will be required to have a passport.
 
-      The burden of proof that the Canadian citizen is not an intended immigrant
-      (plans to make the U.S. their primary residence) is always on the
-      applicant. There is no set period of time Canadians must wait to reenter
-      the U.S. after the end of their stay, but if it appears to the CBP Officer
-      that the person applying for entry is spending more time over-all in the
-      U.S. than in Canada, it will be up to the traveler to prove to the officer
-      that they are not de-facto U.S. residents. One of the ways to do this is
-      demonstrate significant ties to their home country, including proof of
-      employment, residency, etc.
+      The burden of proof that the Canadian citizen is not an intended immigrant (plans to make the U.S. their primary residence) is always on the applicant. There is no set period of time Canadians must wait to reenter the U.S. after the end of their stay, but if it appears to the CBP Officer that the person applying for entry is spending more time overall in the U.S. than in Canada, it will be up to the traveler to prove to the officer that they are not de-facto U.S. residents. One of the ways to do this demonstrates significant ties to their home country, including proof of employment, residency, etc.
   - question: What documents, identification, and paperwork does a U.S. citizen need
       to travel internationally?
     answer: |-
@@ -393,12 +346,7 @@ others:
 
       **Air Travel:**
 
-      All U.S. citizens departing from or entering the United States from within
-      the Western Hemisphere by air are required to present a valid passport or
-      NEXUS card (if utilizing a NEXUS kiosk when departing from a designated
-      Canadian airport). Merchant Mariner Document (for U.S. citizens on
-      official maritime business.) Note that children are also required to
-      present their own passport when traveling by air.
+      All U.S. citizens departing from or entering the United States from within the Western Hemisphere by air are required to present a valid passport or NEXUS card (if utilizing a NEXUS kiosk when departing from a designated Canadian airport). Merchant Mariner Document (for U.S. citizens on official maritime business.) Note that children are also required to present their own passport when traveling by air.
 
       **Land or Sea Travel:**
 
@@ -409,32 +357,21 @@ others:
       * U.S. Passport Cards
       * Enhanced Driver’s Licenses
       * Trusted Traveler Cards (Global Entry, NEXUS, SENTRI, or FAST)
-      * Military Identification Cards (for members of the U.S. armed forces on
-      official orders)
-      * Military Identification Cards (for members of the U.S. armed forces on
-      official orders)
-
-      Military personnel traveling under orders may present photo ID and orders.
-      Family members must present a passport (with the exception of children 15
-      and younger arriving by land or sea.)
+      * Military Identification Cards (for members of the U.S. armed forces on official orders)
+      * Military Identification Cards (for members of the U.S. armed forces on official orders)
+      * Military personnel traveling under orders may present photo ID and orders.
+      * Family members must present a passport (with the exception of children 15 and younger arriving by land or sea.)
 
       **Children:**
 
       U.S. citizen children ages 15 and under arriving by land or sea from a
       contiguous territory may present an original or copy of his or her birth
-      certificate (issued by the Vital Records Department in the state where he
-      or she was born), a Consular Report of Birth Abroad, or a Naturalization
-      Certificate. If the child is a newborn and the actual birth certificate
-      has not arrived from the Vital Records Department, we will accept a
-      Hospital issued birth certificate.
+      certificate (issued by the Vital Records Department in the state where he or she was born), a Consular Report of Birth Abroad, or a Naturalization Certificate. If the child is a newborn and the actual birth certificate has not arrived from the Vital Records Department, we will accept a Hospital issued birth certificate.
 
       **Groups of Children:**
 
       U.S. citizen children between the ages of 16-18 arriving by land or sea
-      from contiguous territory and traveling with an adult supervised school
-      group, religious group, social or cultural organization, or sports team,
-      may also present an original or copy of his or her birth certificate, a
-      Consular Report of Birth Abroad, or a Naturalization Certificate.
+      from contiguous territory and traveling with an adult supervised school group, religious group, social or cultural organization, or sports team, may also present an original or copy of his or her birth certificate, a Consular Report of Birth Abroad, or a Naturalization Certificate.
 - title: Before You Leave for Surgery
   faqs:
   - question: Before You Leave
@@ -445,7 +382,7 @@ others:
       out where you should plan for us to pick you up when you arrive in Mexico.
   - question: What to Pack
     answer: |-
-      Please let us know if you have questions about what to bring or what paperwork you need
+      Please let us know if you have questions about what to bring or what paperwork you need.
       * Passport (it is highly recommended that your passport have an expiration date at least 6 months after your scheduled date of return from Mexico).
       * State issued photo ID and original certified copy of your birth certificate if you have no passport
       * A small amount of cash for food and tipping
@@ -465,18 +402,14 @@ others:
 
       When you get to San Diego Airport: Please call us.
 
-      **Stacy Eckel (Transportation Manager): (619) 600-0375**
+      **Stacy Eckel or Transportation Manager: (619) 600-0375**
 
       You will be picked up curbside and taken across the border (have your
       passport handy!) and to your hospital. It takes 25 minutes to get to the
       border from the airport.
-
-      INT Hospital is 5 minutes from the Border.
-
-      Florence Hospital is 10 minutes from the border.
   - question: When you get to the hospital
     answer: |-
-      If you are arriving the same day for surgery, you will be taken to the hospital. Your Patient Concierge will be waiting there to greet you. Your internal medicine doctor, Dr. Jose Trasvin, will be there to evaluate you and clear you for surgery.
+      If you are arriving the same day for surgery, you will be taken to the hospital. Your Patient Concierge will be waiting there to greet you. Our internal medicine doctor and his medical team will be there to evaluate you and clear you for surgery.
 
       Then you will meet your surgeon and the medical team, and have a consultation with your surgeon. After completing your pre-op testing, you will have your surgery. Surgery takes Approximately 45 minutes to 1 1/2 hours. PLEASE NOTE THAT SURGERY TIMES ARE APPROXIMATIONS AND ARE SUBJECT TO CHANGE TO BE EARLIER OR LATER.
 
@@ -494,9 +427,9 @@ others:
 
       * Test for air during surgery to check for leaks.
       * Test drainage using a blue dye that you drink to make sure all is well.
-      * Test X Ray Barium swallow to make sure NO Leaks are present
+      * Test X-Ray Barium swallow to make sure NO Leaks are present
 
-      When you are released from the hospital, we will pick you up and bring you to the Hotel. You can relax or schedule a trip to go walking or shopping.
+      When you are released from our hospital, we will pick you up and bring you to the Hotel. You can relax or schedule a trip to go walking or shopping.
   - question: Nutritional Support
     answer: BariatricPal Hospital MX offers our patients lifetime nutritional support!
       Good nutrition is crucial for your healthy recovery and success in losing weight

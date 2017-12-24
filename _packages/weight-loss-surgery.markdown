@@ -22,11 +22,12 @@ sections:
     * Pick-up from and drop-off at the San Diego Airport before and after surgery
     * Transportation between the hospital and the hotel
 - title: 5-star accommodations in Mexico
-  content: "* 2 nights in the hospital for sleeve gastrectomy or mini gastric bypass
-    or 3 nights for Roux-en-Y gastric bypass or duodenal switch \n* 1 night in the
-    Real Inn Tijuana for recovery after your surgery\n* Wi-Fi for your stay in the
-    hospital and hotel\n* Free long distance calls to the US and Canada from the hospital\n*
-    A companion can stay with you at the hotel for no additional charge."
+  content: "* 2 nights in our hospital for sleeve gastrectomy or mini gastric bypass
+    or 3 nights in our hospital for Roux-en-Y gastric bypass or duodenal switch \n*
+    1 night in the Real Inn Tijuana for recovery after your surgery\n* Wi-Fi for your
+    stay in the hospital and hotel\n* Free long distance calls to the US and Canada
+    from the hospital\n* A companion can stay with you at the hotel for no additional
+    charge."
 - title: Full support during your stay
   content: |-
     * Dedicated valets to assist you and your companion at the hospital and hotel.

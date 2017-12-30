@@ -6,7 +6,8 @@ seo:
   description: Affordable Gastric Sleeve Surgery in Tijuana, Mexico. You will not
     find a more experienced Gastric Sleeve surgical team - anywhere.
 surgery_types:
-- description: "​​Gastric Sleeve Surgery"
+- description: "​​Gastric Sleeve Surgery (there is an additional fee of $500 for BMI’s
+    over 48)"
   price: "$4600"
 subtitle: The most popular weight loss surgery in the entire world.
 image: "/uploads/gastric-sleeve-surgery.png"

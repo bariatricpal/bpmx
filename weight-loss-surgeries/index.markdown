@@ -46,7 +46,7 @@ Read more
 {% assign size = post.title | size %}
 {{post.title}}
 {% if size < 20 %}<br/>{% endif %}
-starting at only
+package only
 </p>
 <p class='t1 u-mb0'>
 {{post.surgery_excerpt.price}}

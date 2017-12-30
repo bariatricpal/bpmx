@@ -28,9 +28,9 @@ surgery_facts: |-
   * Mini Gastric Bypass -> Gastric Bypass
   * Bypass Revision (Pouch)
 
-  When suggesting a more optimal form of treatment, our bariatric team will educate you on what to expect before, during and after treatment, benefits and risks associated with the procedure, and answer any questions you may have regarding surgery. Through thorough education you will be able to make a more informed, confident decision regarding the path you want to take in achieving your weight loss goals.
+  When suggesting a more optimal form of treatment, our bariatric team will educate you on what to expect before, during and after treatment, benefits, and risks associated with the procedure, and answer any questions you may have regarding surgery. Through thorough education, you will be able to make a more informed, confident decision regarding the path you want to take in achieving your weight loss goals.
 
-  We specialize in all Weight Loss Surgery Revisions - please call for pricing.
+  We specialize in all Weight Loss Surgery Revisions - please call (844) 957-3325 for pricing.
 layout: surgery
 ---
 

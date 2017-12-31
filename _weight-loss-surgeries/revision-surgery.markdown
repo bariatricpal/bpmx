@@ -15,7 +15,7 @@ surgery_excerpt:
     a significant decline in the amount of weight you are losing, you may be an ideal
     candidate for revision surgery.
   cover: or-4
-  price: "$6000"
+  price: "$5100"
 surgery_facts: |-
   Our skilled team has performed thousands of revision surgeries. Here are some examples of Bariatric revision surgeries we perform on a regular basis:
 

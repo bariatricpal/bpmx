@@ -7,8 +7,7 @@ seo:
     You will not find a more experienced Roux-en-Y Gastric Bypass (RYGB)  surgical
     team - anywhere.
 surgery_types:
-- description: Roux-en-Y Gastric Bypass Surgery (there is an additional fee of $500
-    for BMI’s 49 to 69 and $1000 for 70+)
+- description: Roux-en-Y Gastric Bypass Surgery
   price: "$6000"
 subtitle: Only one incision is made through belly button.
 image: "/uploads/or-9.png"

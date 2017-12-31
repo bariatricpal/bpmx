@@ -6,8 +6,7 @@ seo:
   description: Affordable Revision Weight Loss Surgery in Tijuana, Mexico. You will
     not find a more experienced Weight Loss surgical team - anywhere.
 surgery_types:
-- description: Revision Surgery (there is an additional fee of $500 for BMI’s 49 to
-    69 and $1000 for 70+)
+- description: Revision Surgery
   price: "$6000"
 subtitle: Correct your surgical complications and improve your weight loss results.
 image: "/uploads/or-10.png"

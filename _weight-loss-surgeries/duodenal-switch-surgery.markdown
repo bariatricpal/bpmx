@@ -6,8 +6,7 @@ seo:
   description: Affordable Duodenal Switch Surgery in Tijuana, Mexico. You will not
     find a more experienced Duodenal Switch surgical team - anywhere.
 surgery_types:
-- description: Duodenal Switch Surgery (there is an additional fee of $500 for BMI’s
-    49 to 69 and $1000 for 70+)
+- description: Duodenal Switch Surgery
   price: "$6400"
 subtitle: A two-surgery process with a partial gastrectomy followed by the BPD-DS
   procedure.

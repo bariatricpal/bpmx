@@ -8,7 +8,7 @@ seo:
     team - anywhere.
 surgery_types:
 - description: Roux-en-Y Gastric Bypass Surgery (there is an additional fee of $500
-    for BMI’s over 48)
+    for BMI’s 49 to 69 and $1000 for 70+)
   price: "$6000"
 subtitle: Only one incision is made through belly button.
 image: "/uploads/or-9.png"

@@ -7,7 +7,7 @@ seo:
     not find a more experienced Mini-Gastric Bypass surgical team - anywhere.
 surgery_types:
 - description: Mini-Gastric Bypass Surgery (there is an additional fee of $500 for
-    BMI’s over 48)
+    BMI’s 49 to 69 and $1000 for 70+)
   price: "$5700"
 subtitle: Also called the omega loop weight loss surgery and single anastomosis bypass.
 image: "/uploads/or-9.png"

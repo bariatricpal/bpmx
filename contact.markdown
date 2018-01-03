@@ -2,7 +2,7 @@
 title: Get in touch
 position: 13
 seo:
-  title: Schedule a free surgery consultation!
+  title: Schedule a free Bariatric or Plastic surgery consultation!
   description: Schedule a free Bariatric or Plastic surgery consultation. You'll have
     an opportunity to ask questions and get first-hand answers from the Director of
     Patient Relations, our Certified Nutritionist, and even your surgeon.

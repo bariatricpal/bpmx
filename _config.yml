@@ -124,27 +124,3 @@ bing: |-
   <!-- Bing Ads UET tag tracking code -->
   <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5512042"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5512042&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
   <!-- End Bing Ads UET tag tracking code -->
-AdRoll: |-
-  <!-- AdRoll tag tracking code -->
-  <script type="text/javascript">
-      adroll_adv_id = "A5DLSFPA55EH3FZYBAEZQA";
-      adroll_pix_id = "LPN6RYBQ2NBOBCKH5V6IMO";
-      /* OPTIONAL: provide email to improve user identification */
-      /* adroll_email = "username@example.com"; */
-      (function () {
-          var _onload = function(){
-              if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
-              if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
-              var scr = document.createElement("script");
-              var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-              scr.setAttribute('async', 'true');
-              scr.type = "text/javascript";
-              scr.src = host + "/j/roundtrip.js";
-              ((document.getElementsByTagName('head') || [null])[0] ||
-                  document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-          };
-          if (window.addEventListener) {window.addEventListener('load', _onload, false);}
-          else {window.attachEvent('onload', _onload)}
-      }());
-  </script>
-  <!-- End AdRoll tag tracking code -->

@@ -143,6 +143,19 @@ pixel: |-
       }());
   </script>
   <!-- End BariatricPal Hospital MX's AdRoll Pixel -->
+  <!-- PerfectAudience Remarketing Pixel -->
+  <script type="text/javascript">
+    (function() {
+      window._pa = window._pa || {};
+      // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+      // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+      // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+      var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+      pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/586dc11e568ab7b0f600010e.js";
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+    })();
+  </script>
+  <!-- End PerfectAudience Remarketing Pixel -->
 bing: |-
   <!-- Bing Ads UET tag tracking code -->
   <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5512042"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5512042&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>

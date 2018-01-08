@@ -7,7 +7,7 @@ seo:
     not find a more experienced Weight Loss surgical team - anywhere.
 surgery_types:
 - description: Revision Surgery
-  price: Starting at $5100
+  price: "$5100 +"
 subtitle: Correct your surgical complications and improve your weight loss results.
 image: "/uploads/or-10.png"
 surgery_excerpt:
@@ -15,7 +15,7 @@ surgery_excerpt:
     a significant decline in the amount of weight you are losing, you may be an ideal
     candidate for revision surgery.
   cover: or-4
-  price: Starting at $5100
+  price: "$5100 +"
 surgery_facts: |-
   Our skilled team has performed thousands of revision surgeries. Here are some examples of Bariatric revision surgeries we perform on a regular basis:
 

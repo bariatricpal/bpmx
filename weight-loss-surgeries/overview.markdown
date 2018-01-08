@@ -34,7 +34,7 @@ layout: default
   <div class='section u-py6'>
     <div class='section-row'>
       <div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
-        <a class='ctrl ctrl--play' href='#h8D-uzNw-Fg'>
+        <a class='ctrl ctrl--play ctrl--playPrimary' href='#h8D-uzNw-Fg'>
           <img src='/uploads/dr-jalil-illan-surgery.png' alt='Dr. Jalil Illan Surgery' />
         </a>
       </div>
@@ -283,6 +283,17 @@ layout: default
   </div>
 
   {% include packages.html id='wls' %}
+
+  <div class='section u-py6'>
+    <div class='section-row u-alignCenter'>
+      <h3 class='u-mt0'>
+        <strong>A Hospital Designed for You</strong>
+      </h3>
+      <p class='u-size14of16 u-mAuto u-px2 u-xxs-sizeFull'>
+        How would you like to have surgery in a hospital designed specifically for you? That dream becomes reality when you choose BariatricPal Hospital MX. We built the hospital for BariatricPal patients, and continue to own and operate the facility. We perform successful weight loss surgeries every single day. BariatricPal Hospital MX is the only hospital of its kind in Mexico. Why would you go anywhere else?
+      </p>
+    </div>
+  </div>
 </div>
 
 {% include video-player.html %}

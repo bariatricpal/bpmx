@@ -45,19 +45,32 @@ layout: default
         </a>
       </div>
       <div class='section-chunk u-size6of16 u-px2 u-xs-sizeFull'>
-        <h1 class='u-mb0 u-mt1'>
+        <h1 class='u-mb1 u-mt1'>
           Trusted &amp; Proven
         </h1>
-        <p class='t3 u-textPrimary u-mt0'>
+        <p class='t3 u-textPrimary u-mb1 u-mt0'>
           The Most Experienced Bariatric &amp;
           Plastic Surgeons in Mexico
         </p>
         <p>
-          Feel comfortable with our internationally recognized surgical experts in laparoscopic surgery and reconstructive procedures. Your team consists of dedicated and experienced bariatric surgeons, anesthesiologists, dietitians, nurses, and support staff, and plastic surgeons.
+          Feel comfortable with our hand-picked team of internationally-recognized surgical experts in laparoscopic surgery and reconstructive procedures. Your team consists of dedicated and experienced bariatric surgeons, anesthesiologists, dietitians, nurses, and support staff, and plastic surgeons.
         </p>
       </div>
     </div>
+  </div>
 
+  <div class='section u-py6'>
+    <div class='section-row u-alignCenter'>
+      <h3 class='u-mt0'>
+        <strong>A Hospital Built to Serve You</strong>
+      </h3>
+      <p class='u-size13of16 u-mAuto u-px2 u-xxs-sizeFull'>
+        Our one-of-a-kind, private hospital was built exclusively to serve BariatricPal weight loss surgery and plastic and cosmetic surgery patients. Our brand-new facility opened in September, 2017, and boasts the latest technology and five-star amenities for your safety and comfort. Get the best of both worlds: the best medical care and comfort, at a fraction the cost.
+      </p>
+    </div>
+  </div>
+
+  <div class='section u-py4'>
     {% include facts.html %}
   </div>
 </div>

@@ -25,7 +25,7 @@ layout: default
     <div class='section-row'>
       <div class='section-chunk u-size4of7 u-px4 u-xs-sizeFull'>
         <p>
-          It is understandable to be nervous about having a medical procedure done in a foreign country, but what if you could be sure the hospital and medical staff were on par with, or better than, the best American hospitals? BariatricPal Hospital MX is unique
+          It is understandable to be nervous about having a medical procedure done in a foreign country, but what if you could be sure the hospital and medical staff were on par with, or better than, the best American hospitals? BariatricPal Hospital MX is unique.
         </p>
         <p>
           Among all of the American companies offering weight loss surgery packages to Mexico, BariatricPal is the only one with our own hospital. This means:

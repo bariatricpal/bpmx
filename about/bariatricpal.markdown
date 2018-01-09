@@ -71,7 +71,7 @@ layout: default
           medical tourism package possible!
         </p>
         <p>
-          First, the care is absolutely top notch. We built our own dedicated bariatric hospital for our well-known surgeons to insure great medical care for these important procedures. In and out of the operating room, your experience with BariatricPal Hospital MX and our team includes the personal care and service you would expect to make your trip out of the country a great one. The first and most important thing to ask about when you are planning weight loss or reconstructive surgery is the healthcare team’s experience. At BariatricPal MX, we have a medical team that’s world-renowned and second to none. Our surgeons have years of experience, the best outcomes, and the lowest complication rates in Mexico.
+          First, the care is absolutely top notch. We built our own dedicated bariatric hospital for our well-known surgeons to insure great medical care for these important procedures. In and out of the operating room, your experience with BariatricPal Hospital MX and our team includes the personal care and service you would expect to make your trip out of the country a great one. The first and most important thing to ask about when you are planning weight loss or reconstructive surgery is the healthcare team’s experience. At BariatricPal Hospital MX, we have a medical team that’s world-renowned and second to none. Our surgeons have years of experience, the best outcomes, and the lowest complication rates in Mexico.
         </p>
       </div>
     </div>
@@ -86,7 +86,7 @@ layout: default
     <div class='section-row'>
       <div class='section-chunk u-px4 u-size12of16 u-xs-sizeFull'>
         <p>
-          Please see our video where I guide you on a tour of the brand new hospital where you will get your weight loss or reconstructive surgery as a BariatricPal MX patient. I can’t wait for you to see it in person when you come for surgery!
+          Please see our video where I guide you on a tour of the brand new hospital where you will get your weight loss or reconstructive surgery as a BariatricPal Hospital MX patient. I can’t wait for you to see it in person when you come for surgery!
         </p>
         <p>
           — Alex Brecher

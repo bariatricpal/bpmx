@@ -33,7 +33,9 @@ layout: default
   <div class='section u-py4'>
     <div class='section-row'>
       <div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
-        <img src='/uploads/dr-alejandro-galvez-surgery.png' alt='Dr. Alejandro Galvez' />
+        <a class='ctrl ctrl--play ctrl--playPrimary' href='#xjmobnyDKTo'>
+          <img src='/uploads/dr-alejandro-galvez-surgery.png' alt='Dr. Alejandro Galvez' />
+        </a>
       </div>
       <div class='section-chunk u-size7of16 u-px2 u-xs-sizeFull'>
         <p class='u-textSecondary u-mb0'>
@@ -234,3 +236,5 @@ layout: default
     </div>
   </div>
 </div>
+
+{% include video-player.html %}

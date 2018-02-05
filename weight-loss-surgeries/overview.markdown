@@ -220,6 +220,9 @@ layout: default
             Member, Mexican College for the Surgery of Obesity A. C.
           </li>
           <li class='checkList-item'>
+            Life Member, The International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO)
+          </li>
+          <li class='checkList-item'>
             Member, Mexican Association of Endoscopic Surgery
           </li>
           <li class='checkList-item'>

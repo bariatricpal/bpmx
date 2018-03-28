@@ -51,6 +51,16 @@ layout: default
     </div>
   </div>
 
+  <div class='section u-py4'>
+    <div class='section-row'>
+      <div class='section-chunk u-px4 u-xs-sizeFull'>
+        <a class='u-size10of16 u-block' href='/uploads/certification.pdf' target='_blank'>
+          <img src='/uploads/certification.png' alt='BariatricPal Hospital MX certification' />
+        </a>
+      </div>
+    </div>
+  </div>
+
   <div class='section u-py6'>
     <div class='section-row'>
       <div class='section-chunk u-size1of2 u-p4 u-xs-sizeFull u-xs-pt0'>

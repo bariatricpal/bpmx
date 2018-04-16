@@ -120,6 +120,11 @@ pixel: |-
     src="https://www.facebook.com/tr?id=1191398090927151&ev=PageView&noscript=1"
   /></noscript>
   <!-- End Facebook Pixel Code -->
+  <!-- Adwords tag for phone calls from website -->
+  <script type="text/javascript">
+  (function(a,e,c,f,g,h,b,d){var k={ak:"1046470981",cl:"k9stCIvR7msQxcL_8gM",autoreplace:"(844) 957-3325"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
+  </script>
+  <!-- End Adwords tag for phone calls from website -->
 bing: |-
   <!-- Bing Ads UET tag tracking code -->
   <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5512042"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5512042&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>

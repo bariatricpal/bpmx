@@ -7,11 +7,10 @@ seo:
 surgery_types:
 - description: "​Standard neck lift"
   price: "$3500​"
-- description: "​Neck lift with Fleur de lis, which is an extended tummy tuck that,
-    ​​aside from the horizontal incision, also requires a vertical scar, which is
-    ​​more difficult to hide. For this reason, the technique is only reserved for
-    ​​patients who need the most amount of correction and are willing to ​​accept
-    its tradeoff to achieve the best possible post op contour."
+- description: Neck lift with Fleur de lis, which is a vertical incision on the frontal
+    part of the throat, which is more difficult to hide. For this reason, the technique
+    is only reserved for patients who need the most amount of correction and are willing
+    to accept its tradeoff to achieve the best possible post-op contour.
   price: "$4000​"
 subtitle: Get a beautiful neck
 image: "/uploads/neck-lift.png"

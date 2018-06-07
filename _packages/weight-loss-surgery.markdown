@@ -25,9 +25,9 @@ sections:
   content: "* 2 nights in our hospital for sleeve gastrectomy or mini gastric bypass
     or 3 nights in our hospital for Roux-en-Y gastric bypass or duodenal switch \n*
     1 night in the Real Inn Tijuana for recovery after your surgery\n* Wi-Fi for your
-    stay in the hospital and hotel\n* Free long distance calls to the US and Canada
-    from the hospital\n* A companion can stay with you at the hotel for no additional
-    charge."
+    stay in the hospital and hotel\n* US Cable TV & Netflix in all hospital rooms\n*
+    Free long distance calls to the US and Canada from the hospital\n* A companion
+    can stay with you at the hotel for no additional charge."
 - title: Full support during your stay
   content: |-
     * Dedicated valets to assist you and your companion at the hospital and hotel.

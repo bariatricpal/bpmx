@@ -27,7 +27,7 @@ sections:
     1 night in the Real Inn Tijuana for recovery after your surgery\n* Wi-Fi for your
     stay in the hospital and hotel\n* US Cable TV & Netflix in all hospital rooms\n*
     Free long distance calls to the US and Canada from the hospital\n* A companion
-    can stay with you at the hotel for no additional charge."
+    can stay with you at the hotel at no additional charge."
 - title: Full support during your stay
   content: |-
     * Dedicated valets to assist you and your companion at the hospital and hotel.

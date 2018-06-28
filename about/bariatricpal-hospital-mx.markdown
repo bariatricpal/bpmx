@@ -1,6 +1,6 @@
 ---
 title: About BariatricPal Hospital MX
-position: 10
+position: 11
 seo:
   title: About BariatricPal Hospital MX
   description: 'Bariatric Surgery Is Our Life. Unlike other hospitals where bariatric

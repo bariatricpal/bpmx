@@ -20,15 +20,16 @@ sections:
 - title: 5-star accommodations in Mexico
   content: |-
     * 1 or 2 nights in the hospital
-    * 1 to 14 nights in the Real Inn Tijuana for recovery after your surgery.
+    * 1 to 14 nights in the Real Inn Tijuana for recovery after your surgery
     * Wi-Fi for your stay in the hospital and hotel
     * US Cable TV & Netflix in all hospital rooms
     * Free long distance calls to the US and Canada from the hospital
-    * A companion can stay with you at the hotel at no additional charge.
+    * A companion can stay with you at the hotel at no additional charge
+    * Free private tour of Rosarito Beach and Tijuana
 - title: Full support during your stay
   content: |-
     * 24-hour valets to assist you and your companion at the hospital
-    * Dedicated valets to assist you and your companion at the hospital and hotel 10am to 6pm.
+    * Dedicated valets to assist you and your companion at the hospital and hotel 10am to 6pm
     * 24-hour nursing support your first 3 days in the hotel
     * 24-hr support from BariatricPal staff in the U.S. and Mexico
     * English speaking staff during your whole stay with us

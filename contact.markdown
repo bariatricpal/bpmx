@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-position: 13
+position: 14
 seo:
   title: Schedule a free Bariatric or Plastic surgery consultation!
   description: Schedule a free Bariatric or Plastic surgery consultation. You'll have

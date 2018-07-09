@@ -48,7 +48,7 @@ layout: default
     <div class='section-row'>
       <div class='section-chunk u-size1of3 u-px4 u-mAuto u-xs-size10of14 u-xs-alignCenter u-xs-clear u-xxs-sizeFull'>
         <p class='u-textSecondary u-mt0'>
-          That's why we founded this exclusive hospital dedicated solely to bariatric patients and surgery. Bariatric Hospital MX is the only one of its kind in Mexico created specifically to help patients like you achieve amazing results at the best prices possible.
+          That's why we founded this exclusive hospital dedicated solely to bariatric patients and surgery. BariatricPal Hospital MX is the only one of its kind in Mexico created specifically to help patients like you achieve amazing results at the best prices possible.
         </p>
         <span class='icon icon--heart u-mt4'></span>
         <p class='t3 u-textPrimary'>

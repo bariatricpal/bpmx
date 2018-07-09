@@ -1,6 +1,6 @@
 ---
 title: Plastic Surgery FAQ
-position: 8
+position: 9
 seo:
   title: Plastic, Aesthetic and Reconstructive Surgeries FAQ
   description: Plastic, Aesthetic and Reconstructive Surgeries in Mexico Frequently

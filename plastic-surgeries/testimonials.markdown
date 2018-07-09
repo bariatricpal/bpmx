@@ -1,6 +1,6 @@
 ---
 title: Plastic Surgery Testimonials
-position: 7
+position: 8
 seo:
   title: BariatricPal Hospital MX Plastic Surgery Testimonials
   description: Hear what our many satisfied Plastic Surgery patients have to say.

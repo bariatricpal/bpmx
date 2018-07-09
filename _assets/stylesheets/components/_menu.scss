@@ -21,6 +21,7 @@
 .menu-link {
   position: relative;
   display: table-cell;
+  table-layout: fixed;
   padding-top: 5px;
   text-align: center;
 

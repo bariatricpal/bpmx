@@ -1,6 +1,6 @@
 ---
 title: Plastic Surgeries
-position: 5
+position: 6
 seo:
   title: Plastic and Reconstructive Surgeries in Mexico
   description: Plastic, Aesthetic and Reconstructive Surgeries in Mexico. Makes you

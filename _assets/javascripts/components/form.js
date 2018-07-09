@@ -8,7 +8,7 @@ var Forms = (function () {
 
       contactUrl = 'https://script.google.com/macros/s/AKfycbyEKgswH4Fs6Ew2o297nNv2ZllmL1upO7Izh4N1F2FtEBPHyPg/exec',
       contactMessages = {
-        success: 'Thank you for getting in touch with Bariatric Hospital MX. We will contact you soon with more information.',
+        success: 'Thank you for getting in touch with BariatricPal Hospital MX. We will contact you soon with more information.',
         error: 'Something went wrong, please try again in a few minutes.'
       },
 

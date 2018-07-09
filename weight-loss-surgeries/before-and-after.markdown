@@ -1,10 +1,9 @@
 ---
-title: Plastic Surgery Before&After
-position: 9
+title: WLS Before&After
+position: 5
 seo:
-  title: Plastic, Aesthetic and Reconstructive Surgeries FAQ
-  description: Plastic, Aesthetic and Reconstructive Surgeries in Mexico Frequently
-    Asked Questions
+  title: Weight Loss Surgery in Mexico FAQ
+  description: 
 layout: default
 photos:
 - image: "/uploads/ps-before-1.png"
@@ -51,9 +50,8 @@ photos:
           </strong>
         </h1>
         <h1 class='u-textPrimary'>
-          Plastic, Aesthetic
-          and Reconstructive
-          Surgeries
+          Weight Loss Surgery
+          in Mexico with leading weight loss surgeons
         </h1>
       </div>
       <div class='section-chunk u-size8of13 u-px4 u-sm-sizeFull u-sm-mt3'>

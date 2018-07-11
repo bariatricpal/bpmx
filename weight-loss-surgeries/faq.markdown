@@ -23,11 +23,10 @@ faqs:
   answer: "We know each patient has individual needs and preferences that affect the\nbest
     choice of weight loss surgeries for him or her. We offer the\nfollowing bariatric
     surgeries:\n\n* Gastric Sleeve or Vertical Sleeve Gastrectomy\n* Roux-en-Y Gastric
-    Bypass\n* Mini Gastric Bypass\n* Gastric Plication\n* Gastric Bypass Revision\n*
-    Gastric Sleeve Revision\n\nWe also offer cosmetic and skin removal procedures
-    that can improve your self-confidence and quality of life:\n\n* Mommy Make Over\n*
-    Brazilian Butt Lift\n* Tummy Tuck\n* Breast Lifts\n* Lipo\n* Arm Lift\n* Thigh
-    Lift\n* Botox\n* + Many more "
+    Bypass\n* Mini Gastric Bypass\n* Gastric Bypass Revision\n* Gastric Sleeve Revision\n\nWe
+    also offer cosmetic and skin removal procedures that can improve your self-confidence
+    and quality of life:\n\n* Mommy Make Over\n* Brazilian Butt Lift\n* Tummy Tuck\n*
+    Breast Lifts\n* Lipo\n* Arm Lift\n* Thigh Lift\n* Botox\n* + Many more "
 - question: Who is eligible for weight loss surgery?
   answer: |-
     We believe bariatric surgery is an obesity treatment option that should be
@@ -70,8 +69,7 @@ faqs:
     patient and companion that have put their faith and trust in us.
 
     You will be receiving the personalized medical attention that you deserve,
-    and the customized care from our staff throughout your stay. Our hospitals
-    are modern facilities with the best equipment and staff. For your peace of
+    and the customized care from our staff throughout your stay. BariatricPal Hospital MX is a modern facility with the best equipment and staff. For your peace of
     mind, we will provide you with a patient valet to be there with you at the
     hospital and/or the hotel. They will keep you company and help and
     facilitate you with whatever you need. All staff speak English, so you
@@ -120,9 +118,8 @@ faqs:
     you know what to expect. Canadian dollars are not accepted in Mexico. Tips
     are welcome!
 - question: What additional costs and fees are there?
-  answer: Any food or drink outside of the hospital is not covered in the patient
-    package. We can arrange for one of our drivers to give you a tour around the city
-    or its surroundings for an additional fee.
+  answer: 'Any food or drink outside of the hospital is not covered in the patient
+    package. '
 - question: Can anyone accompany me?
   answer: |-
     Yes. One travel/support companion is included in the package deal.
@@ -155,16 +152,16 @@ faqs:
     that you would like to book the most cost-efficient flight available.
     However, you must also take into consideration that our transportation
     service is not at our disposal as a 24 hour service. Therefore any flight
-    arriving after 8:00pm or departing before 10:00 a.m. makes the ride to the
+    arriving after 7:00 p.m. or departing before 10:00 a.m. makes the ride to the
     airport to be considered as being done during “non-business” hours of
-    operation, and a additional pick up fee of $75 will be added.
+    operation, and a additional pick up fee of $50.00 will be added.
 
     For logistical reasons, if you are arriving the day of your surgery, we
-    ask that you please arrive between 10:00 a.m. and 12:00 p.m. PST no later.
+    ask that you please arrive between 7:00 a.m. and 11:00 a.m. PST no later.
     This will ensure that your surgery will be performed that same day.
 
     For logistical reasons, we ask that you book your departing flights from
-    San Diego after 12:00 p.m. PST so that we can get you across the border
+    San Diego after 1:00 p.m. PST so that we can get you across the border
     and to the airport with plenty of time to spare. We cannot be responsible
     for missed flights due to slow border crossings. We highly recommend you
     contact us before booking your flight!
@@ -173,13 +170,8 @@ faqs:
     a government-issued passport or passport card. This will help expedite the ride
     back across the border to the airport.
 - question: What if I do not have a passport?
-  answer: In the event that you do not have or do not receive your passport by the
-    date of your surgery, you can still come across the border with an original or
-    certified copy of your birth certificate and a state issued driver license or
-    identification card. However, this may incur a delay coming across the border.
-    It depends on how thorough the CBP (Customs and Border Protection) agent wants
-    to be. They can be quite slow. BE SURE TO CHECK OUR INFORMATION ON PASSPORTS AND
-    CUSTOMS FOR US AND NON US CITIZENS
+  answer: All persons entering Mexico MUST have a valid passport or passport card.
+    BE SURE TO CHECK OUR INFORMATION ON PASSPORTS AND CUSTOMS FOR US AND NON US CITIZENS
 - question: How long does the surgery last and how soon will I be awake, up and about?
   answer: The surgical procedure lasts anywhere from 45 minutes to 1 hour. Afterwards,
     you will stay in post-op recovery for about 2 to 3 hours until the anesthesia
@@ -219,16 +211,16 @@ faqs:
   answer: Our standards are world class! Our surgeons and hospitals go through rigorous
     reviews to assure that internationals standards are met.
 - question: Are the facilities clean and modern like those in the U.S.?
-  answer: Our hospitals are modern and state-of-the-art. Our hospitals maintain the
-    highest standards of cleanliness and efficiency. Most patients mention that our
-    hospitals are much cleaner than those they visit in their hometown.
+  answer: BariatricPal Hospital MX is a modern and state-of-the-art. Our hospital
+    maintain the highest standards of cleanliness and efficiency. Most patients mention
+    that our hospital is much cleaner than those they visit in their hometown.
 - question: What bougie size does the doctor use?
   answer: Dr. Illan uses a 32 Fr bougie for the gastric sleeve procedure. This is
     the bougie size that has the best results without having complications such as
     strictures.
 - question: Do you use stitches to close up the incisions?
   answer: Our surgeons use an absorbable suture called Monocryl. So no stitches need
-    to be removed. Your small wounds will be covered withbandages. You will be able
+    to be removed. Your small wounds will be covered with bandages. You will be able
     to shower with regular soap and water. You will not be able to submerge in a bathtub,
     hot-tub or a swimming pool for a couple of weeks.
 - question: Can I drink alcohol?
@@ -244,11 +236,12 @@ faqs:
 - question: What kind of staples do you use? Will they sound off the alarm if I cross
     the metal detector in an Airport?
   answer: Our surgeons use titanium staples made by Echelon in the United States.
-    Our surgeons We also over sew the staple line making our leakage rate % very low.
+    Our surgeons also over sew the staple line making our leakage rate very low.
 - question: How about leaks?
   answer: Our surgeon’s leakage rate is at 0.32%. You will have 2 leak tests performed
     in the operating room after the sleeve is completed, a blue dye and an air test
-    while you are still under anesthesia.
+    while you are still under anesthesia. The last leak test that is performed is
+    a barium swallow.
 others:
 - title: Passport and US Customs Requirements
   faqs:
@@ -384,7 +377,6 @@ others:
     answer: |-
       Please let us know if you have questions about what to bring or what paperwork you need.
       * Passport (it is highly recommended that your passport have an expiration date at least 6 months after your scheduled date of return from Mexico).
-      * State issued photo ID and original certified copy of your birth certificate if you have no passport
       * A small amount of cash for food and tipping
       * Comfortable, loose clothing – you will not be going out much, and will want loose fitting clothes after surgery. Bring a light jacket, especially in winter.
       * Comfortable shoes.
@@ -400,23 +392,19 @@ others:
       Please keep this contact information and these instructions in a safe
       place with you as you travel! We look forward to meeting you in Mexico!
 
-      When you get to San Diego Airport: Please call us.
-
-      **Stacy Eckel or Transportation Manager: (619) 600-0375**
-
       You will be picked up curbside and taken across the border (have your
       passport handy!) and to your hospital. It takes 25 minutes to get to the
       border from the airport.
   - question: When you get to the hospital
     answer: |-
-      If you are arriving the same day for surgery, you will be taken to the hospital. Your Patient Concierge will be waiting there to greet you. Our internal medicine doctor and his medical team will be there to evaluate you and clear you for surgery.
+      If you are arriving the same day for surgery, you will be taken to the hospital. Our Patient valet will be waiting there to greet you. Our internal medicine doctor and his medical team will be there to evaluate you and clear you for surgery.
 
       Then you will meet your surgeon and the medical team, and have a consultation with your surgeon. After completing your pre-op testing, you will have your surgery. Surgery takes Approximately 45 minutes to 1 1/2 hours. PLEASE NOTE THAT SURGERY TIMES ARE APPROXIMATIONS AND ARE SUBJECT TO CHANGE TO BE EARLIER OR LATER.
 
       After surgery, you will be taken to recovery or directly to your hospital room. While you are recovering in the hospital, our Customer Service member will take care of your companion and be by their side for 8 hours each day you are at the Hospital.
   - question: If you arrive the day before surgery
     answer: |-
-      You will be taken to the Holiday Inn where you will be staying. You will be greeted by your BariatricPal concierge. You may stay at the Hotel and relax, or go shopping or site seeing. You can reserve a trip with BariatricPal – please contact us for pricing.
+      You will be taken to the Real Inn where you will be staying. You will be greeted by your BariatricPal Hospital MX valet. You may stay at the Hotel and relax, or go shopping or site seeing. You can reserve a trip with BariatricPal – please contact us for pricing.
 
       You will taken to the hospital the next day for pre-op testing and surgery
 - title: What to Expect After Surgery
@@ -438,7 +426,7 @@ others:
       your BariatricPal Hospital MX nutritionist for your follow-up program.
   - question: Leaving Mexico
     answer: |-
-      We recommend you plan to stay for 2 days to begin a proper recovery from surgery. On the day you leave, we will bring you back to San Diego 2 hours before your flight. Please consider that we may have more patients to pick up and may need to take you to the airport earlier than the 2 hours before your flight. Also, we may need to go through US Customs, which could take anywhere from 30 minutes to 1 1/2 hours or more. The following can speed the process:
+      We recommend you plan to stay for 2 days to begin a proper recovery from surgery. On the day you leave, we will bring you back to San Diego 4 hours before your flight. Please consider that we may have more patients to pick up and may need to take you to the airport earlier than the 4 hours before your flight. Also, we may need to go through US Customs, which could take anywhere from 30 minutes to 2 hours or more. The following can speed the process:
 
       * Please have all of your passport or other documentation such as your ID and birth certificate.
       * Please do not bring back any narcotic medications, as it is against US law.

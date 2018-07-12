@@ -70,12 +70,14 @@ layout: default
                 </div>
               {% endfor %}
               {% if page.id contains 'weight-loss-surgeries' %}
-                <div class='box u-mb1'>
-                  <p class='t-smaller u-textSecondary'>
-                    There is an additional fee of $500 for BMI’s
-                    49 to 69 and $1000 for BMI 70+
-                  </p>
-                </div>
+                {% if page.aditional_fee %}
+                  <div class='box u-mb1'>
+                    <p class='t-smaller u-textSecondary'>
+                      There is an additional fee of $500 for BMI’s
+                      49 to 69 and $1000 for BMI 70+
+                    </p>
+                  </div>
+                {% endif %}
               {% endif %}
             </div>
           {% endif %}

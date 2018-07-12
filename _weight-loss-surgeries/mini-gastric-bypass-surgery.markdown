@@ -35,6 +35,7 @@ surgery_facts: |-
   * **Hormonal**: Ghrelin is a hormone that your stomach produces. It causes you to feel hungry.
   * **Ghrelin**: the mini gastric bypass can lead to lower levels of ghrelin so you don’t feel as hungry, but your levels of ghrelin may not stay low for long.
   * **GLP-1**: is glucagon-like peptide-1. It helps reduce food intake, and your levels may increase after MGB.
+aditional_fee: false
 layout: surgery
 ---
 

@@ -28,6 +28,7 @@ surgery_facts: |-
   ### Weight Loss and the BPD-DS:
   * **Restrictive**: The BPD-DS reduces your stomach size by 50%. Its size after surgery is only four to five ounces, so it doesn't hold as much food as it did before surgery, when you had your entire stomach. You get full sooner and are less likely to eat too many calories.
   * **Malabsorptive**: Nutrient absorption decreases because food bypasses part of the small intestine and because your digestive juices are rerouted. Even though food is broken in your gastrointestinal tract, it's not completely absorbed into your body. Therefore, you get fewer calories and nutrients.
+aditional_fee: true
 layout: surgery
 ---
 

@@ -32,6 +32,7 @@ surgery_facts: |-
   * About 65 to 70% of excess weight loss (EWL) within 2 years
   * Often more than 100 pounds lost
   * The RYGB is restrictive and malapsorptive and it affects your appetite hormones
+aditional_fee: false
 layout: surgery
 ---
 

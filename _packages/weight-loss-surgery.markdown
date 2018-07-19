@@ -39,6 +39,7 @@ sections:
     * Lifetime nutritional support
     * Direct access (email and phone number) to Dr. Illan after surgery for follow-up
     * Access to our private Facebook group for unlimited information and support
+    * Access to Pre- and Post-Op Psychological Education for Optimal Long-Term Success via MindPrep™ by Dr. Connie Stapleton, Ph.D
 layout: default
 ---
 

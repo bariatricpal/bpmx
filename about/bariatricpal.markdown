@@ -25,7 +25,7 @@ layout: default
           Feel comfortable with our internationally recognized surgical experts in laparoscopic surgery and reconstructive procedures. Your team consists of dedicated and experienced bariatric and plastic surgeons, anesthesiologists, dietitians, nurses, and support staff.
         </p>
         <p>
-          It all started with one man's weight loss journey. Much like you, Alex Brecher, founder, and president of BariatricPal wanted to finally take control of his weight. But 15 years ago, Alex struggled after surgery to find the support and information he needed to make a lasting change.
+          It all started with one man's weight loss journey. Much like you, Alex Brecher, founder, and president of BariatricPal wanted to finally take control of his weight. But 16 years ago, Alex struggled after surgery to find the support and information he needed to make a lasting change.
         </p>
         <h1 class='u-textPrimary'>
           Thus, BariatricPal was born.

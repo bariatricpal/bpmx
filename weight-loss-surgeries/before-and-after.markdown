@@ -2,7 +2,9 @@
 title: Weight Loss Surgery Before & After Pictures
 position: 5
 seo:
-  title: Weight Loss Surgery in Mexico FAQ
+  title: Weight Loss Surgery Before & After Pictures in Mexico
+  description: Real Before & After Weight Loss Surgery Pictures of BariatricPal Hospital
+    Patients in Mexico
 photos:
 - image: "/uploads/wls-before-1.png"
 - image: "/uploads/wls-after-1.png"

@@ -1,5 +1,5 @@
 ---
-title: Plastic Surgery Before & After
+title: Plastic Surgery Before & After Pictures
 position: 11
 seo:
   title: Plastic Surgery Before & After Pictures in Mexico

@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-position: 16
+position: 17
 seo:
   title: BariatricPal Hospital MX Privacy Policy
   description: BariatricPal Hospital MX is committed to protecting your privacy and

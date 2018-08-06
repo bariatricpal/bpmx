@@ -1,6 +1,6 @@
 ---
 title: About BariatricPal
-position: 10
+position: 13
 seo:
   title: 'About BariatricPal '
   description: It all started with one man's weight loss journey. Much like you, Alex

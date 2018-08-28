@@ -3,12 +3,12 @@ title: Botox Treatments for wrinkles
 position: 7
 seo:
   title: Botox Treatments for wrinkles only $200
-  description: Treatments for wrinkles only $200 in Tijuana, Mexico
+  description: Treatments for wrinkles only $250 in Tijuana, Mexico
 surgery_types:
 - description: Upper face
-  price: "$200​"
+  price: "$250​"
 - description: Lower face
-  price: "$200​"
+  price: "$250​"
 - description: Whole face
   price: "$400"
 subtitle: Botox is one of the most popular treatments for aging, wrinkled skin.
@@ -17,8 +17,7 @@ surgery_excerpt:
   content: Botox is one of the most popular treatments for aging or wrinkled skin.
     Botox, a form of botulinum toxin, is commonly used on horizontal forehead furrows,
     vertical lines between the eyebrows and “crow’s feet” around the eyes.
-  price: "$200"
-layout: surgery
+  price: "$250"
 surgery_facts: |-
   **Am I a Candidate for Botox?**<br/>
   You may be a suitable candidate for Botox<br/>
@@ -38,6 +37,7 @@ surgery_facts: |-
   <img src='/uploads/botox-lower-face.png' alt='Botox Treatments for wrinkles lower face' />
 
   <img src='/uploads/botox-upper-face.png' alt='Botox Treatments for wrinkles upper face' />
+layout: surgery
 ---
 
 Botox is one of the most popular treatments for aging, wrinkled skin. Botox, a form of botulinum toxin, is commonly used on horizontal forehead furrows, vertical lines between the eyebrows and “crow’s feet” around the eyes. Because it is non-surgical and very effective, many aging adults turn to Botox to improve their appearance and alleviate signs of aging.

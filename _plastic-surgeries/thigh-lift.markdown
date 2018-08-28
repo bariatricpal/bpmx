@@ -19,6 +19,6 @@ surgery_excerpt:
 layout: surgery
 ---
 
-**Thigh lift surgery** reshapes the thighs by reducing excess skin and fat, resulting in smoother skin and better-proportioned contours of the thighs and lower body. Calf augmentation is perfect for those with small calves. Calf muscles have a very limited space for growth, luckily you have options to achieve a bigger calf.
+**Thigh lift surgery** reshapes the thighs by reducing excess skin and fat, resulting in smoother skin and better-proportioned contours of the thighs and lower body.
 
 Whether it's implants, fat grafting, or a combination of procedures, you have choices to help you get closer to your goal. Same as in the arm lift, the main goal of the leg lift is removing excess skin in the thighs to give a more aesthetic look. After weight loss, all that was before occupied by fat becomes an emptier space that translates into loose skin. There are different types of leg lifts; schedule a consultation to learn which one is right for you.

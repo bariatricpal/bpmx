@@ -2,28 +2,25 @@
 title: Tummy Tuck
 position: 0
 seo:
-  title: Tummy Tuck Surgery in Tijuana only $2400
-  description: Tummy Tuck Surgery starting at only $2400 in Tijuana, Mexico
+  title: Tummy Tuck Surgery in Tijuana only $4300
+  description: Tummy Tuck Surgery starting at only $4300 in Tijuana, Mexico
 surgery_types:
 - description: "​Standard tummy tuck"
-  price: "$2400​"
 - description: "​Extended tummy tuck is when the horizontal incision reaches around
     the hips (i.e., sides of the lower back), so when the body is viewed ​​posteriorly
     the tail ends of the scar are visible."
-  price: "$2800​"
 - description: "​Extended tummy tuck with Fleur de Lis is an extended tummy tuck that,
     ​​​​aside from the horizontal incision, also requires a vertical scar, which is
     ​​more difficult to hide. For this reason, the technique is only reserved for
     ​​patients who need the most amount of correction and are willing to ​​accept
     its tradeoff to achieve the best possible post op contour."
-  price: "$3400"
 subtitle: Pick the Tummy Tuck procedure that works best for you.
 image: "/uploads/tummy-tuck.png"
 surgery_excerpt:
   content: Tummy tuck surgery, also known as abdominoplasty, removes excess fat and
     skin and, in most cases, restores weakened or separated muscles creating a stomach
     that is smoother and firmer.
-  price: "$2400"
+  price: "$4300"
 layout: surgery
 ---
 
@@ -36,3 +33,11 @@ Sometimes the excess skin is mostly located in the front and sides of the abdome
 Excess skin after weight loss is no stranger to the back. For this, there is always the option of a torspolasty to get rid of excess skin on the mid and upper back. There are different types of **torsoplasty**; talk to your plastic surgeon about the options to determine what works better for you.
 
 An **upper body lift is a combination** of an arm lift, breast lift (with or without implants) and in some patients a torsoplasty. It addresses the full upper body in one surgery. A Mommy Makeover is our most popular procedure. It is a combination of liposuction, Brazilian butt lift, tummy tuck and breast augmentation, lift or breast reduction. All work together to give you a drastic change that will not only help you recover your pre-pregnancy body, but it will make you look better than ever.
+
+<h1 class='u-textPrimary u-mt4 u-mb0'>
+  <strong>Tummy Tuck: from $4300 to $7400</strong>
+</h1>
+
+The minimum price is for a local resident that does not require hotel accommodations or transportation. It covers your 1-night stay at BariatricPal hospital, post-op meds, hospital & OR fees, pre-ops, the surgeon, anesthesiologist and your garments for this single procedure.
+
+The maximum price is for those traveling from within the US and Canada. It includes 7 nights hotel, transportation to and from hotel, airport & hospital only. It covers your 1-night stay at BariatricPal hospital, post-op meds, hospital & OR fees, pre-ops, the surgeon, anesthesiologist and your garments, nursing care for 3 to 4 days, doctor visits, lunch & dinner, and depending on the procedure massages for this single procedure.

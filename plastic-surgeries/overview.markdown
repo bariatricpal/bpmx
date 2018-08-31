@@ -34,7 +34,7 @@ layout: default
     <div class='section-row'>
       <div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
         <a class='ctrl ctrl--play ctrl--playPrimary' href='#xjmobnyDKTo'>
-          <img src='/uploads/dr-alejandro-galvez-surgery.png' alt='Dr. Alejandro Galvez' />
+          <img src='/uploads/dr-alejandro-galvez-surgery.jpg' alt='Dr. Alejandro Galvez' />
         </a>
       </div>
       <div class='section-chunk u-size7of16 u-px2 u-xs-sizeFull'>
@@ -132,7 +132,7 @@ layout: default
         <p class='t3 u-textPrimary note note--primary'>
           Dr. Alejandro Galvez M.D. is a top ranked, board-certified surgeon with two specialties in Tijuana, Mexico.
         </p>
-        <img class='u-py1' src='/uploads/dr-alejandro-galvez.png' alt='DR. Alejandro Galvez'/>
+        <img class='u-py1' src='/uploads/dr-alejandro-galvez.jpg' alt='DR. Alejandro Galvez'/>
         <p>
           He specializes in plastic surgery and digestive, endocrine, and metabolic surgery (bariatric). Dr. Galvez has performed over 3,000 bariatric procedures and 2,000 plastic surgery procedures.
         </p>
@@ -186,7 +186,7 @@ layout: default
   <div class='section u-py3'>
     <div class='section-row u-py3'>
       <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
-        <img src='/uploads/stacy-eckel.png' alt='Wellness Coach Stacy Eckel' />
+        <img src='/uploads/stacy-eckel.jpg' alt='Wellness Coach Stacy Eckel' />
       </div>
       <div class='section-chunk u-size2of4 u-px4 u-xs-size10of12 u-xs-mt3 u-xxs-sizeFull'>
         <h3 class='u-textPrimary u-mt0'>

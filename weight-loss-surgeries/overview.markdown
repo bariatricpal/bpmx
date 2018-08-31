@@ -248,7 +248,7 @@ layout: default
   <div class='section u-py3'>
     <div class='section-row u-py3'>
       <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
-        <img src='/uploads/stacy-eckel.png' alt='Wellness Coach Stacy Eckel' />
+        <img src='/uploads/stacy-eckel.jpg' alt='Wellness Coach Stacy Eckel' />
       </div>
       <div class='section-chunk u-size2of4 u-px4 u-xs-size10of12 u-xs-mt3 u-xxs-sizeFull'>
         <h3 class='u-textPrimary u-mt0'>

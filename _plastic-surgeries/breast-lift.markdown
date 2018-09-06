@@ -11,6 +11,7 @@ surgery_types:
     The correction of this breast ptosis is done with a surgery that ​​replaces the
     breast to its normal site, and it can even be done with ​​breast implants to not
     only correct the fall of the breast, but also give it a ​​more youthful look."
+  price: "$0.00"
 - description: "​Breast lift with implants"
 - description: "​Breast augmentation restores breast volume lost after weight reduction
     to achieve a more rounded breast shape or improve natural breast size ​​asymmetry."
@@ -31,7 +32,7 @@ A **breast lift**, also known as mastopexy, raises the breasts by removing exces
 
 
 <h1 class='u-textPrimary u-mt4 u-mb0'>
-  <strong>Butt Lift: from $4260 to $6290</strong>
+  <strong>Breast Lift: from $4260 to $6290</strong>
 </h1>
 
 The minimum price is for a local resident that does not require hotel accommodations or transportation. It covers your 1-night stay at BariatricPal hospital, post-op meds, hospital & OR fees, pre-ops, the surgeon, anesthesiologist and your garments for this single procedure.

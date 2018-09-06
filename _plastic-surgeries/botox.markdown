@@ -2,15 +2,15 @@
 title: Botox Treatments for wrinkles
 position: 7
 seo:
-  title: Botox Treatments for wrinkles only $200
-  description: Treatments for wrinkles only $250 in Tijuana, Mexico
+  title: Botox Treatments for wrinkles only $250.00
+  description: Treatments for wrinkles only $250.00 in Tijuana, Mexico
 surgery_types:
 - description: Upper face
-  price: "$250​"
+  price: "$250​.00"
 - description: Lower face
-  price: "$250​"
+  price: "$250​.00"
 - description: Whole face
-  price: "$400"
+  price: "$500.00"
 subtitle: Botox is one of the most popular treatments for aging, wrinkled skin.
 image: "/uploads/botox.png"
 surgery_excerpt:

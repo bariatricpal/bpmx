@@ -14,8 +14,8 @@ addresses:
   mx: |-
     **Tijuana, MX**:<br/>
     BariatricPal Hospital MX<br/>
-    Mexicali 9 Buena Vista<br/>
-    Sepanal, Tijuana, B.C., Mexico
+    Santa Isabel 219<br/>
+    Sepanal, Tijuana, B.C., Mexico 22415
   ny: |-
     **Northeast Office, NY**:<br/>
     BariatricPal MX LLC.<br/>

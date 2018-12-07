@@ -129,7 +129,7 @@ layout: default
         </ul>
         <div class='card u-mt4'>
           <p class='u-m0 u-size13of16'>
-            <strong>Dr. Marciales and his anesthesiologist hand-picked a team dedicated to providing amazing patient care</strong> and reconstruction after weight loss to make you look as good as you feel.
+            <strong>Dr. Marciales and his anesthesiologist Susana Preciado Ramirez hand-picked a team dedicated to providing amazing patient care</strong> and reconstruction after weight loss to make you look as good as you feel.
           </p>
           <a class='btn u-mt4' href='https://bariatricpal.typeform.com/to/FIdZ6c'>
             Schedule a Consultation

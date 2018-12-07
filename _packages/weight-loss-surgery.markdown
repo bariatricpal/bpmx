@@ -39,7 +39,7 @@ sections:
     to Dr. Illan after surgery for follow-up\n* Access to our private Facebook group
     for unlimited information and support\n* Access to Pre- and Post-Op Psychological
     Education for Optimal Long-Term Success via MindPrep™ by Dr. Connie Stapleton,
-    Ph.D\n* Free 30 day supply of BariatricPal [Multivitamin ONE](https://store.bariatricpal.com/collections/multivitamins/products/bariatricpal-multivitamin-one-1-per-day-bariatric-multivitamin-capsule-with-45mg-iron)
+    Ph.D\n* Free 30 day supply of BariatricPal [Multivitamin ONE(https://store.bariatricpal.com/collections/multivitamins/products/bariatricpal-multivitamin-one-1-per-day-bariatric-multivitamin-capsule-with-45mg-iron)
     Bariatric Multivitamin.   "
 layout: default
 ---

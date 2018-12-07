@@ -146,9 +146,11 @@ layout: default
               <span class='icon icon--triangle u-right'></span>
             </li>
             <li class="borderedList-item">
-              Meet your -
-              <a href='/plastic-surgeries/overview'>
-                Plastic Surgery Team
+              Meet your - Plastic Surgery Team
+              <a href='/plastic-surgeries/dr-alejandro-galvez'>
+                Dr. Alejandro Galvez
+              </a> and <a href='/plastic-surgeries/dr-carlos-marceles'>
+                Dr. Carlos Marceles
               </a>
               <span class='icon icon--triangle u-right'></span>
             </li>

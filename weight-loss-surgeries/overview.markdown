@@ -10,6 +10,7 @@ testimonials_intro: |-
   Hear what satisfied patients
   say about Dr. Jalil Illan,
   Bariatric Surgeon
+testimonials_url: "/weight-loss-surgeries/testimonials"
 layout: default
 ---
 

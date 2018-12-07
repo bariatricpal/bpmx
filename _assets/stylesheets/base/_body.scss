@@ -5,6 +5,10 @@
   .has-side-menu & {
     transform: translateX(-260px) translateY(0);
   }
+
+  @include respond-max($screen-sm-max) {
+    padding-top: 115px;
+  }
 }
 
 .wrap {

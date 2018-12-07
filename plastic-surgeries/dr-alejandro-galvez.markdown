@@ -1,5 +1,5 @@
 ---
-title: Plastic Surgery Overview
+title: Plastic Surgery Overview - Dr. Alejandro Galvez
 position: 8
 seo:
   title: Affordable Plastic Surgery in Tijuana, Mexico
@@ -8,11 +8,12 @@ seo:
 testimonials_intro: |-
   Hear what satisfied patients
   say about Dr. Alejandro Galvez,
-  Bariatric Surgeon
+  Plastic & Reconstructive Surgeon
+testimonials_url: "/plastic-surgeries/testimonials"
 layout: default
 ---
 
-<div class='hero hero--plastics'>
+<div class='hero hero--galvezPlastics'>
   <div class='hero-wrap'>
     <div class='hero-caption u-alignBottom'>
       <div class='hero-box hero-box--transparent u-size5of9 u-xs-size10of12 u-xxs-sizeFull'>
@@ -136,7 +137,7 @@ layout: default
         <p>
           He specializes in plastic surgery and digestive, endocrine, and metabolic surgery (bariatric). Dr. Galvez has performed over 3,000 bariatric procedures and 2,000 plastic surgery procedures.
         </p>
-        <a class='u-mt1' href='/plastic-surgeries/credentials'>
+        <a class='u-mt1' href='/plastic-surgeries/credentials-dr-alejandro-galvez'>
           View Dr. Galvez's Credentials
         </a>
       </div>

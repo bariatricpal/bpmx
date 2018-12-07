@@ -35,11 +35,12 @@ sections:
     * 24-hr support from BariatricPal staff in the U.S. and Mexico
     * English speaking staff during your whole stay with us
 - title: Follow-up support
-  content: |-
-    * Lifetime nutritional support
-    * Direct access (email and phone number) to Dr. Illan after surgery for follow-up
-    * Access to our private Facebook group for unlimited information and support
-    * Access to Pre- and Post-Op Psychological Education for Optimal Long-Term Success via MindPrep™ by Dr. Connie Stapleton, Ph.D
+  content: "* Lifetime nutritional support\n* Direct access (email and phone number)
+    to Dr. Illan after surgery for follow-up\n* Access to our private Facebook group
+    for unlimited information and support\n* Access to Pre- and Post-Op Psychological
+    Education for Optimal Long-Term Success via MindPrep™ by Dr. Connie Stapleton,
+    Ph.D\n* Free 30 day supply of BariatricPal [Multivitamin ONE ](https://store.bariatricpal.com/collections/multivitamins/products/bariatricpal-multivitamin-one-1-per-day-bariatric-multivitamin-capsule-with-45mg-iron)
+    Bariatric Multivitamin.   "
 layout: default
 ---
 

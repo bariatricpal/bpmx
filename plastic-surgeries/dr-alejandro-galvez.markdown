@@ -54,49 +54,6 @@ layout: default
         </p>
       </div>
     </div>
-
-    <div class='section-row u-mt4'>
-      <div class='section-chunk u-size1of3 u-px2 u-xxs-sizeFull'>
-        <div class='box u-sm-p2'>
-          <span class='icon icon--laser'></span>
-          <p class='t-large'>
-            5500
-          </p>
-          <p class='t4 u-textSecondary'>
-            Laparoscopic<br/>
-            surgical<br/>
-            procedures
-          </p>
-        </div>
-      </div>
-      <div class='section-chunk u-size1of3 u-px2 u-xs-pl0 u-xxs-sizeFull u-xxs-mt2 u-xxs-pl2'>
-        <div class='box u-sm-p2'>
-          <span class='icon icon--waistline'></span>
-          <p class='t-large'>
-            2000
-          </p>
-          <p class='t4 u-textSecondary'>
-            Plastic or<br/>
-            reconstructive<br/>
-            surgeries
-          </p>
-        </div>
-      </div>
-      <div class='section-chunk u-size1of3 u-px2 u-xs-pl0 u-xxs-sizeFull u-xxs-mt2 u-xxs-pl2'>
-        <div class='box u-sm-p2'>
-          <span class='icon icon--heart'></span>
-          <p class='t-large'>
-            Zero
-          </p>
-          <p class='t4 u-textSecondary'>
-            <br/>
-            <br/>
-            Fatalities
-          </p>
-        </div>
-      </div>
-    </div>
-
   </div>
 </div>
 
@@ -119,8 +76,6 @@ layout: default
 </div>
 
 <div class='wrap'>
-  {% include testimonials.html %}
-
   <div class='section u-py6'>
     <div class='section-row'>
       <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>

@@ -34,7 +34,7 @@ layout: default
       </div>
       <div class='section-chunk u-size8of13 u-px4 u-sm-sizeFull u-sm-mt3'>
         <h3 class='u-textSecondary u-mt1'>
-          Dr. Carlos Marceles
+          Dr. Carlos Marciales
         </h3>
         <ul class="imageList">
           {% for photo in page.photos %}

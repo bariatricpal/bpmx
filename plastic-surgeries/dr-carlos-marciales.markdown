@@ -1,20 +1,20 @@
 ---
-title: Plastic Surgery Overview - Dr. Carlos Marceles
+title: Plastic Surgery Overview - Dr. Carlos Marciales
 position: 8
-id: plastic-surgeries
 seo:
   title: Affordable Plastic Surgery in Tijuana, Mexico
   description: The best plastic surgeons, anesthesiologists, and nurses in all of
     Mexico.
+id: plastic-surgeries
 testimonials_intro: |-
   Hear what satisfied patients
-  say about Dr. Carlos Marceles,
+  say about Dr. Carlos Marciales,
   Bariatric Surgeon
 testimonials_url: "/plastic-surgeries/testimonials"
 layout: default
 ---
 
-<div class='hero hero--marcelesPlastics'>
+<div class='hero hero--marcialesPlastics'>
   <div class='hero-wrap'>
     <div class='hero-caption u-alignBottom'>
       <div class='hero-box hero-box--transparent u-size5of9 u-xs-size10of12 u-xxs-sizeFull'>
@@ -35,14 +35,14 @@ layout: default
   <div class='section u-py4'>
     <div class='section-row'>
       <div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
-        <img src='/uploads/dr-carlos-marceles-surgery.jpg' alt='Dr. Carlos Marceles' />
+        <img src='/uploads/dr-carlos-marciales-surgery.jpg' alt='Dr. Carlos Marciales' />
       </div>
       <div class='section-chunk u-size7of16 u-px2 u-xs-sizeFull'>
         <p class='u-textSecondary u-mb0'>
           Meet Your Surgeon:
         </p>
         <h1 class='u-mt0'>
-          Dr. Carlos Marceles
+          Dr. Carlos Marciales
         </h1>
         <p class='t3 u-textPrimary u-mt0'>
           Top-Ranked, Board-Certified,
@@ -53,49 +53,6 @@ layout: default
         </p>
       </div>
     </div>
-
-    <div class='section-row u-mt4'>
-      <div class='section-chunk u-size1of3 u-px2 u-xxs-sizeFull'>
-        <div class='box u-sm-p2'>
-          <span class='icon icon--laser'></span>
-          <p class='t-large'>
-            5500
-          </p>
-          <p class='t4 u-textSecondary'>
-            Laparoscopic<br/>
-            surgical<br/>
-            procedures
-          </p>
-        </div>
-      </div>
-      <div class='section-chunk u-size1of3 u-px2 u-xs-pl0 u-xxs-sizeFull u-xxs-mt2 u-xxs-pl2'>
-        <div class='box u-sm-p2'>
-          <span class='icon icon--waistline'></span>
-          <p class='t-large'>
-            2000
-          </p>
-          <p class='t4 u-textSecondary'>
-            Plastic or<br/>
-            reconstructive<br/>
-            surgeries
-          </p>
-        </div>
-      </div>
-      <div class='section-chunk u-size1of3 u-px2 u-xs-pl0 u-xxs-sizeFull u-xxs-mt2 u-xxs-pl2'>
-        <div class='box u-sm-p2'>
-          <span class='icon icon--heart'></span>
-          <p class='t-large'>
-            Zero
-          </p>
-          <p class='t4 u-textSecondary'>
-            <br/>
-            <br/>
-            Fatalities
-          </p>
-        </div>
-      </div>
-    </div>
-
   </div>
 </div>
 
@@ -118,31 +75,29 @@ layout: default
 </div>
 
 <div class='wrap'>
-  {% include testimonials.html %}
-
   <div class='section u-py6'>
     <div class='section-row'>
       <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
         <h1 class='u-mt0'>
-          Dr. Carlos Marceles,
+          Dr. Carlos Marciales,
           Board Certified Plastic
           Surgeon, BariatricPal
           Hospital MX
         </h1>
         <p class='t3 u-textPrimary note note--primary'>
-          Dr. Carlos Marceles M.D. is a top ranked, board-certified surgeon with two specialties in Caracas-Venezuela.
+          Dr. Carlos Marciales M.D. is a top ranked, board-certified surgeon with two specialties in Caracas-Venezuela.
         </p>
-        <img class='u-py1' src='/uploads/dr-carlos-marceles.jpg' alt='Dr. Carlos Marceles'/>
+        <img class='u-py1' src='/uploads/dr-carlos-marciales.jpg' alt='Dr. Carlos Marciales'/>
         <p>
-          He specializes in plastic surgery and digestive, endocrine, and metabolic surgery (bariatric). Dr. Carlos Marceles has performed over 3,000 bariatric procedures and 2,000 plastic surgery procedures.
+          He specializes in plastic surgery and digestive, endocrine, and metabolic surgery (bariatric). Dr. Carlos Marciales has performed over 3,000 bariatric procedures and 2,000 plastic surgery procedures.
         </p>
-        <a class='u-mt1' href='/plastic-surgeries/credentials-dr-carlos-marceles'>
-          View Dr. Marceles's Credentials
+        <a class='u-mt1' href='/plastic-surgeries/credentials-dr-carlos-marciales'>
+          View Dr. Marciales's Credentials
         </a>
       </div>
       <div class='section-chunk u-size3of5 u-px4 u-pr2 u-xs-sizeFull u-xs-pl2 u-xs-mt3'>
         <h3 class='u-mt0'>
-          <strong>Dr. Marceles's</strong> Intensive Medical Education
+          <strong>Dr. Marciales's</strong> Intensive Medical Education
         </h3>
         <ol class='checkList'>
           <li class='checkList-item'>
@@ -156,7 +111,7 @@ layout: default
           </li>
         </ol>
         <h3 class='u-mt4'>
-          <strong>Dr. Marceles's</strong> Specialties
+          <strong>Dr. Marciales's</strong> Specialties
         </h3>
         <ul class='checkList'>
           <li class='checkList-item'>
@@ -174,7 +129,7 @@ layout: default
         </ul>
         <div class='card u-mt4'>
           <p class='u-m0 u-size13of16'>
-            <strong>Dr. Marceles and his anesthesiologist Dr. Escobosa Rocha hand-picked a team dedicated to providing amazing patient care</strong> and reconstruction after weight loss to make you look as good as you feel.
+            <strong>Dr. Marciales and his anesthesiologist hand-picked a team dedicated to providing amazing patient care</strong> and reconstruction after weight loss to make you look as good as you feel.
           </p>
           <a class='btn u-mt4' href='https://bariatricpal.typeform.com/to/FIdZ6c'>
             Schedule a Consultation

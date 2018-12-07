@@ -92,6 +92,25 @@
   }
 }
 
+.menu-dropdown--secondary {
+  top: 0;
+  left: 95%;
+
+  .menu-link:hover & {
+    display: none;
+  }
+
+  .menu-dropdownLink:hover & {
+    display: block;
+  }
+
+  @include respond-max($screen-sm-max) {
+    .menu-link:hover & {
+      display: block;
+    }
+  }
+}
+
 
 .menu-dropdownLink {
   position: relative;

@@ -35,7 +35,7 @@ layout: default
   <div class='section u-py4'>
     <div class='section-row'>
       <div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
-        <img src='/uploads/dr-carlos-marciales-surgery.jpg' alt='Dr. Carlos Marciales' />
+        <img src='/uploads/dr-carlos-marceles-surgery.jpg' alt='Dr. Carlos Marciales' />
       </div>
       <div class='section-chunk u-size7of16 u-px2 u-xs-sizeFull'>
         <p class='u-textSecondary u-mb0'>
@@ -87,7 +87,7 @@ layout: default
         <p class='t3 u-textPrimary note note--primary'>
           Dr. Carlos Marciales M.D. is a top ranked, board-certified surgeon with two specialties in Caracas-Venezuela.
         </p>
-        <img class='u-py1' src='/uploads/dr-carlos-marciales.jpg' alt='Dr. Carlos Marciales'/>
+        <img class='u-py1' src='/uploads/dr-carlos-marceles.jpg' alt='Dr. Carlos Marciales'/>
         <p>
           He specializes in plastic surgery and digestive, endocrine, and metabolic surgery (bariatric). Dr. Carlos Marciales has performed over 3,000 bariatric procedures and 2,000 plastic surgery procedures.
         </p>

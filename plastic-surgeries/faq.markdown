@@ -102,14 +102,14 @@ faqs:
     * Persistent nausea or vomiting
     * Inability to urinate after surgery
     * Any other unusual symptoms that concern you
-- question: Will Dr. Galvez attend me personally?
-  answer: Yes, Dr. Galvez is the only one who does the consult and surgeries. You
-    will meet Dr. Galvez, if you have any questions feel free to contact us.
+- question: Will my surgeon attend me personally?
+  answer: Yes, your surgeon is the only one who does the consult and surgeries. You
+    will meet your surgeon and if you have any questions feel free to contact us.
 - question: I’m underage, can I have surgery?
   answer: You can have surgery if you’re underage. However, both of your parents have
     to be with you the day of surgery and both of them need to sign the consentment
     forms.
-- question: Does Dr. Galvez use buttocks implants?
+- question: Do you offer buttocks implants?
   answer: Yes, you can have buttocks implants or have fat transfer to buttocks and
     hips.
 - question: What type of breast implants do you use?

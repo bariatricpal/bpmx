@@ -9,7 +9,7 @@ sections:
 - title: Surgery and related expenses
   content: |-
     * The surgical procedure
-    * Fees for 2 plastic surgeons including lead surgeon Dr. Galvez, a general surgeon, and the anesthesiologist, a doctor, and a surgeon’s assistant or nurse
+    * Fees for 2 plastic surgeons including lead surgeon and a general surgeon, and the anesthesiologist, a doctor, and a surgeon’s assistant or nurse
     * Pre-op blood tests, chest x-ray, EKG, and cardiologist evaluation
     * Prescription and discharge medications
     * Required paperwork or reports for you to take home for your records and doctors
@@ -36,7 +36,7 @@ sections:
 - title: Follow-up support
   content: |-
     * 1 set of compression garments
-    * Direct access (email and phone number) to Dr. Galvez after surgery for follow-up
+    * Direct access (email and phone number) to your surgeon after surgery for follow-up
     * Access to our private Facebook group for unlimited information and support
 layout: default
 ---

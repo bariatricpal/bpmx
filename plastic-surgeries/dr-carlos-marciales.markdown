@@ -85,11 +85,11 @@ layout: default
           Hospital MX
         </h1>
         <p class='t3 u-textPrimary note note--primary'>
-          Dr. Carlos Marciales M.D. is a top ranked, board-certified surgeon with two specialties in Caracas-Venezuela.
+          Dr. Carlos Marciales M.D. is a top ranked, board-certified plastic and reconstructive surgeon.
         </p>
         <img class='u-py1' src='/uploads/dr-carlos-marceles.jpg' alt='Dr. Carlos Marciales'/>
         <p>
-          He specializes in plastic surgery and digestive, endocrine, and metabolic surgery (bariatric). Dr. Carlos Marciales has performed over 3,000 bariatric procedures and 2,000 plastic surgery procedures.
+          He specializes in plastic and reconstructive surgery. Dr. Carlos Marciales has performed over 3,000 plastic surgery procedures.
         </p>
         <a class='u-mt1' href='/plastic-surgeries/credentials-dr-carlos-marciales'>
           View Dr. Marciales's Credentials
@@ -129,7 +129,7 @@ layout: default
         </ul>
         <div class='card u-mt4'>
           <p class='u-m0 u-size13of16'>
-            <strong>Dr. Marciales and his anesthesiologist Susana Preciado Ramirez hand-picked a team dedicated to providing amazing patient care</strong> and reconstruction after weight loss to make you look as good as you feel.
+            <strong>Dr. Marciales and his anesthesiologist Dr. Susana Preciado Ramirez hand-picked a team dedicated to providing amazing patient care</strong> and reconstruction after weight loss to make you look as good as you feel.
           </p>
           <a class='btn u-mt4' href='https://bariatricpal.typeform.com/to/FIdZ6c'>
             Schedule a Consultation

@@ -1,6 +1,5 @@
 ---
 title: Plastic Surgery Overview - Dr. Alejandro Galvez
-published: false
 position: 8
 seo:
   title: Affordable Plastic Surgery in Tijuana, Mexico

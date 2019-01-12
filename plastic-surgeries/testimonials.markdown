@@ -20,16 +20,14 @@ testimonials:
 layout: default
 ---
 
-<div class='hero' data-cover='plastic-surgery-dr-galvez'>
+<div class='hero hero--marcialesPlastics'>
   <div class='hero-wrap'>
     <div class='hero-caption'>
-      <div class='hero-title'>
+      <div class='hero-box u-size5of10 u-xxs-sizeFull'>
         <h1 class='u-mt0'>
           Testimonials — Plastic<br/>
           &amp; Reconstructive Surgery
         </h1>
-      </div>
-      <div class='hero-box u-size5of10 u-xxs-sizeFull'>
         <p class='u-mt0'>
           You've lost the weight, and you feel<br/>
           fantastic. Now to make your body:

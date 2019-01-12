@@ -35,7 +35,7 @@ layout: default
   <div class='section u-py4'>
     <div class='section-row'>
       <div class='section-chunk u-size9of16 u-px2 u-xs-sizeFull'>
-        <img src='/uploads/dr-carlos-marciales-surgery.jpg' alt='Dr. Carlos Marciales' />
+        <img src='/uploads/dr-carlos-marciales-surgery.png' alt='Dr. Carlos Marciales' />
       </div>
       <div class='section-chunk u-size7of16 u-px2 u-xs-sizeFull'>
         <p class='u-textSecondary u-mb0'>

@@ -8,7 +8,7 @@ seo:
 layout: default
 ---
 
-<div class='hero' data-cover='dr-galvez-plastic-surgery'>
+<div class='hero hero--marcialesPlastics'>
   <div class='hero-wrap'>
     <div class='hero-caption u-alignBottom'>
       <div class='hero-box hero-box--transparent u-size4of9 u-xs-sizeFull'>

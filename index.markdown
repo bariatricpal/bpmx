@@ -147,9 +147,7 @@ layout: default
             </li>
             <li class="borderedList-item">
               Meet your - Plastic Surgery Team
-              <a href='/plastic-surgeries/dr-alejandro-galvez'>
-                Dr. Alejandro Galvez
-              </a> and <a href='/plastic-surgeries/dr-carlos-marciales'>
+              <a href='/plastic-surgeries/dr-carlos-marciales'>
                 Dr. Carlos Marciales
               </a>
               <span class='icon icon--triangle u-right'></span>

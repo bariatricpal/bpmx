@@ -109,7 +109,7 @@ layout: default
           Your Best Body
         </h3>
         <p>
-          We understand that one or more trouble spots can prevent you from being completely satisfied with your body. BariatricPal Hospital MX does plastic and cosmetic surgery daily. We are ready to help you achieve your best body, and we have the experience to back it up. Dr. Alejandro Galvez has performed over 2000 surgeries, with 0 fatalities.
+          We understand that one or more trouble spots can prevent you from being completely satisfied with your body. BariatricPal Hospital MX does plastic and cosmetic surgery daily. We are ready to help you achieve your best body, and we have the experience to back it up. Dr. Carlos Marciales has performed over 3,000 plastic surgery procedures.
         </p>
         <p>We offer a range of surgeries to meet your needs.</p>
         <ul class='unorderedList'>

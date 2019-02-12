@@ -46,7 +46,7 @@ layout: default
         </h1>
         <p class='t3 u-textPrimary u-mt0'>
           Top-Ranked, Board-Certified,
-          Extensively Experienced Surgeon in Mexico
+          Extensively Experienced Plastic Surgeon in Mexico
         </p>
         <p>
           From first contact with your surgical team to your post-op care back at home, you're in the best of hands. Don't settle for anything less than excellence.

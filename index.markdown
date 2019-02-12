@@ -12,7 +12,7 @@ google-site-verification: vkTe1mgxZZNIWkWXlNmcokinS-Dr72tX0BY_t2Ztf1w
 layout: default
 ---
 
-<div class='hero hero--home'>
+<div class='hero hero--home' style="background-image: url(/uploads/hospital-team-7a9123.jpg)">
   <div class='hero-wrap'>
     <div class='hero-caption u-alignBottom'>
       <div class='hero-box hero-box--transparent js-slides'>

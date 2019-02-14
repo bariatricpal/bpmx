@@ -215,9 +215,6 @@ layout: default
             Member, American Society of Metabolic and Bariatric Surgery (ASMBS)
           </li>
           <li class='checkList-item'>
-            Member, International Federation For The Surgery Of Obesity And Metabolic Disorders (IFSO)
-          </li>
-          <li class='checkList-item'>
             Member, Hospital Ethics Committee at Regional Hospital IMSS No. 1
           </li>
           <li class='checkList-item'>

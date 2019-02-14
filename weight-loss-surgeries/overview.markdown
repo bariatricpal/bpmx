@@ -163,9 +163,6 @@ layout: default
           <li class='orderedList-item'>
             On June 27th, 2017, Dr. Illan was admitted as an international member of the American Society of Metabolic and Bariatric Surgery (ASMBS).
           </li>
- <li class='orderedList-item'>
-            Dr. Illan is an official regular member of the International Federation For The Surgery Of Obesity And Metabolic Disorders (IFSO) in good standing with all the rights and privileges pertaining thereof.
-          </li>
           <li class='orderedList-item'>
             On December 5th, 2016, Dr. Illan was voted as one of the BEST Weight Loss Surgeons in Tijuana by his surgical peers!
           </li>

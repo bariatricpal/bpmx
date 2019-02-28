@@ -8,7 +8,7 @@ seo:
     team - anywhere.
 surgery_types:
 - description: Roux-en-Y Gastric Bypass Surgery
-  price: "$6000"
+  price: "$5999"
 subtitle: Only one incision is made through belly button.
 image: "/uploads/or-9.png"
 surgery_excerpt:

@@ -15,7 +15,7 @@ surgery_excerpt:
     world. BariatricPal Hospital MX’s surgeons are recognized and proven experts in
     Laparoscopic Gastric Sleeve surgery.
   cover: or-1
-  price: "$4600"
+  price: "$4999"
 surgery_facts: |-
   ### Advantages of the Gastric Sleeve Surgery
   * Less risk of nutritional deficiencies compared to Roux-en-Y gastric bypass.

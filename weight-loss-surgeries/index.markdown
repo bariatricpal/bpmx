@@ -22,7 +22,6 @@ Choose from 5 different bariatric surgeries to start you on your weight loss jou
 </div>
 </div>
 </div>
-
 <div class='wrap'>
 <div class='section u-py4'>
 <table class='section-table'>
@@ -195,4 +194,5 @@ Let’s get started!
 </div>
 </div>
 </div>
+
 </div>

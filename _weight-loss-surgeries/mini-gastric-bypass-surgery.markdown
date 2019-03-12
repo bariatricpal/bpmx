@@ -7,7 +7,7 @@ seo:
     not find a more experienced Mini-Gastric Bypass surgical team - anywhere.
 surgery_types:
 - description: Mini-Gastric Bypass Surgery
-  price: "$5600"
+  price: "$5900"
 subtitle: Also called the omega loop weight loss surgery and single anastomosis bypass.
 image: "/uploads/or-9.png"
 surgery_excerpt:
@@ -16,7 +16,7 @@ surgery_excerpt:
     very popular and suitable for patients that have regained with other weight loss
     procedures.
   cover: or-3
-  price: "$5600"
+  price: "$5900"
 surgery_facts: |-
   ### Advantages of the Mini Gastric Bypass
   * The procedure can be performed quickly, in 30 to 60 minutes.

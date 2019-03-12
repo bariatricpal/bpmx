@@ -8,7 +8,7 @@ seo:
     team - anywhere.
 surgery_types:
 - description: Roux-en-Y Gastric Bypass Surgery
-  price: "$5999"
+  price: "$6900"
 subtitle: Only one incision is made through belly button.
 image: "/uploads/or-9.png"
 surgery_excerpt:
@@ -16,7 +16,7 @@ surgery_excerpt:
     bypass weight loss surgery performed today. It is usually laparoscopic and is
     reversible, if necessary.
   cover: or-3
-  price: "$6000"
+  price: "$6900"
 surgery_facts: |-
   ### Advantages of the Roux-en-Y Gastric Bypass
   * No bands, staples or other foreign objects in your body

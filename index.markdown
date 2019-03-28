@@ -139,16 +139,20 @@ layout: default
           </p>
           <ul class='borderedList'>
             <li class="borderedList-item">
-              Meet your -
-              <a href='/weight-loss-surgeries/overview'>
-                Weight Loss Surgery Team
+              Meet your WLS Team -
+              <a href='/weight-loss-surgeries/dr-jalil-illan'>
+                Dr. Illan
+              </a>
+              &
+              <a href='/weight-loss-surgeries/dr-carlos-vila'>
+                Dr. Vila
               </a>
               <span class='icon icon--triangle u-right'></span>
             </li>
             <li class="borderedList-item">
-              Meet your - Plastic Surgery Team
+              Meet your Plastic Surgery Team -
               <a href='/plastic-surgeries/dr-carlos-marciales'>
-                Dr. Carlos Marciales
+                Dr. Marciales
               </a>
               <span class='icon icon--triangle u-right'></span>
             </li>

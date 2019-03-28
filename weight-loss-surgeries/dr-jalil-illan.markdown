@@ -1,5 +1,5 @@
 ---
-title: Weight Loss Surgery Overview
+title: Weight Loss Surgery Overview - Dr. Jalil Illan
 position: 2
 seo:
   title: Affordable Weight Loss Surgery in Tijuana, Mexico
@@ -137,7 +137,7 @@ layout: default
         <p>
           He is a recognized expert in laparoscopic surgery who has performed over 5,500 laparoscopic procedures, 4,000 bariatric surgeries and took part in over 9,000 metabolic and bariatric surgical procedures.
         </p>
-        <a href='/weight-loss-surgeries/credentials'>
+        <a href='/weight-loss-surgeries/credentials-dr-jalil-illan'>
           View Dr. Illan's Credentials
         </a>
         <div class='card u-mt4'>

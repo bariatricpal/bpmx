@@ -102,7 +102,6 @@ analytics: |-
     gtag('js', new Date());
     gtag('config', 'UA-39899338-5');
   </script>
-  <meta name="msvalidate.01" content="A59C569EBBC8926B1E036E967DAEDE7C" />
 pixel: |-
   <!-- Facebook Pixel Code -->
   <script>

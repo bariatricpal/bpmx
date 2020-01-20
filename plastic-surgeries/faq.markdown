@@ -1,5 +1,6 @@
 ---
 title: Plastic Surgery FAQ
+published: false
 position: 10
 seo:
   title: Plastic, Aesthetic and Reconstructive Surgeries FAQ

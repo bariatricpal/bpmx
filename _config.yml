@@ -1,5 +1,5 @@
 ---
-title: 'BariatricPal Hospital MX: Bariatric & Plastic Surgery in Mexico'
+title: 'BariatricPal Hospital MX: The Most Experienced Bariatric Surgeons in Mexico'
 timezone: UTC
 collections:
   packages:
@@ -79,7 +79,7 @@ exclude:
 - package.json
 - node_modules
 - gulpfile.js
-description: 'The Most Experienced Bariatric & Plastic Surgeons in Mexico. Feel comfortable
+description: 'The Most Experienced Bariatric Surgeons in Mexico. Feel comfortable
   with our internationally recognized surgical experts in laparoscopic surgery and
   reconstructive procedures. '
 twitter:

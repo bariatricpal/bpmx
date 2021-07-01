@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {{site.pixel}}
+
+    {% include snippets/fb-sdk.html %}
+
+    <div class='main'>
+      {% include nav-bar.html %}
+
+      {{ content }}
+
+      {% include footer.html %}
+    </div>
+    <link rel="stylesheet" href='{{ "app.css" | prepend: site.assetpath }}'>
+    <script async src='{{ "all.min.js" | prepend: site.assetpath }}'></script>
+    {% include snippets/tawk-to.html %}
+
+    {{site.adroll}}
+    {{site.perfect-audience}}
+  </body>
+</html>

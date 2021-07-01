@@ -1,0 +1,16 @@
+.notice {
+  padding: 150px 0;
+  background-color: $pal-white;
+}
+
+.notice-body {
+  width: 65%;
+  margin: 0 auto;
+  text-align: center;
+
+  @include respond-max($screen-xxs-max) {
+    br {
+      display: none;
+    }
+  }
+}

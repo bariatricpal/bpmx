@@ -1,0 +1,31 @@
+// ==========================================================================
+// Form utilities
+// ==========================================================================
+
+
+// Restore default browser focus styles
+
+@mixin default-focus {
+    // Default
+    outline: thin dotted #333;
+    // Webkit
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+
+// Helper for declaring placeholder styles on inputs
+
+@mixin placeholder {
+
+    &:-moz-placeholder {
+        @content;
+        opacity: 1; // See https://github.com/twbs/bootstrap/pull/11526
+    }
+    &:-ms-input-placeholder {
+        @content;
+    }
+    &::-webkit-input-placeholder {
+        @content;
+    }
+}

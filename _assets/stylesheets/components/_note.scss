@@ -1,0 +1,27 @@
+.note {
+  position: relative;
+
+  &:before {
+    content: '';
+    display: block;
+    width: 15%;
+    height: 0;
+    margin: 50px 0 20px 0;
+    border-bottom: 3px solid transparent;
+  }
+}
+
+@mixin note-variant($color) {
+
+  &:before {
+    border-color: $color !important;
+  }
+}
+
+.note--default {
+  @include note-variant($pal-white);
+}
+
+.note--primary {
+  @include note-variant($color-primary);
+}

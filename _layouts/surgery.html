@@ -1,0 +1,132 @@
+---
+layout: default
+---
+
+<div class='wrap'>
+  <div class='section u-py6'>
+    <div class='section-row'>
+      <div class='section-chunk u-size5of13 u-px4 u-mAuto u-sm-size10of12 u-sm-alignCenter u-sm-clear'>
+        <h1 class='u-mt1'>
+          <strong>
+            {{page.title}}
+          </strong>
+        </h1>
+        <h3>
+          {{page.subtitle}}
+        </h3>
+        <img src='{{page.image}}' alt='page.title'/>
+        <p class='u-mb0'>
+          Back to:
+        </p>
+        {% if page.id contains 'weight-loss-surgeries' %}
+          <a href='/weight-loss-surgeries'>
+            Weight Loss Surgeries
+          </a>
+        {% else %}
+          <a href='/plastic-surgeries'>
+            Plastic, Aesthetic and<br/>
+            Reconstructive Surgeries
+          </a>
+        {% endif %}
+
+        {% if page.id contains 'weight-loss-surgeries' %}
+          <div class='card u-mt4 u-p3 u-sm-hidden'>
+            <h3 class='u-mt0'>
+              <strong>
+                It’s Better<br/>
+                with a Buddy!
+              </strong>
+            </h3>
+            <p>
+              Do you have a friend or family member who is going to get weight loss surgery? Do it together!
+            </p>
+            <ul class='unorderedList'>
+              <li class='unorderedList-item'>Save $100 per surgery.</li>
+              <li class='unorderedList-item'>Share a large double room at the hospital.</li>
+              <li class='unorderedList-item'>Share the hotel room with two queen-sized beds.</li>
+              <li class='unorderedList-item'>A friend or family member experiencing the exact same things as you.</li>
+            </ul>
+            <p>
+              Support each other in Mexico and have a weight loss surgery twin for life!
+            </p>
+          </div>
+        {% endif %}
+
+      </div>
+      <div class='section-chunk u-size8of13 u-px4 u-sm-sizeFull u-sm-mt3'>
+        <div class='article'>
+          {{page.content | markdownify}}
+
+          {% if page.surgery_types %}
+            <div class='article-priceList'>
+              {% for type in page.surgery_types %}
+                <div class='box u-mb1'>
+                  <strong class='u-size2of16 u-left u-xs-size3of16'>
+                    {{type.price}}
+                  </strong>
+                  <p class='u-size14of16 u-m0 u-left u-pl1 u-xs-size11of16'>
+                    {{type.description}}
+                  </p>
+                </div>
+              {% endfor %}
+              {% if page.id contains 'weight-loss-surgeries' %}
+                {% if page.aditional_fee %}
+                  <div class='box u-mb1'>
+                    <p class='t-smaller u-textSecondary'>
+                      There is an additional fee of $500 for BMI’s
+                      49 to 69 and $1000 for BMI 70+
+                    </p>
+                  </div>
+                {% endif %}
+              {% endif %}
+            </div>
+          {% endif %}
+
+          {% if page.surgery_facts %}
+            <div class='article-facts'>
+              {{page.surgery_facts | markdownify}}
+            </div>
+          {% endif %}
+        </div>
+        <div class='u-mt4'>
+          <h1 class='u-textPrimary'>
+            <strong>Financing:</strong>
+          </h1>
+          <p class='u-mb3'>
+            The cost of {% if page.id contains 'weight-loss-surgeries' %}bariatric{% else %}plastic or reconstructive{% endif %} surgery is prohibitive for many patients who would otherwise benefit from treatment. Medical tourism is a safe and effective choice to reduce the high cost of expensive surgical procedures, especially when your insurance doesn't cover weight loss surgery. At BariatricPal Hospital MX, you can easily afford your weight loss procedures and achieve your weight loss goals with our financing and payment plan options.
+          </p>
+          <p>
+            <strong>
+              We have exclusive partnerships with two finance companies:
+            </strong>
+          </p>
+          <ul class='unorderedList'>
+            <li class='unorderedList-item'>
+              <span class='icon icon--us u-mr1'></span>
+              <span class='u-xxs-hidden'>For US patients:</span>
+              <a class='u-right' href="https://www.unitedmedicalcredit.com/start-an-application/?pid=001E000001A4l7u" target='_blank'>
+                United Medical Credit
+              </a>
+            </li>
+            <li class='unorderedList-item'>
+              <span class='icon icon--canada u-mr1'></span>
+              <span class='u-xxs-hidden'>For Canadian patients:</span>
+              <a class='u-right' href='https://www.medicard.com/apply-now.php' target='_blank'>
+                MediCard
+              </a>
+            </li>
+          </ul>
+          <p class='u-mt3'>
+            If you're considering surgery to improve your health and appearance, but you're concerned with the associated costs, please contact us to schedule a financing consultation. Weight loss surgery is a life-saving procedure. Our experts will help you find a plan that works with your budget so you can enjoy a healthier, more productive life.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% if page.url contains 'weight-loss-surgeries' %}
+    {% assign pageId = 'wls' %}
+  {% else %}
+    {% assign pageId = 'plastics' %}
+  {% endif %}
+  {% include packages.html id=pageId %}
+</div>

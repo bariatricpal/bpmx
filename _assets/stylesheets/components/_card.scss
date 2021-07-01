@@ -1,0 +1,16 @@
+.card {
+  position: relative;
+  padding: 40px;
+  border: 1px solid rgba($pal-black, 0.1);
+  border-radius: $borderRadius-base;
+  overflow: hidden;
+
+  &:after {
+    content: '';
+    @include triangle(20px, $pal-green, right);
+    position: absolute;
+    bottom: -20px;
+    right: -5px;
+    transform: rotate(45deg);
+  }
+}

@@ -40,7 +40,7 @@ layout: default
   <div class='section u-py4'>
     <div class='section-row'>
       <div class='section-chunk u-size10of16 u-px2 u-xs-sizeFull'>
-        <a class='ctrl ctrl--play ctrl--playPrimary' href='#qctIbDMqjNM'>
+        <a class='ctrl ctrl--play ctrl--playPrimary' href='#813DEV84Ioc'>
           <img src='/uploads/alex-brecher-video.png' />
         </a>
       </div>

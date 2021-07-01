@@ -1,0 +1,14 @@
+.btn {
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: $borderRadius-base;
+  background-color: $pal-green;
+  text-decoration: none;
+  color: $pal-white;
+  transition: all 0.2s;
+
+  &:hover {
+    background-color: darken($pal-green, 5%);
+    color: $pal-white;
+  }
+}

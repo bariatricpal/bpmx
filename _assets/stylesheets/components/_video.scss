@@ -1,0 +1,27 @@
+.video {
+  padding: 10px;
+  border: 1px solid rgba($pal-black, 0.1);
+  border-radius: $borderRadius-base;
+}
+
+.video-text {
+  @include cf;
+  padding: 5px 10px 0 10px;
+  font-size: $fontSize-smaller;
+}
+
+.video-link {
+  color: $color-primary;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.video-title {
+  max-width: 70%;
+  float: left;
+  margin-top: 0;
+  color: rgba($pal-black, 0.6);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

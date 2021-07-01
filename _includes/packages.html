@@ -1,0 +1,29 @@
+{% if include.id == 'wls' %}
+  {% assign posts = site.packages | where:"title", "Weight Loss Surgery Package"%}
+{% else %}
+  {% assign posts = site.packages | where:"title", "Plastic Surgery Package"%}
+{% endif %}
+
+{% for post in posts %}
+  <div class='section u-py6'>
+    <div class='section-row'>
+      <div class='section-chunk u-size2of5 u-px2 u-xs-size10of12 u-xxs-sizeFull'>
+        <h1 class='u-mt0'>
+          {{post.intro.title}}
+        </h1>
+        <p class='t3 u-textPrimary note note--primary'>
+          {{post.intro.subtitle}}
+        </p>
+      </div>
+      <div class='section-chunk u-size3of5 u-px4 u-pr2 u-xs-sizeFull u-xs-pl2 u-xs-mt3'>
+        <div class='list'>
+          {% for section in post.sections %}
+            <h3>{{section.title}}</h3>
+            {{ section.content | markdownify }}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+

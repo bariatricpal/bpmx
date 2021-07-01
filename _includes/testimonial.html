@@ -1,0 +1,25 @@
+{% if testimonial.type == 'text'%}
+  <div class='box u-mb3'>
+    <p class='t-small u-m0 u-mb3'>
+      {{testimonial.content}}
+    </p>
+    <p class='t-small u-m0'>
+      — {{testimonial.name}}
+    </p>
+  </div>
+{% else %}
+  <div class='video u-mb3'>
+    <div class='video-cover'>
+      <img src='{{testimonial.videoCover}}' alt='{{testimonial.name}} testimonial'/>
+    </div>
+    <div class='video-text'>
+      <p class='u-textSecondary u-m0 u-left'>
+        {{testimonial.name}}
+      </p>
+      <a class='video-link u-right' href="{{testimonial.videoUrl}}">
+        <span class='icon icon--play'></span>
+        Play
+      </a>
+    </div>
+  </div>
+{% endif %}

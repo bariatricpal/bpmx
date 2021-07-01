@@ -1,0 +1,88 @@
+// Pallete
+// ----------------------------------------------------------------------------
+
+$pal-white:             rgb(255,255,255);
+$pal-black:             rgb(0,0,0);
+
+$pal-red:               #ED2324;
+$pal-green:             #3BB54A;
+
+$pal-gray100:           #f0f0ee;
+$pal-gray90:            #efefed;
+$pal-gray80:            #d7d7d5;
+$pal-gray70:            #bfbfbd;
+$pal-gray60:            #a7a7a5;
+$pal-gray50:            #8f8f8e;
+$pal-gray40:            #777776;
+$pal-gray30:            #5f5f5e;
+$pal-gray20:            #474747;
+$pal-gray10:            #2f2f2f;
+
+
+// Colors
+// ----------------------------------------------------------------------------
+
+$color-primary:         $pal-green;
+
+
+// Typefaces
+// ----------------------------------------------------------------------------
+
+$fontFamily-sans: 'Open Sans', Helvetica, Arial, sans-serif;
+
+// Font size & line height
+// ----------------------------------------------------------------------------
+
+
+$fontSize-smaller:      13px                                          !default;
+$fontSize-small:        14px                                          !default;
+
+$fontSize-base:         16px                                          !default;
+
+$fontSize-large:        18px                                          !default;
+$fontSize-larger:       24px                                          !default;
+$fontSize-largest:      26px                                          !default;
+$fontSize-mega:         36px                                          !default;
+$fontSize-giga:         48px                                          !default;
+
+$fontSize--h4:          $fontSize-large                               !default;
+$fontSize--h3:          $fontSize-larger                              !default;
+$fontSize--h2:          $fontSize-largest                             !default;
+$fontSize--h1:          $fontSize-mega                                !default;
+
+
+$fontWeight-bold:       600                                           !default;
+$fontWeight-regular:    400                                           !default;
+$fontWeight-light:      300                                           !default;
+
+$lineHeight-small:      1.2em                                         !default;
+$lineHeight-base:       1.5em                                         !default;
+
+// Grid
+// ----------------------------------------------------------------------------
+
+$max-width:             1200px;
+$grid-columns:          16;
+
+// Border Radii
+// ----------------------------------------------------------------------------
+
+$borderRadius-base:     3px                                           !default;
+$borderRadius-large:    9px                                           !default;
+
+
+// Breakpoints
+// ----------------------------------------------------------------------------
+
+$screen-xs:             480px                                         !default;
+$screen-sm:             760px                                         !default;
+$screen-md:             960px                                         !default;
+$screen-lg:             1024px                                        !default;
+
+$screen-xxs-max:        ($screen-xs - 1)                              !default;
+$screen-xs-max:         ($screen-sm - 1)                              !default;
+$screen-sm-max:         ($screen-md - 1)                              !default;
+$screen-md-max:         ($screen-lg - 1)                              !default;
+
+$minWidth:              $screen-md                                    !default;
+$maxWidth:              $screen-lg                                    !default;

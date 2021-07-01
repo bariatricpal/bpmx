@@ -1,0 +1,169 @@
+---
+title: 'BariatricPal Hospital MX: The Most Experienced Bariatric Surgeons in Mexico'
+timezone: UTC
+collections:
+  packages:
+    title: Packages
+    output: true
+  plastic-surgeries:
+    title: Plastic Surgeries
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  weight-loss-surgeries:
+    title: Weight Loss Surgeries
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: plastic-surgeries
+  values:
+    layout: surgery
+    seo:
+      title: ''
+      description: ''
+    twitter:
+      image: 'upload size: 120x120'
+    facebook:
+      image: 'upload size: 600x315'
+    surgery_types:
+    - description: Fill in description
+      price: "$0.00"
+- scope:
+    path: ''
+    type: weight-loss-surgeries
+  values:
+    layout: surgery
+    seo:
+      title: ''
+      description: ''
+    twitter:
+      image: 'upload size: 120x120'
+    facebook:
+      image: 'upload size: 600x315'
+    surgery_types:
+    - description: Fill in description
+      price: "$0.00"
+- scope:
+    path: ''
+    type: packages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    seo:
+      title: ''
+      description: ''
+    twitter:
+      image: 'upload size: 120x120'
+    facebook:
+      image: 'upload size: 600x315'
+permalink: pretty
+assetpath: "/assets/"
+exclude:
+- ".assets-cache"
+- ".sass-cache"
+- ".gitignore"
+- README*
+- Gemfile
+- Gemfile.lock
+- bower.json
+- bower_components
+- package.json
+- node_modules
+- gulpfile.js
+description: 'The Most Experienced Bariatric Surgeons in Mexico. Feel comfortable
+  with our internationally recognized surgical experts in laparoscopic surgery and
+  reconstructive procedures. '
+twitter:
+  image: 'upload size: 120x120'
+facebook:
+  image: 'upload size: 600x315'
+copyright: "© Copyright current_year BariatricPal MX LLC."
+menu:
+  wls: BariatricPal Hospital MX's patient care team goes above and beyond anyone else.
+  plastics: BariatricPal Hospital MX's patient care team goes above and beyond anyone
+    else.
+  testimonials: Hear what satisfied patients say about BariatricPal Hospital MX and
+    Staff
+analytics: |-
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39899338-5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-39899338-5');
+  </script>
+pixel: |-
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1191398090927151');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1191398090927151&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+  <!-- Adwords tag for phone calls from website -->
+  <script type="text/javascript">
+  (function(a,e,c,f,g,h,b,d){var k={ak:"1046470981",cl:"k9stCIvR7msQxcL_8gM",autoreplace:"(844) 957-3325"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
+  </script>
+  <!-- End Adwords tag for phone calls from website -->
+bing: |-
+  <!-- Bing Ads UET tag tracking code -->
+  <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5512042"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5512042&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+  <!-- End Bing Ads UET tag tracking code -->
+adroll: |-
+  <!-- BariatricPal Hospital MX's AdRoll Pixel -->
+  <script type="text/javascript">
+      adroll_adv_id = "A5DLSFPA55EH3FZYBAEZQA";
+      adroll_pix_id = "LPN6RYBQ2NBOBCKH5V6IMO";
+      /* OPTIONAL: provide email to improve user identification */
+      /* adroll_email = "username@example.com"; */
+      (function () {
+          var _onload = function(){
+              if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+              if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+              var scr = document.createElement("script");
+              var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+              scr.setAttribute('async', 'true');
+              scr.type = "text/javascript";
+              scr.src = host + "/j/roundtrip.js";
+              ((document.getElementsByTagName('head') || [null])[0] ||
+                  document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+          };
+          if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+          else {window.attachEvent('onload', _onload)}
+      }());
+  </script>
+  <!-- End BariatricPal Hospital MX's AdRoll Pixel -->
+perfect-audience: |-
+  <!-- PerfectAudience -->
+  <script type="text/javascript">
+    (function() {
+      window._pa = window._pa || {};
+      // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+      // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+      // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+      var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+      pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/586dc11e568ab7b0f600010e.js";
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+    })();
+  </script>
+  <!-- End PerfectAudience -->

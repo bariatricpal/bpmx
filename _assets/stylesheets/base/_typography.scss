@@ -1,0 +1,57 @@
+body {
+  font-family: $fontFamily-sans;
+  font-size: $fontSize-base;
+  font-weight: $fontWeight-regular;
+  line-height: $lineHeight-base;
+  -webkit-font-smoothing: antialiased;
+
+  @include respond-max($screen-sm-max) {
+    font-size: $fontSize-small;
+  }
+}
+
+h1, .t1 {
+  font-size: $fontSize--h1;
+  font-weight: $fontWeight-regular;
+  line-height: $lineHeight-small;
+
+  @include respond-max($screen-sm-max) {
+    font-size: $fontSize--h2;
+  }
+}
+
+h3, .t3 {
+  font-size: $fontSize--h3;
+  font-weight: $fontWeight-regular;
+  line-height: $lineHeight-base;
+
+  @include respond-max($screen-sm-max) {
+    font-size: $fontSize--h4;
+  }
+}
+
+h4, .t4 {
+  font-size: $fontSize--h4;
+  font-weight: $fontWeight-regular;
+  line-height: $lineHeight-base;
+
+  @include respond-max($screen-sm-max) {
+    font-size: $fontSize-base;
+  }
+}
+
+.t-large {
+  font-size: $fontSize-giga;
+
+  @include respond-max($screen-sm-max) {
+    font-size: $fontSize--h1;
+  }
+}
+
+.t-small {
+  font-size: $fontSize-small;
+}
+
+.t-smaller {
+  font-size: $fontSize-smaller;
+}

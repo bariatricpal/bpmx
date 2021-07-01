@@ -1,0 +1,9 @@
+{
+  "name": "bariatric",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "normalize-css": "~4.1.1",
+    "jquery": "~2.2.3"
+  }
+}

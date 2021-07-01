@@ -1,0 +1,30 @@
+.main {
+  padding-top: 180px;
+  transition: transform 0.2s;
+
+  .has-side-menu & {
+    transform: translateX(-260px) translateY(0);
+  }
+
+  @include respond-max($screen-sm-max) {
+    padding-top: 115px;
+  }
+}
+
+.wrap {
+  max-width: $maxWidth;
+  margin: 0 auto;
+}
+
+a {
+  color: $color-primary;
+  transition: color 0.2s;
+
+  &:hover {
+    color: darken($color-primary, 10%);
+  }
+
+  &:active {
+    color: darken($color-primary, 10%);
+  }
+}

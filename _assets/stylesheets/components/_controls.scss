@@ -1,0 +1,80 @@
+.ctrl {
+  display: block;
+}
+
+.ctrl--play {
+  position: relative;
+
+  &:after {
+    content: '▶';
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: rgba($pal-green, 0.8);
+    color: $pal-white;
+    text-align: center;
+    line-height: 100px;
+    transition: background-color 0.2s;
+  }
+
+  &:hover:after {
+    background-color: rgba($pal-green, 1);
+  }
+}
+
+
+.ctrl--playPrimary {
+  position: relative;
+
+  &:before {
+    content: '▶';
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    width: 250px;
+    height: 60px;
+    padding: 0 20px;
+    border-radius: 40px;
+    background-color: rgba($pal-red, 0.8);
+    color: $pal-white;
+    text-align: right;
+    line-height: 60px;
+    transition: background-color 0.2s;
+  }
+
+  &:after {
+    content: 'PLAY VIDEO';
+    color: $pal-white;
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    width: 250px;
+    height: 60px;
+    padding: 0 20px;
+    border-radius: 40px;
+    background-color: transparent;
+    color: $pal-white;
+    text-align: left;
+    line-height: 60px;
+    font-weight: $fontWeight-bold;
+  }
+
+  &:hover:after {
+    background-color: transparent;
+  }
+
+  &:hover:before {
+    background-color: rgba($pal-red, 1);
+  }
+
+  @include respond-max($screen-xs-max) {
+
+    &:before,
+    &:after {
+      width: 200px;
+    }
+  }
+}

@@ -1,0 +1,98 @@
+/**
+ * A thin layer on top of normalize.css that provides a starting point more
+ * suitable for web applications. Removes the default spacing and border for
+ * appropriate elements.
+ */
+
+html {
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  color: inherit;
+}
+
+body {
+  width: 100%;
+  min-height: 100%;
+}
+
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+dl,
+menu,
+ol,
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+a {
+  cursor: pointer;
+
+  &:active {
+    outline: none;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &[href^="tel:"] {
+    color: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+  }
+}
+
+input[type="search"] {
+  @include appearance(none);
+  box-sizing: border-box;
+}
+
+select {
+  @include appearance(none);
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+/**
+ * Suppress the focus outline on links that cannot be accessed via keyboard.
+ * This prevents an unwanted focus outline from appearing around elements that
+ * might still respond to pointer events.
+ */
+
+[tabindex="-1"]:focus {
+  outline: none !important;
+}
+
+/**
+ * Hide IE input clear button.
+ */
+
+::-ms-clear {
+  display: none;
+}
